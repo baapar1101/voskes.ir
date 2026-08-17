@@ -1,0 +1,35 @@
+{
+	"slug": "jelly-chicken-with-vegetables",
+	"sku": "20563",
+	"gtin13": "8711242016798",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with chicken and vegetables is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken, filling cans and adding toppings are all done manually. This delicious gluten-free chicken-based jelly treat is a real treat for any cat ! \",\n    \"name\": \"JELLY CHICKEN   WITH VEGETABLES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20563_jelly_chicken_with_vegetables_blik.png\",\n    \"sku\": \"20563\",\n    \"gtin13\": \"8711242016798\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "ژله مرغ با سبزیجات | Voskes",
+	"heading": "JELLY CHICKEN  WITH VEGETABLES",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ و سبزیجات است. خوراکی واقعی برای هر گربه‌ای!",
+	"bodyDescription": "This delicious jelly treat made with chicken and vegetables is a veritable delicacy for every cat!The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken, filling cans and adding toppings are all done manually. This delicious gluten-free chicken-based jelly treat is a real treat for any cat !",
+	"ogTitle": "ژله مرغ با سبزیجات | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ و سبزیجات است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-chicken-with-vegetables",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20563_jelly_chicken_with_vegetables_blik.webp",
+			"alt": "JELLY CHICKEN WITH VEGETABLES | JELLY WETFOOD CHICKEN WITH VEGETABLES | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20563_jelly_chicken_with_vegetables1.webp",
+			"alt": "JELLY CHICKEN WITH VEGETABLES | JELLY WETFOOD CHICKEN WITH VEGETABLES | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۸۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242016798",
+	"composition": "chicken 35%, carrots 2%, pumpkin 2%, rice 1,5%, vegetable gelatine 1%",
+	"analyticalComponents": "moisture 87%, crude protein 10%, crude ash 1,0%, crude oils & fats 0,8%, crude fibre 0,5%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

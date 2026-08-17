@@ -1,0 +1,35 @@
+{
+	"slug": "white-rawhide-ball-with-chicken",
+	"sku": "17648",
+	"gtin13": "87 112 42 93561 7",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" 6 BallS made from beef rawhide and chicken. Surprise your dog with this ball he can chew on for hours. \",\n    \"name\": \"WHITE RAWHIDE BALL WITH CHICKEN   6 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17648.png\",\n    \"sku\": \"17648\",\n    \"gtin13\": \"87 112 42 93561 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "توپ پوست خام سفید با مرغ | Voskes",
+	"heading": "WHITE RAWHIDE BALL WITH CHICKEN  6 PIECES",
+	"description": "این تشویقی سگ از پوست خام و مرغ ساخته شده؛ خوراکی‌ای که رفتار جویدن را تشویق و به سلامت دندان کمک می‌کند.",
+	"bodyDescription": "6 BallS made from beef rawhide and chicken. Surprise your dog with this ball he can chew on for hours.",
+	"ogTitle": "توپ پوست خام سفید با مرغ | Voskes",
+	"ogDescription": "این تشویقی سگ از پوست خام و مرغ ساخته شده؛ خوراکی‌ای که رفتار جویدن را تشویق و به سلامت دندان کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/white-rawhide-ball-with-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17648-p.webp",
+			"alt": "WHITE RAWHIDE BALL WITH CHICKEN - 6PCS | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17648-p.webp",
+			"alt": "WHITE RAWHIDE BALL WITH CHICKEN - 6PCS | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "150gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242935617",
+	"composition": "Beef rawhide 50%, rice flour 31.8%, pregelatinized starch 15%, glycerin 2.5%, salt 0.1%, yeast extract 0.5%, potassium sorbate 0.1%",
+	"analyticalComponents": "crude protein 63,0% - crude fibre 0,5% - crude fat 3,5% - crude ash 3,5% - moisture content 18,0%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

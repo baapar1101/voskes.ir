@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-fillet-strips-with-duck",
+	"sku": "14167",
+	"gtin13": "8711242954427",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Chicken fillet strips with duck is a tasty snack made from tender, dried chicken fillet, enriched with dried duck meat. Spoil your dog with this delicious treat. \",\n    \"name\": \"CHICKEN FILLET STRIPS WITH DUCK\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14167_-_chicken_fillet_strips_with_duck_400g-gs1-gs1_packshot-2064-60.png?v=bUfzL6\",\n    \"sku\": \"14167\",\n    \"gtin13\": \"8711242954427\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "نوارهای فیله مرغ با اردک | Voskes",
+	"heading": "نوارهای فیله مرغ با اردک",
+	"description": "نوارهای سینه مرغ Voskes با بره سرشار از پروتئین حیوانی است؛ بدون رنگ، طعم‌دهنده، نگهدارنده و شکر افزوده!",
+	"bodyDescription": "Voskes Chicken fillet strips with duck is a tasty snack made from tender, dried chicken fillet, enriched with dried duck meat. Spoil your dog with this delicious treat.",
+	"ogTitle": "نوارهای فیله مرغ با اردک | Voskes",
+	"ogDescription": "نوارهای سینه مرغ Voskes با بره سرشار از پروتئین حیوانی است؛ بدون رنگ، طعم‌دهنده، نگهدارنده و شکر افزوده!",
+	"canonical": "https://voskes.nl/products/chicken-fillet-strips-with-duck",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14167_-_chicken_fillet_strips_with_duck_400g-gs1-gs1_packshot-2064-60-p.webp?v=bUfzL6",
+			"alt": "CHICKEN FILLET STRIPS WITH DUCK |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14167_-_chicken_fillet_strips_with_duck_400g_inhoud-gs1-gs1_product-2064-60-p.webp?v=bUfzLW",
+			"alt": "CHICKEN FILLET STRIPS WITH DUCK |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242954427",
+	"composition": "Meat and animal derivatives (chicken 75%, duck 20%), derivatives of vegetable origin, minerals.",
+	"analyticalComponents": "Crude protein 47.6% - moisture 18% - crude ash 4.1% - crude oils and fats 7.7% - crude fibre 0.1%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

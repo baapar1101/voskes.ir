@@ -1,0 +1,35 @@
+{
+	"slug": "jelly-tuna-with-squid",
+	"sku": "19886",
+	"gtin13": "8711447890797",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and squid is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SQUID\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19886_tuna_with_squid_jelly_-_blk@2x.png\",\n    \"sku\": \"19886\",\n    \"gtin13\": \"8711447890797\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "ژله ماهی تن با ماهی مرکب | Voskes",
+	"heading": "ژله ماهی تن  با ماهی مرکب",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و ماهی مرکب است. خوراکی واقعی برای هر گربه‌ای!",
+	"bodyDescription": "This delicious jelly treat made with tuna and squid is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
+	"ogTitle": "ژله ماهی تن با ماهی مرکب | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و ماهی مرکب است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-squid",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19886_tuna_with_squid_jelly_-_blk@2x-p.webp",
+			"alt": "JELLY TUNA WITH SQUID | JELLY WETFOOD TUNA WITH SQUID | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19886_tuna_with_squid_jelly@2x-p.webp",
+			"alt": "JELLY TUNA WITH SQUID | JELLY WETFOOD TUNA WITH SQUID | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۸۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711447890797",
+	"composition": "tuna 51%, squid 6%, rice 1.5%, vegetable gelatine 0.75%.",
+	"analyticalComponents": "crude protein 12.5% - crude ash 0.8% - crude oils & fats 1.0% - crude fibre 0.5% - moisture 85%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

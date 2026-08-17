@@ -1,0 +1,35 @@
+{
+	"slug": "pressed-bone-305mm",
+	"sku": "17388",
+	"gtin13": "87 112 42 93649 2",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Pressed bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for large to very large breeds. \",\n    \"name\": \"PRESSED BONE   30,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17388.png\",\n    \"sku\": \"17388\",\n    \"gtin13\": \"87 112 42 93649 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "استخوان فشرده (XXL) | Voskes",
+	"heading": "PRESSED BONE  30,5CM",
+	"description": "استخوان فشرده از ۱۰۰٪ پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
+	"bodyDescription": "Pressed bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for large to very large breeds.",
+	"ogTitle": "استخوان فشرده (XXL) | Voskes",
+	"ogDescription": "استخوان فشرده از ۱۰۰٪ پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/pressed-bone-305mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17388-p.webp",
+			"alt": "PRESSED BONE 12\" (30,5CM) - 1PC | Geperst bot hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17388-p.webp",
+			"alt": "PRESSED BONE 12\" (30,5CM) - 1PC | Geperst bot hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936492",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

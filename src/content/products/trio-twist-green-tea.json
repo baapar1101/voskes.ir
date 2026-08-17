@@ -1,0 +1,35 @@
+{
+	"slug": "trio-twist-green-tea",
+	"sku": "17666",
+	"gtin13": "87 112 42 93599 0",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Trio Green Tea is a plait made from white cowhide, a tasty green tea-flavoured strip and rawhide. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"TRIO TWIST   GREEN TEA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17666-verpakking.png\",\n    \"sku\": \"17666\",\n    \"gtin13\": \"87 112 42 93599 0\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "پیچ سه‌تایی چای سبز | Voskes",
+	"heading": "TRIO TWIST  GREEN TEA",
+	"description": "پیچ دوتایی چای سبز خوراکی دوست چهارپای شماست؛ بافتی از پوست خام شفاف با نواری به طعم چای سبز.",
+	"bodyDescription": "The VOSKES Trio Green Tea is a plait made from white cowhide, a tasty green tea-flavoured strip and rawhide. A chewy and delicious snack. Its shape also helps to keep teeth clean.",
+	"ogTitle": "پیچ سه‌تایی چای سبز | Voskes",
+	"ogDescription": "پیچ دوتایی چای سبز خوراکی دوست چهارپای شماست؛ بافتی از پوست خام شفاف با نواری به طعم چای سبز.",
+	"canonical": "https://voskes.nl/products/trio-twist-green-tea",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17666-verpakking-p.webp",
+			"alt": "TRIO TWIST GREEN TEA | Kauwsnack hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17666-p.webp",
+			"alt": "TRIO TWIST GREEN TEA | Kauwsnack hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "130gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242935990",
+	"composition": "raw hide 60%, rice flour 15.9%, pregelatinized starch 15.3%, vegetableprotein5%, glycerin 3%, chlorophyll0.1%, multivitamin0.1%, yeast extract0.5%, potassium sorbate 0.1%",
+	"analyticalComponents": "crude protein 68% crude fibre 0,5% crude fat 3,5% crude ash 3,5% moisture content 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

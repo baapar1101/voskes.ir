@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_training-treats.content.html?raw';
+import headerHtml from './_training-treats.header.html?raw';
+import cookieBannerHtml from './_training-treats.cookie.html?raw';
+import footerHtml from './_training-treats.footer.html?raw';
+
+import rootVars from './_training-treats.root-vars.css?raw';
+import cookieboxCss from './_training-treats.cookiebox.css?raw';
+import utilityColors from './_training-treats.utility-colors.css?raw';
+---
+
+<Base
+	title="تشویقی آموزشی برای سگ شما با Voskes"
+	description="وقتی می‌خواهید سگتان را آموزش دهید یا در خانه حرکت تازه‌ای بیاموزید، خوراکی پاداش ضروری است! تشویقی آموزشی Voskes برای این کار ایده‌آل است."
+	canonical="https://voskes.nl/dog-treats/training-treats"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="تشویقی آموزشی برای سگ شما با Voskes"
+	ogDescription="وقتی می‌خواهید سگتان را آموزش دهید یا در خانه حرکت تازه‌ای بیاموزید، خوراکی پاداش ضروری است! تشویقی آموزشی Voskes برای این کار ایده‌آل است."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-sandwiches",
+	"sku": "19972",
+	"gtin13": "8711242014824",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This tasty chicken and fish-based cat snack is a delicious treat for kittens or adult cats. \",\n    \"name\": \"CHICKEN SANDWICHES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19972_chicken_sandwiches.png\",\n    \"sku\": \"19972\",\n    \"gtin13\": \"8711242014824\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "ساندویچ مرغ | Voskes",
+	"heading": "CHICKEN SANDWICHES",
+	"description": "ساندویچ مرغ Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
+	"bodyDescription": "This tasty chicken and fish-based cat snack is a delicious treat for kittens or adult cats.",
+	"ogTitle": "ساندویچ مرغ | Voskes",
+	"ogDescription": "ساندویچ مرغ Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
+	"canonical": "https://voskes.nl/products/chicken-sandwiches",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19972_chicken_sandwiches-p.webp",
+			"alt": "CHICKEN SANDWICHES | Kattensnacks kip en vis |  Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19972_chicken_sandwiches_-_inhoud-p.webp",
+			"alt": "CHICKEN SANDWICHES | Kattensnacks kip en vis |  Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014824",
+	"composition": "chicken 59.8%, fish 15%, vegetable proteins 8%, wheat flour 6%, tapioca starch 6%, glycerine 5%, salt 0.2%.",
+	"analyticalComponents": "crude protein 20% - moisture 20% - crude oils and fats 6,5% - crude ash 4,5% - crude fibres 2%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

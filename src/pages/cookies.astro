@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import bodyHtml from './_cookies.content.html?raw';
+import headerHtml from './_cookies.header.html?raw';
+import cookieBannerHtml from './_cookies.cookie.html?raw';
+import footerHtml from './_cookies.footer.html?raw';
+
+import rootVars from './_cookies.root-vars.css?raw';
+import cookieboxCss from './_cookies.cookiebox.css?raw';
+import utilityColors from './_cookies.utility-colors.css?raw';
+---
+
+<Base
+	title="کوکی‌های Voskes"
+	description="اطلاعاتی که کوکی‌ها فراهم می‌کنند به تحلیل پروفایل بازدیدکنندگان کمک می‌کند و امکان ارائه تجربه کاربری بهتر را به ما می‌دهد."
+	canonical="https://voskes.nl/cookies"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="کوکی‌های Voskes"
+	ogDescription="اطلاعاتی که کوکی‌ها فراهم می‌کنند به تحلیل پروفایل بازدیدکنندگان کمک می‌کند و امکان ارائه تجربه کاربری بهتر را به ما می‌دهد."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

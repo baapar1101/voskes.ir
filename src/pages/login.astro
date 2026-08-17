@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import bodyHtml from './_login.content.html?raw';
+import headerHtml from './_login.header.html?raw';
+import cookieBannerHtml from './_login.cookie.html?raw';
+import footerHtml from './_login.footer.html?raw';
+
+import rootVars from './_login.root-vars.css?raw';
+import cookieboxCss from './_login.cookiebox.css?raw';
+import utilityColors from './_login.utility-colors.css?raw';
+---
+
+<Base
+	title="ورود به بخش رسانه و مطبوعات Voskes"
+	description="در صفحه رسانه و مطبوعات می‌توانید فایل‌های Voskes درباره سگ و گربه را دانلود کنید. این محتوا برای انتشار درباره Voskes آزاد است."
+	canonical="https://voskes.nl/login"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="ورود به بخش رسانه و مطبوعات Voskes"
+	ogDescription="در صفحه رسانه و مطبوعات می‌توانید فایل‌های Voskes درباره سگ و گربه را دانلود کنید. این محتوا برای انتشار درباره Voskes آزاد است."
+	bodyClass="Login"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

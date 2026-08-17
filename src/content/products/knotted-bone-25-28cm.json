@@ -1,0 +1,35 @@
+{
+	"slug": "knotted-bone-25-28cm",
+	"sku": "17380",
+	"gtin13": "8711242936416",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for larger breeds. \",\n    \"name\": \"KNOTTED BONE   25-28CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17380.png\",\n    \"sku\": \"17380\",\n    \"gtin13\": \"8711242936416\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "استخوان گره‌دار | Voskes",
+	"heading": "KNOTTED BONE  25-28CM",
+	"description": "استخوان فشرده از ۱۰۰٪ پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
+	"bodyDescription": "Knotted bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for larger breeds.",
+	"ogTitle": "استخوان گره‌دار | Voskes",
+	"ogDescription": "استخوان فشرده از ۱۰۰٪ پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/knotted-bone-25-28cm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17380-p.webp",
+			"alt": "KNOTTED BONE 10-11\" (25-28CM) - 1PC | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17380-p.webp",
+			"alt": "KNOTTED BONE 10-11\" (25-28CM) - 1PC | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936416",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

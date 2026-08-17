@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import bodyHtml from './_contact.content.html?raw';
+import headerHtml from './_contact.header.html?raw';
+import cookieBannerHtml from './_contact.cookie.html?raw';
+import footerHtml from './_contact.footer.html?raw';
+
+import rootVars from './_contact.root-vars.css?raw';
+import cookieboxCss from './_contact.cookiebox.css?raw';
+import utilityColors from './_contact.utility-colors.css?raw';
+---
+
+<Base
+	title="با Voskes در تماس باشید"
+	description="می‌توانید از طریق فرم تماس با ما در ارتباط باشید."
+	canonical="https://voskes.nl/contact"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="با Voskes در تماس باشید"
+	ogDescription="می‌توانید از طریق فرم تماس با ما در ارتباط باشید."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

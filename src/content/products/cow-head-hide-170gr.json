@@ -1,0 +1,35 @@
+{
+	"slug": "cow-head-hide-170gr",
+	"sku": "16547",
+	"gtin13": "8711242939691",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" For the tough chewers! A natural, tough chewy product with no additives. Your dog can chew on it vigorously and this contributes to healthy teeth. \",\n    \"name\": \"BEEF HEAD SKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16547.png\",\n    \"sku\": \"16547\",\n    \"gtin13\": \"8711242939691\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "پوست سر گاو | Voskes",
+	"heading": "BEEF HEAD SKIN",
+	"description": "برای جونده‌های سرسخت! محصولی جویدنی، طبیعی و فوق‌مقاوم بدون افزودنی که به سلامت دندان‌ها کمک می‌کند.",
+	"bodyDescription": "For the tough chewers! A natural, tough chewy product with no additives. Your dog can chew on it vigorously and this contributes to healthy teeth.",
+	"ogTitle": "پوست سر گاو | Voskes",
+	"ogDescription": "برای جونده‌های سرسخت! محصولی جویدنی، طبیعی و فوق‌مقاوم بدون افزودنی که به سلامت دندان‌ها کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/cow-head-hide-170gr",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16547-p.webp",
+			"alt": "BEEF HEAD SKIN | Runderkophuid | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-16547-p.webp",
+			"alt": "BEEF HEAD SKIN | Runderkophuid | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "170gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242939691",
+	"composition": "۱۰۰٪ گوشت گاو",
+	"analyticalComponents": "crude protein 85.3% crude fibre 0.5% crude fat 3.3% crude ash 2.4% moisturecontent8.2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

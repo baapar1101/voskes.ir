@@ -1,0 +1,35 @@
+{
+	"slug": "taco-with-rawhide-and-chicken",
+	"sku": "21142",
+	"gtin13": "8711242017320",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious rawhide-based snack richly filled with chicken is a treat that is sure to please any four-legged friend. These tacos provide nice, long chewing fun and thus help fight boredom. Moreover, chewing contributes to good dental care and reduction of plaque. The tacos are rich in meat and contain plenty of animal proteins. \",\n    \"name\": \"TACO   RAWHIDE & CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21142_-_tacos_with_chicken_400g_-_gs1-gs1_packshot-2064-318.png?v=bTuFvs\",\n    \"sku\": \"21142\",\n    \"gtin13\": \"8711242017320\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "تاکو با پوست خام و مرغ | Voskes",
+	"heading": "TACO  RAWHIDE & CHICKEN",
+	"description": "این تاکوها لذت جویدن فراوان می‌آورند و با بی‌حوصلگی مقابله می‌کنند. جویدن به مراقبت از دندان و کاهش پلاک کمک می‌کند.",
+	"bodyDescription": "This delicious rawhide-based snack richly filled with chicken is a treat that is sure to please any four-legged friend. These tacos provide nice, long chewing fun and thus help fight boredom. Moreover, chewing contributes to good dental care and reduction of plaque. The tacos are rich in meat and contain plenty of animal proteins.",
+	"ogTitle": "تاکو با پوست خام و مرغ | Voskes",
+	"ogDescription": "این تاکوها لذت جویدن فراوان می‌آورند و با بی‌حوصلگی مقابله می‌کنند. جویدن به مراقبت از دندان و کاهش پلاک کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/taco-with-rawhide-and-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21142_-_tacos_with_chicken_400g_-_gs1-gs1_packshot-2064-318-p.webp?v=bTuFvs",
+			"alt": "TACO WITH RAWHIDE & CHICKEN | TACO MET KIP | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21142_-_inhoud_tacos_with_chicken_400g_-_gs1-gs1_product-2064-318-p.webp?v=bTuFv2",
+			"alt": "TACO WITH RAWHIDE & CHICKEN | inhoud taco met kip  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017320",
+	"composition": "Meat and animal derivatives (chicken 62.3%, beef rawhide 28%), vegetable protein extracts, oils and fats, derivatives of vegetableorigin, minerals.",
+	"analyticalComponents": "Crude protein 50% - crude oils and fats 3% - crude fibre 2% - crude ash 2% - moisture 18%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

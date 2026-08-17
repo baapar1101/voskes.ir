@@ -1,0 +1,35 @@
+{
+	"slug": "rawhide-sticks-with-chicken-40cm",
+	"sku": "18176",
+	"gtin13": "8711242933187",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH CHICKEN   40CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_181756.png\",\n    \"sku\": \"18176\",\n    \"gtin13\": \"8711242933187\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "استیک پوست خام با مرغ | Voskes",
+	"heading": "استیک پوست خام  با مرغ  40CM",
+	"description": "این استیک‌های جویدنی خوشمزه‌اند، لذت جویدن می‌آورند و به سلامت دندان‌ها کمک می‌کنند. ضمناً سرشار از پروتئین حیوانی هستند.",
+	"bodyDescription": "A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contributeto healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds.",
+	"ogTitle": "استیک پوست خام با مرغ | Voskes",
+	"ogDescription": "این استیک‌های جویدنی خوشمزه‌اند، لذت جویدن می‌آورند و به سلامت دندان‌ها کمک می‌کنند. ضمناً سرشار از پروتئین حیوانی هستند.",
+	"canonical": "https://voskes.nl/products/rawhide-sticks-with-chicken-40cm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_181756-p.webp",
+			"alt": "RAWHIDE STICKS WITH CHICKEN 40CM - 2PCS | Kauwsticks hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_18176inhoud-p.webp",
+			"alt": "RAWHIDE STICKS WITH CHICKEN 40CM - 2PCS | Kauwsticks hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242933187",
+	"composition": "Meat and animal derivatives (chicken 52%, beef rawhide 43%), vegetable protein extracts, oils and fats, minerals.",
+	"analyticalComponents": "crude protein 65% - crude fat 5% - crude fibre 1% - crude ash 3.5% - moisture 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "dumbbell-twist-beef",
+	"sku": "17662",
+	"gtin13": "87 112 42 93589 1",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Dumb-bel Beef is made from white cowhide and is wrapped in a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"DUMBBELL TWIST   BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17662.png\",\n    \"sku\": \"17662\",\n    \"gtin13\": \"87 112 42 93589 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "دمبل پیچی گوشت گاو | Voskes",
+	"heading": "DUMBBELL TWIST  BEEF",
+	"description": "دمبل گوشت گاو خوراکی جویدنی لذت‌بخشی است! از پوست خام شفاف همراه نوار خوش‌طعم گوشت گاو ساخته شده.",
+	"bodyDescription": "The VOSKES Dumb-bel Beef is made from white cowhide and is wrapped in a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean.",
+	"ogTitle": "دمبل پیچی گوشت گاو | Voskes",
+	"ogDescription": "دمبل گوشت گاو خوراکی جویدنی لذت‌بخشی است! از پوست خام شفاف همراه نوار خوش‌طعم گوشت گاو ساخته شده.",
+	"canonical": "https://voskes.nl/products/dumbbell-twist-beef",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17662-p.webp",
+			"alt": "DUMBBEL TWIST BEEF | Kauwsnacks hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17662-p.webp",
+			"alt": "DUMBBEL TWIST BEEF | Kauwsnacks hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "120gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242935891",
+	"composition": "Raw hide 40%, beef 18%, rice flour 24.3%, pregelatinized starch 12%, glycerin 5%, salt0.1%, yeast extract0.5%, potassium sorbate 0.1%",
+	"analyticalComponents": "Crude protein 45,0% crude fibre 0.1% crude fat 3,5% crude ash 3,5% moisture content 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,66 @@
+{
+	"slug": "kitten-complete-chicken",
+	"sku": "20056",
+	"gtin13": "8711242015333",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This energy-rich food supports optimum growth. Chicken as the main source of protein, along with vitamins and minerals, helps develop strong teeth, bones and muscles. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. Good immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Fish oil promotes healthy skin and coat. Formulated without maize or wheat. VOSKES Kitten – Chicken is also suitable for pregnant and lactating cats. \",\n    \"name\": \"KITTEN COMPLETE CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_k_complete_chicken_7kg_+30_hr.png\",\n    \"sku\": \"20056\",\n    \"gtin13\": \"8711242015333\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "غذای کامل بچه‌گربه با مرغ | Voskes",
+	"heading": "غذای کامل بچه‌گربه با مرغ",
+	"description": "غذای کامل بچه‌گربه. این غذای پرانرژی سرشار از ویتامین و مواد معدنی، رشد بهینه را پشتیبانی می‌کند. با مرغ به‌عنوان منبع پروتئین.",
+	"bodyDescription": "This energy-rich food supports optimum growth. Chicken as the main source of protein, along with vitamins and minerals, helps develop strong teeth, bones and muscles. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. Good immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Fish oil promotes healthy skin and coat. Formulated without maize or wheat. VOSKES Kitten – Chicken is also suitable for pregnant and lactating cats.",
+	"ogTitle": "غذای کامل بچه‌گربه با مرغ | Voskes",
+	"ogDescription": "غذای کامل بچه‌گربه. این غذای پرانرژی سرشار از ویتامین و مواد معدنی، رشد بهینه را پشتیبانی می‌کند. با مرغ به‌عنوان منبع پروتئین.",
+	"canonical": "https://voskes.nl/products/kitten-complete-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_k_complete_chicken_7kg_+30_hr-p.webp",
+			"alt": "KITTEN COMPLETE CHICKEN 7KG | KITTEN COMPLETE CHICKEN 7KG | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes-cat-kitten1-gs1_product-2064-284.webp?v=bStUz8",
+			"alt": "KITTEN COMPLETE CHICKEN 7KG | KITTEN COMPLETE CHICKEN 7KG | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲ کیلوگرم | ۷ کیلوگرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242015333",
+	"composition": "dried chicken (40%), rice, animal fat, peas, beet pulp, hydrolyzed chicken protein, minerals, brewer's yeast, fish oil, g.o.s, m.o.s., f.o.s., β-glucans, dried plants (rosmarinus sp. curcuma sp., eugenia sp.)",
+	"analyticalComponents": "35% crude protein - 21% crude oils and fats - 1,8% crude fibres - 7,2% crude ash - 1,45% calcium - 1,1% phosphore",
+	"additives": null,
+	"benefits": [
+		{
+			"icon": "/uploads/icon/icon-en-strong_immunesystem-icon-130-8.png",
+			"iconAlt": "Sterk immuunsysteem",
+			"description": "سیستم ایمنی قوی"
+		},
+		{
+			"icon": "/uploads/icon/icon-en-optimal_growth-icon-130-6.png",
+			"iconAlt": "Optimale groei",
+			"description": "Optimal growth"
+		},
+		{
+			"icon": "/uploads/icon/icon-en-high_energy-icon-130-5.png",
+			"iconAlt": "Rijk aan energie",
+			"description": "High energy"
+		},
+		{
+			"icon": "/uploads/icon/icon-en-healthy_teeth-icon-130-3.png",
+			"iconAlt": "Gezond gebit",
+			"description": "Healthy teeth"
+		},
+		{
+			"icon": "/uploads/icon/icon-en-healthy_skin_and_coat-icon-130-2.png",
+			"iconAlt": "Gezonde huid & vacht",
+			"description": "پوست و موی سالم"
+		},
+		{
+			"icon": "/uploads/icon/icon-en-healthy_digestion-icon-130-1.png",
+			"iconAlt": "Gezonde spijsvertering",
+			"description": "گوارش سالم"
+		}
+	],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-and-fish-twists",
+	"sku": "16055",
+	"gtin13": "8711242941601",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This is a tasty treat for your four-legged friend who loves the combination of meat and fish. Delicious snack with high protein content and, due to its shape, also conducive against dental plaque. Ideal as a snack for all adult dogs. \",\n    \"name\": \"CHICKEN & FISH TWISTS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/16055_-_chicken__fish_twists_100g_front-gs1.png\",\n    \"sku\": \"16055\",\n    \"gtin13\": \"8711242941601\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "پیچ مرغ و ماهی | Voskes",
+	"heading": "پیچ مرغ و ماهی",
+	"description": "خوراکی خوشمزه با ترکیب گوشت و ماهی؛ سرشار از پروتئین و به دلیل فرم خاصش مؤثر در کاهش پلاک دندانی.",
+	"bodyDescription": "This is a tasty treat for your four-legged friend who loves the combination of meat and fish. Delicious snack with high protein content and, due to its shape, also conducive against dental plaque. Ideal as a snack for all adult dogs.",
+	"ogTitle": "پیچ مرغ و ماهی | Voskes",
+	"ogDescription": "خوراکی خوشمزه با ترکیب گوشت و ماهی؛ سرشار از پروتئین و به دلیل فرم خاصش مؤثر در کاهش پلاک دندانی.",
+	"canonical": "https://voskes.nl/products/chicken-and-fish-twists",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/16055_-_chicken__fish_twists_100g_front-gs1-p.webp",
+			"alt": "CHICKEN & FISH TWISTS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_1-160551-gs1_product-2064-195-p.webp?v=bTU3Xl",
+			"alt": "CHICKEN & FISH TWISTS | Hondensnack kip en vis | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "100gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242941601",
+	"composition": "Meat and animal derivatives (chicken 91%), fish & fish derivatives (cod 7%), derivatives of vegetable origin, oils and fats, minerals.",
+	"analyticalComponents": "Crude protein 36.3% - moisture 23% - crude ash 3.9% - crude oils and fats 2.4% - crude fibre 0.1%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

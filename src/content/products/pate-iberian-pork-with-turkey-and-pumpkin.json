@@ -1,0 +1,39 @@
+{
+	"slug": "pate-iberian-pork-with-turkey-and-pumpkin",
+	"sku": "21188",
+	"gtin13": "8711242017580",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This soft paté with Iberian porc, turkey and pumpkin is suitable for adult cats. The high meat content is ideal for cats who prefer meat to fish. Pumpkin contains high concentration of minerals, vitamins & natural antioxidants. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable !  There are 8 tetrapacks of 95gr in a box. 1 pack = 1 meal. \",\n    \"name\": \"ADULT   PATÉ IBERIAN PORC   WITH TURKEY & PUMPKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20041_pate_porkturkeypumpkin_8pack_left_hr-gs1_packshot-2064-281.png?v=bTUhnD\",\n    \"sku\": \"21188\",\n    \"gtin13\": \"8711242017580\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "بالغ؛ پته گوشت ایبریایی با بوقلمون و کدو حلوایی | Voskes",
+	"heading": "بالغ  پته گوشت ایبریایی  با بوقلمون و کدو حلوایی",
+	"description": "این پته کرمی و خوشمزه با گوشت ایبریایی، بوقلمون و تکه‌های لطیف کدو حلوایی، غذای تر کامل گربه بالغ است.",
+	"bodyDescription": "This soft paté with Iberian porc, turkey and pumpkin is suitable for adult cats. The high meat content is ideal for cats who prefer meat to fish. Pumpkin contains high concentration of minerals, vitamins & natural antioxidants. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable !در هر جعبه ۸ بسته ۹۵ گرمی وجود دارد. هر بسته = یک وعده.",
+	"ogTitle": "بالغ؛ پته گوشت ایبریایی با بوقلمون و کدو حلوایی | Voskes",
+	"ogDescription": "این پته کرمی و خوشمزه با گوشت ایبریایی، بوقلمون و تکه‌های لطیف کدو حلوایی، غذای تر کامل گربه بالغ است.",
+	"canonical": "https://voskes.nl/products/pate-iberian-pork-with-turkey-and-pumpkin",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20041_pate_porkturkeypumpkin_8pack_left_hr-gs1_packshot-2064-281-p.webp?v=bTUhnD",
+			"alt": "ADULT PATÉ IBERIAN PORK WITH TURKEY & PUMPKIN (8 X 95G) | ADULT - PATÉ IBERIAN PORK WITH TURKEY & PUMPKIN | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_pack_klein_patÉ_-_iberian_pork_with_turkey__pumpkin_-p.webp",
+			"alt": "ADULT PATÉ IBERIAN PORK WITH TURKEY & PUMPKIN (8 X 95G) | ADULT - PATÉ IBERIAN PORK WITH TURKEY & PUMPKIN | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_product_patÉ_-_iberian_pork_with_turkey__pumpkin_-p.webp",
+			"alt": "ADULT PATÉ IBERIAN PORK WITH TURKEY & PUMPKIN (8 X 95G) | ADULT - PATÉ IBERIAN PORK WITH TURKEY & PUMPKIN | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۸ × ۹۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017580",
+	"composition": "iberian pork 30%, turkey 10%, pumpkin 6%, salmon oil 1.5%, krill meal 0.5%, minerals, fos, sea buckthorn, yucca schidigera extract",
+	"analyticalComponents": "crude protein 7.3% - crude fat 4% crude ash 1.7% - crude fibre 1.1% - moisture 85.2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

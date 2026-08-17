@@ -1,0 +1,35 @@
+{
+	"slug": "dental-sticks-chicken",
+	"sku": "19671",
+	"gtin13": "87 112 42 01459 6",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Our Dental sticks with chicken have been specially developed to maintain your four-legged friend's healthy teeth. These dog snacks have a cleansing effect and ensure good condition of the gums. Moreover, they are also delicious in taste and your dog will chew on them for a long time, while taking care of his teeth in the meantime. \",\n    \"name\": \"DENTAL STICKS   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19671_-_dental_sticks_met_kip_600gr-gs1_packshot-2064-248.png?v=bTTbUa\",\n    \"sku\": \"19671\",\n    \"gtin13\": \"87 112 42 01459 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "استیک دندانی با مرغ | Voskes",
+	"heading": "DENTAL STICKS  مرغ",
+	"description": "استیک دندانی با مرغ ویژه حفظ سلامت دندان دوست چهارپای شما طراحی شده و اثر پاک‌کنندگی روی لثه‌ها دارد.",
+	"bodyDescription": "Our Dental sticks with chicken have been specially developed to maintain your four-legged friend's healthy teeth. These dog snacks have a cleansing effect and ensure good condition of the gums. Moreover, they are also delicious in taste and your dog will chew on them for a long time, while taking care of his teeth in the meantime.",
+	"ogTitle": "استیک دندانی با مرغ | Voskes",
+	"ogDescription": "استیک دندانی با مرغ ویژه حفظ سلامت دندان دوست چهارپای شما طراحی شده و اثر پاک‌کنندگی روی لثه‌ها دارد.",
+	"canonical": "https://voskes.nl/products/dental-sticks-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19671_-_dental_sticks_met_kip_600gr-gs1_packshot-2064-248-p.webp?v=bTTbUa",
+			"alt": "DENTAL STICKS WITH CHICKEN |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19671_-_dental_sticks_met_kip_600gr_inhoud-gs1_product-2064-248-p.webp?v=bTTcab",
+			"alt": "DENTAL STICKS WITH CHICKEN |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014596",
+	"composition": "Cereals, derivatives of vegetable origin, glycerine, meat and animal derivatives (chicken 4%), minerals.",
+	"analyticalComponents": "Crude protein 11% - crude oils and fats 2,5% - crude fibre 2% - crude ash 7% - moisture 16%.",
+	"additives": "3a672a vitamin A: 4500 I.U./kg - 3a671 vitamin D3: 400 I.U./kg - 3a700 vitamin E: 35 mg/kg - 3b103 iron: 35 mg/kg - 3b202 iodine: 1 mg/kg - 3b405 copper: 4 mg/kg - 3b605 zinc: 60 mg/kg - 3b503 manganese: 4 mg/kg - 3b815 selenium: 0,06 mg/kg. TECHNOLOGICAL ADDITIVES : Contains EU-approved antioxidants and preservatives (potassium sorbate 1%).",
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "meat-rolls-lamb-and-rice",
+	"sku": "19670",
+	"gtin13": "87 112 42 01457 2",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Tasty meat roll made from Lamb and Rice. A tasty and healthy snack between meals \",\n    \"name\": \"MEAT ROLLS   LAMB & RICE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19670_-_vleesrollen_lamrijst_600gr-gs1_packshot-2064-95.png?v=bTTbPe\",\n    \"sku\": \"19670\",\n    \"gtin13\": \"87 112 42 01457 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "رول گوشت بره و برنج | Voskes",
+	"heading": "MEAT ROLLS  LAMB & RICE",
+	"description": "رول گوشت خوشمزه از بره و برنج.",
+	"bodyDescription": "Tasty meat roll made from Lamb and Rice. A tasty and healthy snack between meals",
+	"ogTitle": "رول گوشت بره و برنج | Voskes",
+	"ogDescription": "رول گوشت خوشمزه از بره و برنج.",
+	"canonical": "https://voskes.nl/products/meat-rolls-lamb-and-rice",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19670_-_vleesrollen_lamrijst_600gr-gs1_packshot-2064-95-p.webp?v=bTTbPe",
+			"alt": "MEAT ROLLS LAMB & RICE |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19670_-_vleesrollen_lamrijst_600gr_inhoud-gs1_product-2064-95-p.webp?v=bTTbWw",
+			"alt": "MEAT ROLLS LAMB & RICE |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014572",
+	"composition": "meat and animal derivatives (min. 4% lamb), cereals, various sugars, derivatives of vegetable origin.",
+	"analyticalComponents": "crude protein 28%, crude oils and fats 7%, crude ash 12 %, moisture 19%, crude fibers 2 %",
+	"additives": "vitamin a (retinylacetate) 5000 iu, vitamin d3 (cholecalciferol) 500 iu, vitamin e (all-rac-alpha-tocopherolacetate) 50 mg, copper (coppersulfate - pentahydrate (7,2 mg)) 1,8 mg",
+	"benefits": [],
+	"extraHtml": null
+}

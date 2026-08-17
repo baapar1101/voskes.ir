@@ -1,0 +1,19 @@
+.cookiebox {height: 100dvh; width: 100vw; position: fixed; padding: 15px; overflow: auto; overscroll-behavior:contain; z-index: 5999; top: 0; left: 0;  -ms-overflow-style: none;  /* IE and Edge */ scrollbar-width: none;  /* Firefox */ align-items: center; justify-content: center;}
+  .cookiebox::-webkit-scrollbar {display: none;}
+  .cookiebox__backdrop {height: 100vh; width: 100vw; position: fixed; top: 0; left: 0; background-color: #0000004d; z-index: -1;}
+  .cookiebox__container { background-color: #fff; bottom: 0; color: #333; font-family: var(--default_font);
+    font-size: 1.4rem; line-height: 2.3rem; text-align: center; width: 100%; padding: 15px; z-index: 2; max-width: 75rem; margin: 0 auto; border-radius: 6px;}
+  .cookiebox__config {display: none; text-align: left; font-size: 1.6rem; max-width: 75rem;}
+  .cookiebox__config, .cookiebox__settings { margin: 0 auto;}
+  .cookiebox__show-config:checked ~ .cookiebox__settings { display: none; }
+  .cookiebox__show-config:checked ~ .cookiebox__config { display: block; }
+  .cookiebox__logo { width: auto; max-height: 10rem; max-width: min(100%, 29rem); margin-bottom: 15px; object-fit: contain; object-position: center;}
+  .cookiebox__label { display: grid; cursor: pointer; gap: 10px; grid-template-columns: auto 1fr; align-items: baseline; padding-bottom: 15px; border-bottom: 1px solid #d9d9d9; margin-bottom: 15px;}
+  .cookiebox__btn {min-width: 20rem;}
+  .cookiebox__buttons { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; margin-top: 15px; }
+  @media (min-width: 48em) {.cookiebox {padding: 3rem;}.cookiebox__container {padding: 3rem;}}
+  @media (min-width: 62em) {.cookiebox{padding: 9rem;}}
+  @media (hover: hover) {
+    /* when hover is supported */
+    body:has(.cookiebox:hover) { overflow-y: hidden; }
+  }

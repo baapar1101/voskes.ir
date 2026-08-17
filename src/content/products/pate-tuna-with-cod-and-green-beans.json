@@ -1,0 +1,39 @@
+{
+	"slug": "pate-tuna-with-cod-and-green-beans",
+	"sku": "21189",
+	"gtin13": "8711242017603",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This soft paté with tuna, cod and green beans is suitable for older cats. Addition of eggshell membrane protects cartilage and joints, very important for senior cats, who often suffer from osteoarthritis. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable!  There are 8 tetrapacks of 95gr in a box. 1 pack = 1 meal. \",\n    \"name\": \"SENIOR   PATÉ TUNA   WITH COD &   GREEN BEANS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20042_pate_tunacodgreenbeans_8pack_left_hr-gs1_packshot-2064-282.png?v=bTUhrp\",\n    \"sku\": \"21189\",\n    \"gtin13\": \"8711242017603\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "سالمند؛ پته ماهی تن با کاد و لوبیا سبز | Voskes",
+	"heading": "سالمند  پته ماهی تن  با ماهی کاد و  لوبیا سبز",
+	"description": "این پته کرمی و خوشمزه با ماهی تن، کاد و تکه‌های لطیف لوبیا سبز، غذای تر کامل گربه‌های مسن‌تر است.",
+	"bodyDescription": "This soft paté with tuna, cod and green beans is suitable for older cats. Addition of eggshell membrane protects cartilage and joints, very important for senior cats, who often suffer from osteoarthritis. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable!در هر جعبه ۸ بسته ۹۵ گرمی وجود دارد. هر بسته = یک وعده.",
+	"ogTitle": "سالمند؛ پته ماهی تن با کاد و لوبیا سبز | Voskes",
+	"ogDescription": "این پته کرمی و خوشمزه با ماهی تن، کاد و تکه‌های لطیف لوبیا سبز، غذای تر کامل گربه‌های مسن‌تر است.",
+	"canonical": "https://voskes.nl/products/pate-tuna-with-cod-and-green-beans",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20042_pate_tunacodgreenbeans_8pack_left_hr-gs1_packshot-2064-282-p.webp?v=bTUhrp",
+			"alt": "SENIOR PATÉ TUNA WITH COD & GREEN BEANS (8 X 95G) | SENIOR - PATÉ TUNA WITH COD & GREEN BEANS | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_pack_klein_patÉ_-_tuna_with_cod__green_beans_-p.webp",
+			"alt": "SENIOR PATÉ TUNA WITH COD & GREEN BEANS (8 X 95G) | SENIOR - PATÉ TUNA WITH COD & GREEN BEANS | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_product_patÉ_-_tuna_with_cod__green_beans_-p.webp",
+			"alt": "SENIOR PATÉ TUNA WITH COD & GREEN BEANS (8 X 95G) | SENIOR - PATÉ TUNA WITH COD & GREEN BEANS | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۸ × ۹۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017603",
+	"composition": "tuna 26%, cod 14%, green beans 6%, salmon oil 4%, lignocellulose, krill meal 0.5%, minerals, eggshell membrane.",
+	"analyticalComponents": "crude protein 8.7% - crude fat 5% - crude ash 2% - crude fibre 1.6% - moisture 81.4%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-sushi-rolls",
+	"sku": "20573",
+	"gtin13": "8711242016699",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Chicken Sushi Rolls are easy-to-chew chicken treats from chicken breast fillet coated with tasty cod. They are easily digestible, low in fat and full of animal proteins. Ideal treats for your wagging housemate! \",\n    \"name\": \"CHICKEN   SUSHI ROLLS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20573-chicken-sushi-rolls-400g_front_-web_gs1-gs1_packshot-2064-306.png?v=bSo18x\",\n    \"sku\": \"20573\",\n    \"gtin13\": \"8711242016699\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "رول سوشی مرغ | Voskes",
+	"heading": "مرغ  رول سوشی",
+	"description": "رول سوشی مرغ خوراکی نرم و آسان‌جویدن از سینه مرغ پوشیده با ماهی کاد خوشمزه است.",
+	"bodyDescription": "Voskes Chicken Sushi Rolls are easy-to-chew chicken treats from chicken breast fillet coated with tasty cod.They are easily digestible, low in fat and full of animal proteins. Ideal treats for your wagging housemate!",
+	"ogTitle": "رول سوشی مرغ | Voskes",
+	"ogDescription": "رول سوشی مرغ خوراکی نرم و آسان‌جویدن از سینه مرغ پوشیده با ماهی کاد خوشمزه است.",
+	"canonical": "https://voskes.nl/products/chicken-sushi-rolls",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20573-chicken-sushi-rolls-400g_front_-web_gs1-gs1_packshot-2064-306.webp?v=bSo18x",
+			"alt": "CHICKEN SUSHI ROLLS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20573-chicken_sushi_rolls_400g_inhoud_web-gs1_product-2064-306-p.webp?v=bTU52J",
+			"alt": "CHICKEN SUSHI ROLLS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱۰۰ گرم | ۴۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242016699",
+	"composition": "Meat and animal derivatives (chicken 65% ), fish & fish derivatives (cod 25%), vegetable protein extracts,oils and fats.",
+	"analyticalComponents": "Crude protein 35% - moisture 20% - crude oils and fats 6% - crude ash 4% - crude fibre 1%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

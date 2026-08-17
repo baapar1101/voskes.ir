@@ -1,0 +1,35 @@
+{
+	"slug": "duo-twist-beef",
+	"sku": "17663",
+	"gtin13": "87 112 42 93591 4",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Duo Twist is a plait made from white cowhide with a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"DUO TWIST   BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_duo_twist_rund_m.png\",\n    \"sku\": \"17663\",\n    \"gtin13\": \"87 112 42 93591 4\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "پیچ دوتایی گوشت گاو | Voskes",
+	"heading": "DUO TWIST  BEEF",
+	"description": "پیچ دوتایی VOSKES بافتی از پوست خام شفاف با نوار خوشمزه گوشت گاو است. فرم آن به تمیز ماندن دندان‌ها کمک می‌کند.",
+	"bodyDescription": "The VOSKES Duo Twist is a plait made from white cowhide with a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean.",
+	"ogTitle": "پیچ دوتایی گوشت گاو | Voskes",
+	"ogDescription": "پیچ دوتایی VOSKES بافتی از پوست خام شفاف با نوار خوشمزه گوشت گاو است. فرم آن به تمیز ماندن دندان‌ها کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/duo-twist-beef",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_duo_twist_rund_m-p.webp",
+			"alt": "DUO TWIST BEEF | Kauwsnacks hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17663-p.webp",
+			"alt": "DUO TWIST BEEF | Kauwsnacks hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "150gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242935914",
+	"composition": "Raw hide 60%, sweetpotato 20%, rice flour 8%, pregelatinized starch 6.3%, vegetable protein 3%, glycerin 2.5%, salt 0.1%, potassium sorbate 0.1%",
+	"analyticalComponents": "Crude protein 68.0%, crude fibre 0.1%, crude fat 3.5%, crude ash 3.5%, moisture content 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

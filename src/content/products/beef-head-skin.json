@@ -1,0 +1,35 @@
+{
+	"slug": "beef-head-skin",
+	"sku": "16548",
+	"gtin13": "8711242939714",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \"\",\n    \"name\": \"BEEF HEAD SKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16548.png\",\n    \"sku\": \"16548\",\n    \"gtin13\": \"8711242939714\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "پوست سر گاو | Voskes",
+	"heading": "BEEF HEAD SKIN",
+	"description": "برای جونده‌های سرسخت! محصولی جویدنی، طبیعی و فوق‌مقاوم بدون افزودنی که به سلامت دندان‌ها کمک می‌کند.",
+	"bodyDescription": null,
+	"ogTitle": "پوست سر گاو | Voskes",
+	"ogDescription": "برای جونده‌های سرسخت! محصولی جویدنی، طبیعی و فوق‌مقاوم بدون افزودنی که به سلامت دندان‌ها کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/beef-head-skin",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16548-p.webp",
+			"alt": "BEEF HEAD SKIN | Runderkophuid | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-16548-p.webp",
+			"alt": "BEEF HEAD SKIN | Runderkophuid | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱۰۰ گرم | ۵۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242939714",
+	"composition": "۱۰۰٪ گوشت گاو",
+	"analyticalComponents": "crude protein 85.3% crude fibre 0.5% crude fat 3.3% crude ash 2.4% moisture content8.2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "duck-sushi-rolls",
+	"sku": "19976",
+	"gtin13": "8711242014909",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These duck-based cat snacks are a real treat for cats. Delicious duck fillet enriched with cod in a sushi shape. Suitable for growing kittens and adult cats. \",\n    \"name\": \"DUCK SUSHI ROLLS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19976_duck_sushi_rolls.png\",\n    \"sku\": \"19976\",\n    \"gtin13\": \"8711242014909\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "رول سوشی اردک | Voskes",
+	"heading": "DUCK SUSHI ROLLS",
+	"description": "رول سوشی اردک Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
+	"bodyDescription": "These duck-based cat snacks are a real treat for cats. Delicious duck fillet enriched with cod in a sushi shape. Suitable for growing kittens and adult cats.",
+	"ogTitle": "رول سوشی اردک | Voskes",
+	"ogDescription": "رول سوشی اردک Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
+	"canonical": "https://voskes.nl/products/duck-sushi-rolls",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19976_duck_sushi_rolls-p.webp",
+			"alt": "DUCK SUSHI ROLLS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19976_duck_sushi_rolls_-_inhoud-p.webp",
+			"alt": "DUCK SUSHI ROLLS | Kattensnacks eend | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014909",
+	"composition": "duck 61%, cod 17%, tapioca starch 8.9%, glycerine 6%, vegetable protein 5%, sorbitol 2%, salt 0.1%",
+	"analyticalComponents": "crude protein 28% - moisture 20% - crude oils and fats 4% - crude ash 2,5% - crude fibres 2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

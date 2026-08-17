@@ -1,0 +1,35 @@
+{
+	"slug": "rabbit-ears",
+	"sku": "19150",
+	"gtin13": "87 112 42 01369 8",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried rabbit ears are a tasty, natural snack. Are not hard in structure and easy to chew. \",\n    \"name\": \"RABBIT EARS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/19150-konijnenoren_900x900.png\",\n    \"sku\": \"19150\",\n    \"gtin13\": \"87 112 42 01369 8\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "گوش خرگوش | Voskes",
+	"heading": "RABBIT EARS",
+	"description": "گوش خرگوش خشک‌شده خوراکی طبیعی و خوشمزه‌ای است؛ بافت آن سفت نیست و به‌راحتی جویده می‌شود.",
+	"bodyDescription": "Dried rabbit ears are a tasty, natural snack. Are not hard in structure and easy to chew.",
+	"ogTitle": "گوش خرگوش | Voskes",
+	"ogDescription": "گوش خرگوش خشک‌شده خوراکی طبیعی و خوشمزه‌ای است؛ بافت آن سفت نیست و به‌راحتی جویده می‌شود.",
+	"canonical": "https://voskes.nl/products/rabbit-ears",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/19150-konijnenoren_900x900-p.webp",
+			"alt": "RABBIT EARS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/19150_-_konijnenoren-j.webp",
+			"alt": "RABBIT EARS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "350gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242013698",
+	"composition": "100% rabbit",
+	"analyticalComponents": "crude protein 87 % - crude fibre 3.5% - crude fat 11 % - crude ash 2,04 % - moisture 9,5%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "jelly-tuna-with-salmon",
+	"sku": "19892",
+	"gtin13": "8711447890919",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and salmon is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SALMON\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19892_tuna_with_salmon_jelly_-_blik@2x1.png\",\n    \"sku\": \"19892\",\n    \"gtin13\": \"8711447890919\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "ژله ماهی تن با سالمون | Voskes",
+	"heading": "ژله ماهی تن  WITH SALMON",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و سالمون است. خوراکی واقعی برای هر گربه‌ای!",
+	"bodyDescription": "This delicious jelly treat made with tuna and salmon is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
+	"ogTitle": "ژله ماهی تن با سالمون | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و سالمون است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-salmon",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19892_tuna_with_salmon_jelly_-_blik@2x1-p.webp",
+			"alt": "JELLY TUNA WITH SALMON | JELLY WETFOOD TUNA WITH SALMON | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19892_tuna_with_salmon_jelly@2x-p.webp",
+			"alt": "JELLY TUNA WITH SALMON | JELLY WETFOOD TUNA WITH SALMON | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۸۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711447890919",
+	"composition": "tuna 51%, salmon 6%, rice 1.5%, vegetable gelatine 0.75%.",
+	"analyticalComponents": "moisture 85% - crude protein 12.5% - crude ash 0.8% - crude oils & fats 1.0% - crude fibre 0.5%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

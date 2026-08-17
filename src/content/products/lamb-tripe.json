@@ -1,0 +1,35 @@
+{
+	"slug": "lamb-tripe",
+	"sku": "17707",
+	"gtin13": "87 112 42 93376 7",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried lamb tripe. Made from 100% lamb. Brings a lot of chewing pleasure and helps to keep teeth healthy. \",\n    \"name\": \"LAMB TRIPE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-177071.png\",\n    \"sku\": \"17707\",\n    \"gtin13\": \"87 112 42 93376 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "سیرابی بره | Voskes",
+	"heading": "LAMB TRIPE",
+	"description": "سیرابی بره خشک‌شده و طبیعی از ۱۰۰٪ گوشت بره. لذت جویدن فراوان و کمک به سلامت دندان.",
+	"bodyDescription": "Natural dried lamb tripe. Made from 100% lamb. Brings a lot of chewing pleasure and helps to keep teeth healthy.",
+	"ogTitle": "سیرابی بره | Voskes",
+	"ogDescription": "سیرابی بره خشک‌شده و طبیعی از ۱۰۰٪ گوشت بره. لذت جویدن فراوان و کمک به سلامت دندان.",
+	"canonical": "https://voskes.nl/products/lamb-tripe",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-177071-p.webp",
+			"alt": "LAMB TRIPE | Lamspens hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-177071-p.webp",
+			"alt": "LAMB TRIPE | Lamspens hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "100gr | 350gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242933767",
+	"composition": "100% lamb",
+	"analyticalComponents": "crude protein 71.6% - crude fibre 0.1% - crude fat 18.6% - crude ash 2.0% - moisturecontent5.9%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

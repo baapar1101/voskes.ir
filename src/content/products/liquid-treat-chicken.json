@@ -1,0 +1,35 @@
+{
+	"slug": "liquid-treat-chicken",
+	"sku": "21567",
+	"gtin13": "8711242018600",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your cat with our new Liquid Treats with chicken flavor – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. The Liquid Treats with chicken are a mono-protein snack, with chicken as the only source of protein, making them very suitable for sensitive cats or cats with special dietary needs. The essential amino acid taurine supports heart function, vision, and the nervous system, helping your cat stay vital and energetic. Antioxidants strengthen the natural defenses and protect cells against harmful influences, while prebiotics promote a healthy gut flora and optimal digestion. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health. \",\n    \"name\": \"LIQUID TREAT CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21567_-_8711242018600_-_liquid_treat_chicken_-_20x15gr_left.png\",\n    \"sku\": \"21567\",\n    \"gtin13\": \"8711242018600\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "تشویقی مایع مرغ | Voskes",
+	"heading": "LIQUID TREAT CHICKEN",
+	"description": "Spoil your cat with our new Liquid Treats with chicken flavor – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. The Liquid Treats with chicken are a mono-protein snack, with chicken as the only source of protein, making them very suitable for sensitive cats or cats with special dietary needs. The essential amino acid taurine supports heart function, vision, and the nervous system, helping your cat stay vital and energetic. Antioxidants strengthen the natural defenses and protect cells against harmful influences, while prebiotics promote a healthy gut flora and optimal digestion. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health.",
+	"bodyDescription": "Spoil your cat with our new Liquid Treats with chicken flavor – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. The Liquid Treats with chicken are a mono-protein snack, with chicken as the only source of protein, making them very suitable for sensitive cats or cats with special dietary needs. The essential amino acid taurine supports heart function, vision, and the nervous system, helping your cat stay vital and energetic. Antioxidants strengthen the natural defenses and protect cells against harmful influences, while prebiotics promote a healthy gut flora and optimal digestion. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health.",
+	"ogTitle": "تشویقی مایع مرغ | Voskes",
+	"ogDescription": "Spoil your cat with our new Liquid Treats with chicken flavor – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. The Liquid Treats with chicken are a mono-protein snack, with chicken as the only source of protein, making them very suitable for sensitive cats or cats with special dietary needs. The essential amino acid taurine supports heart function, vision, and the nervous system, helping your cat stay vital and energetic. Antioxidants strengthen the natural defenses and protect cells against harmful influences, while prebiotics promote a healthy gut flora and optimal digestion. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health.",
+	"canonical": "https://voskes.nl/products/liquid-treat-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21567_-_8711242018600_-_liquid_treat_chicken_-_20x15gr_left-p.webp",
+			"alt": "LIQUID TREAT CHICKEN (20 X 15G) |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21565-8711242018563-liquid-treat-tuna-15gr-content-p.webp",
+			"alt": "LIQUID TREAT CHICKEN (20 X 15G) |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲۰ × ۱۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242018600",
+	"composition": "Meat and animal derivatives (chicken 27%), vegetables, derivatives of vegetable origin, oils and fats (chicken oil 0,4%), various sugars (FOS 0,02%, inulin 0,02%)",
+	"analyticalComponents": "Moisture 86,5%, crude protein 7,5%, crude ash 0,5%, crude oils and fats 1%, crude fibre 0,5%",
+	"additives": "Nutritional additives: Taurine 500mg/kg, Vitamine E 50mg/kg, Vitamine C (3a300)",
+	"benefits": [],
+	"extraHtml": null
+}
