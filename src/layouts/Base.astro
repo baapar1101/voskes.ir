@@ -1,0 +1,117 @@
+---
+import defaultRootVars from './partials/root-vars.css?raw';
+import defaultCookieboxCss from './partials/cookiebox.css?raw';
+import defaultUtilityColors from './partials/utility-colors.css?raw';
+import defaultHeaderHtml from './partials/header.html?raw';
+import defaultCookieBannerHtml from './partials/cookie-banner.html?raw';
+import defaultFooterHtml from './partials/footer.html?raw';
+
+interface Props {
+	title: string;
+	description: string;
+	canonical: string;
+	ogTitle?: string;
+	ogDescription?: string;
+	ogUrl?: string;
+	bodyClass?: string;
+	jsonLd?: string | null;
+	// The /en/ tree shares one header/footer/cookie-banner (see
+	// src/layouts/partials/). The root NL page links to a different locale
+	// slot entirely (/nl/... routes) and overrides all three rather than
+	// reusing the EN chrome.
+	headerHtml?: string;
+	cookieBannerHtml?: string;
+	footerHtml?: string;
+	// Root NL homepage only: a <details class="popup"> newsletter signup
+	// sits as a body-level sibling of div.site, outside the header/#page/
+	// footer structure every other page uses.
+	extraBodyHtml?: string | null;
+	// Every page in the /en/ tree shares one :root{} theme block and one
+	// utility-colors stylesheet (verified byte-length-identical across
+	// contact/products/blog/etc). The root NL homepage does NOT — it
+	// carries its own distinct values (e.g. --font_size_h2: 3.5rem vs
+	// 4rem), so these are overridable per page rather than assumed shared.
+	rootVars?: string;
+	cookieboxCss?: string;
+	utilityColors?: string;
+}
+
+const {
+	title,
+	description,
+	canonical,
+	ogTitle = title,
+	ogDescription = description,
+	bodyClass = 'Page',
+	jsonLd = null,
+	ogUrl = canonical,
+	headerHtml = defaultHeaderHtml,
+	cookieBannerHtml = defaultCookieBannerHtml,
+	footerHtml = defaultFooterHtml,
+	extraBodyHtml = null,
+	rootVars = defaultRootVars,
+	cookieboxCss = defaultCookieboxCss,
+	utilityColors = defaultUtilityColors,
+} = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta charset="utf-8" />
+		<title>{title}</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<!-- SEO related tags -->
+		<meta name="robots" content="follow" />
+		<link rel="canonical" href={canonical} />
+		<meta name="author" content="Holland Diervoeders B.V." />
+		<meta name="web_author" content="100 Merkversterking" />
+		<meta name="description" content={description} />
+		<meta property="og:title" content={ogTitle} />
+		<meta property="og:site_name" content="Holland Diervoeders B.V." />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content={ogDescription} />
+		<meta property="og:url" content={ogUrl} />
+		<!-- Favicons -->
+		<link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+		<!-- experimental module preload -->
+		<link rel="modulepreload" href="/js/app.min.js?v=v4.0.2" />
+		<!-- Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=fallback"
+			rel="stylesheet"
+		/>
+		<link href="https://sanux.100.nl/cdn/fonts/avenir-next/font.css" rel="stylesheet" />
+		<!-- Vazirmatn is self-hosted: @font-face rules now live at the top of
+		     css/style.min.css and load from /assets/fonts/vazirmatn/ (see
+		     DECISIONS.md §5.1). No separate font-face block needed here. -->
+		<!-- Styles -->
+		<style set:html={rootVars} />
+		<!-- This is to ensure the cookie styling is applied directly when shown. At least to hide the config box -->
+		<style set:html={cookieboxCss} />
+		<link rel="stylesheet" href="/css/style.min.css?v=v4.0.2" />
+		<style set:html={utilityColors} />
+		<!-- Other Scripts -->
+		<!-- End Other Scripts -->
+		<!--i18n:fa icons mirrored-->
+	</head>
+	<body class={bodyClass}>
+		<!-- Other Scripts -->
+		<!-- End Other Scripts -->
+		<Fragment set:html={cookieBannerHtml} />
+		<script src="/js/cookies.js?v=1.0.1" async is:inline></script>
+		<div class="site">
+			<Fragment set:html={headerHtml} />
+			<div id="page">
+				{jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
+				<slot />
+				<Fragment set:html={footerHtml} />
+			</div>
+		</div>
+		{extraBodyHtml && <Fragment set:html={extraBodyHtml} />}
+		<script type="module" src="/js/app.min.js?v=v4.0.2" is:inline></script>
+	</body>
+</html>

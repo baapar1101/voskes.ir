@@ -1,0 +1,35 @@
+{
+	"slug": "training-treats-bones-mini-mix-bucket",
+	"sku": "15304",
+	"gtin13": "8711242944046",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Training Treats Bones Mini Mix is perfect for rewarding puppies & small breed dogs. Ideal during training because of their small size, to make sure your dog is not distracted for too long. Soft, without added sugar & very tasty! Bones mix is a mix of various tastes. Comes in a convenient storage bucket. \",\n    \"name\": \"TRAINING TREATS   BONES MINI MIX \",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-15034-gs1-gs1_packshot-2064-114.png?v=bTg1DA\",\n    \"sku\": \"15304\",\n    \"gtin13\": \"8711242944046\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "تشویقی آموزشی؛ مخلوط استخوان مینی | Voskes",
+	"heading": "تشویقی آموزشی  BONES MINI MIX",
+	"description": "مخلوط مینی استخوان تشویقی آموزشی Voskes؛ خوراکی‌های نرم و مینیاتوری سگ با طعم‌های گوناگون.",
+	"bodyDescription": "Training Treats Bones Mini Mix is perfect for rewarding puppies & small breed dogs. Ideal during training because of their small size, to make sure your dog is not distracted for too long. Soft, without added sugar & very tasty! Bones mix is a mix of various tastes. Comes in a convenient storage bucket.",
+	"ogTitle": "تشویقی آموزشی؛ مخلوط استخوان مینی | Voskes",
+	"ogDescription": "مخلوط مینی استخوان تشویقی آموزشی Voskes؛ خوراکی‌های نرم و مینیاتوری سگ با طعم‌های گوناگون.",
+	"canonical": "https://voskes.nl/products/training-treats-bones-mini-mix-bucket",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-15034-gs1-gs1_packshot-2064-114-p.webp?v=bTg1DA",
+			"alt": "TRAINING TREATS BONES MINI MIX |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15059_training_treats_bones_mini_mix_200gr_inhoud-web-p.webp",
+			"alt": "TRAINING TREATS BONES MINI MIX |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "500gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242944046",
+	"composition": "cereals, derivatives of vegetable origin, oils and fats, meat and animal derivatives, fish and fish derivatives",
+	"analyticalComponents": "moisture 24% - crude protein 11.70% - crude oils and fats 5.90% - crude fibre 1% - crude ash 2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,31 @@
+{
+	"slug": "beef-bone-xl",
+	"sku": "16558",
+	"gtin13": "8711242939790",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Naturally smoked and dried XL Beef bone. Without additives and a joy to chew on. We recommend always supervising your dog when you give this chewing product. The bone should not be consumed by the dog as it can cause obstruct. \",\n    \"name\": \"BEEF BONE XL\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16558.png\",\n    \"sku\": \"16558\",\n    \"gtin13\": \"8711242939790\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "استخوان گاو XL | Voskes",
+	"heading": "BEEF BONE XL",
+	"description": "استخوان گاو سایز XL، دودی و خشک‌شده به روش طبیعی. بدون افزودنی و لذت‌بخش برای جویدن.",
+	"bodyDescription": "Naturally smoked and dried XL Beef bone. Without additives and a joy to chew on. We recommend always supervising your dog when you give this chewing product. The bone should not be consumed by the dog as it can cause obstruct.",
+	"ogTitle": "استخوان گاو XL | Voskes",
+	"ogDescription": "استخوان گاو سایز XL، دودی و خشک‌شده به روش طبیعی. بدون افزودنی و لذت‌بخش برای جویدن.",
+	"canonical": "https://voskes.nl/products/beef-bone-xl",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16558-p.webp",
+			"alt": "BEEF BONE XL | Runderbot | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242939790",
+	"composition": "beef bone",
+	"analyticalComponents": "crude protein 25.7% crude fibre 0.1% crude fat 0.5% crude ash 68%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

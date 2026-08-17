@@ -1,0 +1,35 @@
+{
+	"slug": "cookies-mix",
+	"sku": "14149",
+	"gtin13": "8711242964594",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your dog with this mix of cunchy biscuits. \",\n    \"name\": \"COOKIES MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_14149_koekjesmix.png\",\n    \"sku\": \"14149\",\n    \"gtin13\": \"8711242964594\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "مخلوط بیسکویت | Voskes",
+	"heading": "COOKIES MIX",
+	"description": "مخلوطی ترد از خوراکی‌های پاداش برای سگ شما؛ شامل انواع و اندازه‌های مختلف بیسکویت سگ.",
+	"bodyDescription": "Spoil your dog with this mix of cunchy biscuits.",
+	"ogTitle": "مخلوط بیسکویت | Voskes",
+	"ogDescription": "مخلوطی ترد از خوراکی‌های پاداش برای سگ شما؛ شامل انواع و اندازه‌های مختلف بیسکویت سگ.",
+	"canonical": "https://voskes.nl/products/cookies-mix",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_14149_koekjesmix-p.webp",
+			"alt": "COOKIES MIX | Hondenkoekjes | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-14149-p.webp",
+			"alt": "COOKIES MIX | Hondenkoekjes | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "2kg"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242964594",
+	"composition": "cereals, animal derivatives, vegetable oils and fats, glucose and minerals .eu permitted colourings. technologicaladditive:emulsifier.",
+	"analyticalComponents": "crude protein 10% - oil5% - crude fibre 2% - calcium 1% - crude ash 4.5%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

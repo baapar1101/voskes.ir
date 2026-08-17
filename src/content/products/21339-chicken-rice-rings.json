@@ -1,0 +1,35 @@
+{
+	"slug": "21339-chicken-rice-rings",
+	"sku": "21339",
+	"gtin13": "8711242017993",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Surprise your dog with these delicious Voskes Chicken & Rice rings. These tasty rings are easily digestible & low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate ! \",\n    \"name\": \" Surprise your dog with these delicious Voskes Chicken & Rice rings. These tasty rings are easily digestible & low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate ! \",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21339_-_chicken__rice_rings__400gr_-_gs1-gs1_packshot-2064-333.png?v=bU4xRS\",\n    \"sku\": \"21339\",\n    \"gtin13\": \"8711242017993\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "دمبل مرغ و برنج | Voskes",
+	"heading": "حلقه مرغ و برنج",
+	"description": "Surprise your dog with these delicious Voskes Chicken & Rice rings. These tasty rings are easily digestible & low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate !",
+	"bodyDescription": "Surprise your dog with these delicious Voskes Chicken & Rice rings. These tasty rings are easily digestible & low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate !",
+	"ogTitle": "دمبل مرغ و برنج | Voskes",
+	"ogDescription": "Surprise your dog with these delicious Voskes Chicken & Rice rings. These tasty rings are easily digestible & low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate !",
+	"canonical": "https://voskes.nl/products/21339-chicken-rice-rings",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21339_-_chicken__rice_rings__400gr_-_gs1-gs1_packshot-2064-333-p.webp?v=bU4xRS",
+			"alt": "CHICKEN & RICE RINGS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21339---chicken--rice-rings--400gr-_content---gs1-gs1_product-2064-333-p.webp?v=bU4uzY",
+			"alt": "CHICKEN & RICE RINGS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017993",
+	"composition": "Chicken 68%, rice 20%, soy protein, corn starch, glycerin.",
+	"analyticalComponents": "Crude protein 25% - moisture 18% - crude ash 3% - crude oils and fats 3% - crude fibre 5%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

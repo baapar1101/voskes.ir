@@ -1,0 +1,35 @@
+{
+	"slug": "shoes-20cm",
+	"sku": "17391",
+	"gtin13": "87 112 42 93652 2",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Shoes made from 100% dried beef rawhide. These tasty shoes will bring your dog hours of chewing pleasure. \",\n    \"name\": \"SHOES   20CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17391.png\",\n    \"sku\": \"17391\",\n    \"gtin13\": \"87 112 42 93652 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "کفش جویدنی | Voskes",
+	"heading": "SHOES  20CM",
+	"description": "کفش‌های خوشمزه! این کفش‌های کوچک و بامزه از پوست خام خشک ساخته شده‌اند؛ ساعت‌ها لذت جویدن.",
+	"bodyDescription": "Shoes made from 100% dried beef rawhide. These tasty shoes will bring your dog hours of chewing pleasure.",
+	"ogTitle": "کفش جویدنی | Voskes",
+	"ogDescription": "کفش‌های خوشمزه! این کفش‌های کوچک و بامزه از پوست خام خشک ساخته شده‌اند؛ ساعت‌ها لذت جویدن.",
+	"canonical": "https://voskes.nl/products/shoes-20cm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17391-p.webp",
+			"alt": "SHOES 8\" (20CM) - 2PCS | Runderhuid hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17391-p.webp",
+			"alt": "SHOES 8\" (20CM) - 2PCS | Runderhuid hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936522",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

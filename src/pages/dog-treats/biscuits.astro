@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_biscuits.content.html?raw';
+import headerHtml from './_biscuits.header.html?raw';
+import cookieBannerHtml from './_biscuits.cookie.html?raw';
+import footerHtml from './_biscuits.footer.html?raw';
+
+import rootVars from './_biscuits.root-vars.css?raw';
+import cookieboxCss from './_biscuits.cookiebox.css?raw';
+import utilityColors from './_biscuits.utility-colors.css?raw';
+---
+
+<Base
+	title="بیسکویت برای سگ شما با تشویقی‌های Voskes"
+	description="بیسکویت کلاسیک دنیای تشویقی سگ است، چون تقریباً هر سگی را می‌شود با بیسکویت وسوسه کرد. Voskes آن را در تنوع فراوان دارد!"
+	canonical="https://voskes.nl/dog-treats/biscuits"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="بیسکویت برای سگ شما با تشویقی‌های Voskes"
+	ogDescription="بیسکویت کلاسیک دنیای تشویقی سگ است، چون تقریباً هر سگی را می‌شود با بیسکویت وسوسه کرد. Voskes آن را در تنوع فراوان دارد!"
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

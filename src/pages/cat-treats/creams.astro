@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_creams.content.html?raw';
+import headerHtml from './_creams.header.html?raw';
+import cookieBannerHtml from './_creams.cookie.html?raw';
+import footerHtml from './_creams.footer.html?raw';
+
+import rootVars from './_creams.root-vars.css?raw';
+import cookieboxCss from './_creams.cookiebox.css?raw';
+import utilityColors from './_creams.utility-colors.css?raw';
+---
+
+<Base
+	title="تشویقی کرمی گربه برای تجربه طعمی بی‌نظیر با Voskes"
+	description="این کرم‌های نرم خوراکی خوشمزه و سالمی برای هم‌خانه پشمالوی شماست. کم‌کالری و پرطعم؛ می‌توانید روی غذای خشک هم بریزید تا گربه سخت‌پسندتان اشتها پیدا کند."
+	canonical="https://voskes.nl/cat-treats/creams"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="تشویقی کرمی گربه برای تجربه طعمی بی‌نظیر با Voskes"
+	ogDescription="این کرم‌های نرم خوراکی خوشمزه و سالمی برای هم‌خانه پشمالوی شماست. کم‌کالری و پرطعم؛ می‌توانید روی غذای خشک هم بریزید تا گربه سخت‌پسندتان اشتها پیدا کند."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

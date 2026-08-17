@@ -1,0 +1,35 @@
+{
+	"slug": "fish-skin-braid",
+	"sku": "17442",
+	"gtin13": "8711242936751",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A natural snack made from dried fish skin. It is a healthy snack in between meals, it encourages chewing behaviour and its shape helps to keep teeth healthy. \",\n    \"name\": \"FISH SKIN BRAID\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17442.png\",\n    \"sku\": \"17442\",\n    \"gtin13\": \"8711242936751\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "بافت پوست ماهی | Voskes",
+	"heading": "FISH SKIN BRAID",
+	"description": "تشویقی طبیعی سگ از پوست خشک ماهی؛ میان‌وعده‌ای سالم که رفتار جویدن را تشویق و به مراقبت دندان کمک می‌کند.",
+	"bodyDescription": "A natural snack made from dried fish skin. It is a healthy snack in between meals, it encourages chewing behaviour and its shape helps to keep teeth healthy.",
+	"ogTitle": "بافت پوست ماهی | Voskes",
+	"ogDescription": "تشویقی طبیعی سگ از پوست خشک ماهی؛ میان‌وعده‌ای سالم که رفتار جویدن را تشویق و به مراقبت دندان کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/fish-skin-braid",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17442-p.webp",
+			"alt": "FISH SKIN BRAID | Gedroogde zalmhuid hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17442-p.webp",
+			"alt": "FISH SKIN BRAID | Gedroogde zalmhuid hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "160gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936751",
+	"composition": "fish 100%",
+	"analyticalComponents": "crude protein 68.1% - crude ash 8.5% - crude fat 2.0% - crude fibre 3.5% - moisturecontent12% .",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

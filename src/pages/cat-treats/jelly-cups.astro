@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_jelly-cups.content.html?raw';
+import headerHtml from './_jelly-cups.header.html?raw';
+import cookieBannerHtml from './_jelly-cups.cookie.html?raw';
+import footerHtml from './_jelly-cups.footer.html?raw';
+
+import rootVars from './_jelly-cups.root-vars.css?raw';
+import cookieboxCss from './_jelly-cups.cookiebox.css?raw';
+import utilityColors from './_jelly-cups.utility-colors.css?raw';
+---
+
+<Base
+	title="ژله لیوانی پر از طعم برای گربه شما با Voskes"
+	description="با این لیوان‌های پر از ژله و تکه‌های لطیف ماهی یا گوشت، حتی سخت‌پسندترین گربه را هم وسوسه می‌کنید. بی‌نهایت خوشمزه!"
+	canonical="https://voskes.nl/cat-treats/jelly-cups"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="ژله لیوانی پر از طعم برای گربه شما با Voskes"
+	ogDescription="با این لیوان‌های پر از ژله و تکه‌های لطیف ماهی یا گوشت، حتی سخت‌پسندترین گربه را هم وسوسه می‌کنید. بی‌نهایت خوشمزه!"
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

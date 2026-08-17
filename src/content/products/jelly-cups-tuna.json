@@ -1,0 +1,35 @@
+{
+	"slug": "jelly-cups-tuna",
+	"sku": "18167",
+	"gtin13": "87 112 42 93296 8",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Cups filled with deliciously tender, hand-selected pieces of fish. The exquisite flavours of the sea are a true delicacy for your cat. \",\n    \"name\": \"JELLY CUPS   TUNA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_154.png\",\n    \"sku\": \"18167\",\n    \"gtin13\": \"87 112 42 93296 8\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "ژله لیوانی ماهی تن | Voskes",
+	"heading": "ژله لیوانی  TUNA",
+	"description": "ژله لیوانی پر از تکه‌های لطیف و دست‌چین ماهی تن. طعم‌های ظریف دریا خوراکی بی‌نظیری برای گربه شماست.",
+	"bodyDescription": "لیوان‌هایی پر از تکه‌های لطیف و دست‌چین ماهی. طعم‌های نفیس دریا خوراکی بی‌نظیری برای گربه شماست.",
+	"ogTitle": "ژله لیوانی ماهی تن | Voskes",
+	"ogDescription": "ژله لیوانی پر از تکه‌های لطیف و دست‌چین ماهی تن. طعم‌های ظریف دریا خوراکی بی‌نظیری برای گربه شماست.",
+	"canonical": "https://voskes.nl/products/jelly-cups-tuna",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_154-p.webp",
+			"alt": "JELLY CUPS TUNA (6 X 25G) | Kattensnack met tonijn | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-18167-p.webp",
+			"alt": "JELLY CUPS TUNA (6 X 25G) | Kattensnack met tonijn | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶ × ۲۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242932968",
+	"composition": "tuna 84%, salmon10%, trehalose 3.5%, carrageenan (extract from seaweed) 0.70%, tapioca starch 0.5%, salt 0.20%, vitamin e 0.03%",
+	"analyticalComponents": "crude protein 5% - crude fat 0.5% - crude fibre 1.5% - crude ash 2% - moisture90% - calcium 0.01% - phosphorus 0.01% energy 53kcal/100g",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

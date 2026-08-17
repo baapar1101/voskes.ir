@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_soft-chewy-snacks.content.html?raw';
+import headerHtml from './_soft-chewy-snacks.header.html?raw';
+import cookieBannerHtml from './_soft-chewy-snacks.cookie.html?raw';
+import footerHtml from './_soft-chewy-snacks.footer.html?raw';
+
+import rootVars from './_soft-chewy-snacks.root-vars.css?raw';
+import cookieboxCss from './_soft-chewy-snacks.cookiebox.css?raw';
+import utilityColors from './_soft-chewy-snacks.utility-colors.css?raw';
+---
+
+<Base
+	title="تشویقی نرم و جویدنی برای گربه شما با Voskes"
+	description="این تشویقی‌ها کوچک اما لوکس‌اند؛ برای دوست پشمالوی شما. چه عاشق ماهی باشد چه گوشت‌خوار، برای هر گربه‌ای چیزی هست!"
+	canonical="https://voskes.nl/cat-treats/soft-chewy-snacks"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="تشویقی نرم و جویدنی برای گربه شما با Voskes"
+	ogDescription="این تشویقی‌ها کوچک اما لوکس‌اند؛ برای دوست پشمالوی شما. چه عاشق ماهی باشد چه گوشت‌خوار، برای هر گربه‌ای چیزی هست!"
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

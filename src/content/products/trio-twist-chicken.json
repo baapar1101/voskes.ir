@@ -1,0 +1,35 @@
+{
+	"slug": "trio-twist-chicken",
+	"sku": "17665",
+	"gtin13": "87 112 42 93597 6",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Trio Twist Chicken is a braid of white cowhide, a tasty strip of chicken and rawhide. A chew snack to savour. The shape also helps to keep teeth clean. \",\n    \"name\": \"TRIO TWIST   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking.png\",\n    \"sku\": \"17665\",\n    \"gtin13\": \"87 112 42 93597 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "پیچ سه‌تایی مرغ | Voskes",
+	"heading": "TRIO TWIST  مرغ",
+	"description": "پیچ سه‌تایی مرغ خوراکی واقعی دوست چهارپای شماست؛ بافتی از پوست خام شفاف با نوار خوشمزه مرغ.",
+	"bodyDescription": "The VOSKES Trio Twist Chicken is a braid of white cowhide, a tasty strip of chicken and rawhide. A chew snack to savour. The shape also helps to keep teeth clean.",
+	"ogTitle": "پیچ سه‌تایی مرغ | Voskes",
+	"ogDescription": "پیچ سه‌تایی مرغ خوراکی واقعی دوست چهارپای شماست؛ بافتی از پوست خام شفاف با نوار خوشمزه مرغ.",
+	"canonical": "https://voskes.nl/products/trio-twist-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking-p.webp",
+			"alt": "TRIO TWIST CHICKEN | Kip snack hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17665-p.webp",
+			"alt": "TRIO TWIST CHICKEN | Kip snack hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "130gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242935976",
+	"composition": "Raw hide 60%, sweetpotato 20%, rice flour 8%, pregelatinized starch 6.3%, vegetable protein 3%, glycerin 2.5%, salt 0.1%, potassium sorbate 0.1%",
+	"analyticalComponents": "Crude protein 68%, crude fibre 0,5%, crude fat 3,5%, crude ash 3,5%, moisture content 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

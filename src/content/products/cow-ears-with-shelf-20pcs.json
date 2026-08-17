@@ -1,0 +1,35 @@
+{
+	"slug": "cow-ears-with-shelf-20pcs",
+	"sku": "16413",
+	"gtin13": "87 112 42 93938 7",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   WITH SHELF   20 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st.png\",\n    \"sku\": \"16413\",\n    \"gtin13\": \"87 112 42 93938 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "گوش گاو با غضروف | Voskes",
+	"heading": "گوش گاو  WITH SHELF  20 PIECES",
+	"description": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
+	"bodyDescription": "گوش گاو خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
+	"ogTitle": "گوش گاو با غضروف | Voskes",
+	"ogDescription": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/cow-ears-with-shelf-20pcs",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st-p.webp",
+			"alt": "COW EARS WITH SHELF - 20PCS | Runderoren hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_cow_ears_with_meat_(promo)1-p.webp",
+			"alt": "COW EARS WITH SHELF - 20PCS | Runderoren hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "3pcs | 20pcs"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242939387",
+	"composition": "۱۰۰٪ گوشت گاو",
+	"analyticalComponents": "crude protein 85.0% crude fibre 0.5% crude fat 3.6% crude ash 3.4% moisturecontent7.2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

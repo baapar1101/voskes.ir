@@ -1,0 +1,35 @@
+{
+	"slug": "jelly-tuna-with-shirasu",
+	"sku": "19889",
+	"gtin13": "8711447890858",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and shirasu is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SHIRASU\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19889_tuna_with_shirasu_jelly_-_blik@2x.png\",\n    \"sku\": \"19889\",\n    \"gtin13\": \"8711447890858\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "ژله ماهی تن با شیراسو | Voskes",
+	"heading": "ژله ماهی تن  WITH SHIRASU",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و شیراسو است. خوراکی واقعی برای هر گربه‌ای!",
+	"bodyDescription": "This delicious jelly treat made with tuna and shirasu is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
+	"ogTitle": "ژله ماهی تن با شیراسو | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و شیراسو است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-shirasu",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19889_tuna_with_shirasu_jelly_-_blik@2x-p.webp",
+			"alt": "JELLY TUNA WITH SHIRASU | JELLY WETFOOD TUNA WITH SHIRASU | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19889_tuna_with_shirasu_jelly@2x-p.webp",
+			"alt": "JELLY TUNA WITH SHIRASU | JELLY WETFOOD TUNA WITH SHIRASU | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۸۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711447890858",
+	"composition": "tuna 51%, shirasu 4%, rice 1.5%, vegetable gelatine 0.75%.",
+	"analyticalComponents": "moisture 85% - crude protein 12.5% - crude ash 0.8% - crude oils & fats 1.0% - crude fibre 0.5%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "white-rawhide-roll",
+	"sku": "17652",
+	"gtin13": "8711242935693",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" 8 chewing rolls made from beef cowhide. 100% beef without additives. A tasty, natural chewy snack. Encourages chewing and helps to keep teeth healthy. \",\n    \"name\": \"WHITE RAWHIDE ROLL   8 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/17652_-_roll_white_m_10st_900x900.png\",\n    \"sku\": \"17652\",\n    \"gtin13\": \"8711242935693\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "رول پوست خام سفید | Voskes",
+	"heading": "WHITE RAWHIDE ROLL  ۸ عدد",
+	"description": "رول‌های جویدنی از ۱۰۰٪ گوشت گاو بدون افزودنی؛ خوراکی جویدنی طبیعی که رفتار جویدن را فعال و به سلامت دندان کمک می‌کند.",
+	"bodyDescription": "8 chewing rolls made from beef cowhide. 100% beef without additives. A tasty, natural chewy snack. Encourages chewing and helps to keep teeth healthy.",
+	"ogTitle": "رول پوست خام سفید | Voskes",
+	"ogDescription": "رول‌های جویدنی از ۱۰۰٪ گوشت گاو بدون افزودنی؛ خوراکی جویدنی طبیعی که رفتار جویدن را فعال و به سلامت دندان کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/white-rawhide-roll",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/17652_-_roll_white_m_10st_900x900-p.webp",
+			"alt": "WHITE RAWHIDE ROLL - 8PCS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17652-p.webp",
+			"alt": "WHITE RAWHIDE ROLL - 8PCS | dog snacks | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "300gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242935693",
+	"composition": "beef rawhide 100%",
+	"analyticalComponents": "crude protein 94.3%, crude fibre 0.1%, crude fat 2.1%, crude ash 2%, moisture content 11.6%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

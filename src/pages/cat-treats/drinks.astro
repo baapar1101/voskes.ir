@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_drinks.content.html?raw';
+import headerHtml from './_drinks.header.html?raw';
+import cookieBannerHtml from './_drinks.cookie.html?raw';
+import footerHtml from './_drinks.footer.html?raw';
+
+import rootVars from './_drinks.root-vars.css?raw';
+import cookieboxCss from './_drinks.cookiebox.css?raw';
+import utilityColors from './_drinks.utility-colors.css?raw';
+---
+
+<Base
+	title="آبگوشت خوشمزه برای گربه شما با نوشیدنی‌های Voskes"
+	description="سوپ‌های ما خوراکی ایده‌آلی هستند که گربه را به نوشیدن بیشتر تشویق می‌کنند. در ۴ طعم خوشمزه، همراه با تکه‌های لطیف ماهی و گوشت."
+	canonical="https://voskes.nl/cat-treats/drinks"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="آبگوشت خوشمزه برای گربه شما با نوشیدنی‌های Voskes"
+	ogDescription="سوپ‌های ما خوراکی ایده‌آلی هستند که گربه را به نوشیدن بیشتر تشویق می‌کنند. در ۴ طعم خوشمزه، همراه با تکه‌های لطیف ماهی و گوشت."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

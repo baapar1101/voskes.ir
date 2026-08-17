@@ -1,0 +1,35 @@
+{
+	"slug": "cow-ears-2pcs",
+	"sku": "17712",
+	"gtin13": "87 112 42 93386 6",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   2 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17712.png\",\n    \"sku\": \"17712\",\n    \"gtin13\": \"87 112 42 93386 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "گوش گاو | Voskes",
+	"heading": "گوش گاو  2 PIECES",
+	"description": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
+	"bodyDescription": "گوش گاو خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
+	"ogTitle": "گوش گاو | Voskes",
+	"ogDescription": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/cow-ears-2pcs",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17712-p.webp",
+			"alt": "COW EARS - 2PCS | Runderoren hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17712-p.webp",
+			"alt": "COW EARS - 2PCS | Runderoren hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲ عدد | ۸ عدد | ۱۰ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242933866",
+	"composition": "۱۰۰٪ گوشت گاو",
+	"analyticalComponents": "crude protein 85.4% crude fibre 1.4% crude fat 2.7% crude ash 1.8% moisturecontent10.9%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

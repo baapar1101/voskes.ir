@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import bodyHtml from './_cat-treats.content.html?raw';
+import headerHtml from './_cat-treats.header.html?raw';
+import cookieBannerHtml from './_cat-treats.cookie.html?raw';
+import footerHtml from './_cat-treats.footer.html?raw';
+
+import rootVars from './_cat-treats.root-vars.css?raw';
+import cookieboxCss from './_cat-treats.cookiebox.css?raw';
+import utilityColors from './_cat-treats.utility-colors.css?raw';
+---
+
+<Base
+	title="تشویقی‌های خوشمزه گربه Voskes را کشف کنید"
+	description="ببر کوچک خود را با تشویقی‌های سالم گربه Voskes نوازش کنید! خوراکی‌های ما نه‌تنها خوشمزه‌اند، تقریباً همه بدون غلات هستند."
+	canonical="https://voskes.nl/cat-treats"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="تشویقی‌های خوشمزه گربه Voskes را کشف کنید"
+	ogDescription="ببر کوچک خود را با تشویقی‌های سالم گربه Voskes نوازش کنید! خوراکی‌های ما نه‌تنها خوشمزه‌اند، تقریباً همه بدون غلات هستند."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

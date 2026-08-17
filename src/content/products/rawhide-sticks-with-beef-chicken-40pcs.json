@@ -1,0 +1,35 @@
+{
+	"slug": "rawhide-sticks-with-beef-chicken-40pcs",
+	"sku": "19613",
+	"gtin13": "87 112 42 01433 6",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein. \",\n    \"name\": \"RAWHIDE STICKS   WITH BEEF & CHICKEN   40 PIECES \",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_-_gs1-gs1_packshot-2064-238.png?v=bTKzc5\",\n    \"sku\": \"19613\",\n    \"gtin13\": \"87 112 42 01433 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "استیک پوست خام با گوشت گاو و مرغ | Voskes",
+	"heading": "استیک پوست خام  با گوشت گاو و مرغ  40 PIECES",
+	"description": "این استیک‌های جویدنی خوشمزه‌اند، لذت جویدن می‌آورند و به سلامت دندان‌ها کمک می‌کنند. ضمناً سرشار از پروتئین حیوانی هستند.",
+	"bodyDescription": "A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein.",
+	"ogTitle": "استیک پوست خام با گوشت گاو و مرغ | Voskes",
+	"ogDescription": "این استیک‌های جویدنی خوشمزه‌اند، لذت جویدن می‌آورند و به سلامت دندان‌ها کمک می‌کنند. ضمناً سرشار از پروتئین حیوانی هستند.",
+	"canonical": "https://voskes.nl/products/rawhide-sticks-with-beef-chicken-40pcs",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_-_gs1-gs1_packshot-2064-238-p.webp?v=bTKzc5",
+			"alt": "RAWHIDE STICKS WITH BEEF & CHICKEN - 40PCS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_inhoud_-_gs1-gs1_product-2064-238-p.webp?v=bTKzdm",
+			"alt": "RAWHIDE STICKS WITH BEEF & CHICKEN - 40PCS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014336",
+	"composition": "Meat and animal derivatives (beef rawhide 40%, chicken 30%, beef 12%), derivatives of vegetable origin, vegetable protein extracts, oils and fats,yeast, minerals.",
+	"analyticalComponents": "Crude protein 58% - moisture 18% - crude ash 3.5% - crude oils and fats 2.5% - crude fibre 1%.",
+	"additives": "حاوی نگهدارنده‌های مجاز اتحادیه اروپا.",
+	"benefits": [],
+	"extraHtml": null
+}

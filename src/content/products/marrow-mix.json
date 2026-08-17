@@ -1,0 +1,35 @@
+{
+	"slug": "marrow-mix",
+	"sku": "10964",
+	"gtin13": "8711242946132",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Mix of marrow biscuits suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given during training as a reward or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"MARROW MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_-_gs1-gs1_packshot-2064-15.png?v=bUmGm9\",\n    \"sku\": \"10964\",\n    \"gtin13\": \"8711242946132\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "مخلوط مغز استخوان | Voskes",
+	"heading": "MARROW MIX",
+	"description": "مخلوط بیسکویت مغز استخوان، مناسب توله‌های بالای ۶ ماه و سگ بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
+	"bodyDescription": "Mix of marrow biscuits suitable for puppies from 6 months onwards and adult dogs.These delicious, crunchy biscuits can be given during training as a reward or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E !",
+	"ogTitle": "مخلوط مغز استخوان | Voskes",
+	"ogDescription": "مخلوط بیسکویت مغز استخوان، مناسب توله‌های بالای ۶ ماه و سگ بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
+	"canonical": "https://voskes.nl/products/marrow-mix",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_-_gs1-gs1_packshot-2064-15-p.webp?v=bUmGm9",
+			"alt": "MARROW MIX |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_inhoud_-_gs1-gs1_product-2064-15-p.webp?v=bUmGmV",
+			"alt": "MARROW MIX |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰۰ گرم | ۷۵۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242946132",
+	"composition": "Cereals, oils & fats, sugars, minerals.",
+	"analyticalComponents": "Crude protein 9%, crude oils & fats 10%, crude ash 2.5%, crude fibre 1%.",
+	"additives": "NUTRITIONAL ADDITIVES per kg: vitamin A: 12,500 I.U. - vitamin D3: 1,000 I.U. - vitamin E: 90 mg\nTECHNOLOGICAL ADDITIVES : Contains EU-approved antioxidants & and colourants.",
+	"benefits": [],
+	"extraHtml": null
+}

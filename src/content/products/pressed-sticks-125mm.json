@@ -1,0 +1,35 @@
+{
+	"slug": "pressed-sticks-125mm",
+	"sku": "17371",
+	"gtin13": "8711242936324",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Compressed sticks made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"PRESSED STICKS 12,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17371.png\",\n    \"sku\": \"17371\",\n    \"gtin13\": \"8711242936324\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "استیک فشرده | Voskes",
+	"heading": "PRESSED STICKS 12,5CM",
+	"description": "استیک فشرده پوست خام یکی از محبوب‌ترین خوراکی‌هاست! این تشویقی سگ از پوست خام خشک ساخته شده است.",
+	"bodyDescription": "Compressed sticks made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean.",
+	"ogTitle": "استیک فشرده | Voskes",
+	"ogDescription": "استیک فشرده پوست خام یکی از محبوب‌ترین خوراکی‌هاست! این تشویقی سگ از پوست خام خشک ساخته شده است.",
+	"canonical": "https://voskes.nl/products/pressed-sticks-125mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17371-p.webp",
+			"alt": "PRESSED STICKS 5'' (12,5CM) - 20PCS | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17371-p.webp",
+			"alt": "PRESSED STICKS 5'' (12,5CM) - 20PCS | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "10pcs | 20pcs"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936324",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

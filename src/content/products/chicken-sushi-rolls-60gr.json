@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-sushi-rolls-60gr",
+	"sku": "19975",
+	"gtin13": "8711242014886",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These chicken-based cat snacks are a real treat for cats. Delicious chicken breast enriched with cod in a sushi shape. Suitable for growing kittens and adult cats. \",\n    \"name\": \"CHICKEN SUSHI ROLLS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19975-_chicken_sushi_rolls.png\",\n    \"sku\": \"19975\",\n    \"gtin13\": \"8711242014886\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "رول سوشی مرغ | Voskes",
+	"heading": "CHICKEN SUSHI ROLLS",
+	"description": "این خوراکی‌های نرم بر پایه مرغ محبوب گربه‌هاست! سینه مرغ خوشمزه غنی‌شده با ماهی کاد، در قالبی زیبا به شکل سوشی.",
+	"bodyDescription": "These chicken-based cat snacks are a real treat for cats. Delicious chicken breast enriched with cod in a sushi shape. Suitable for growing kittens and adult cats.",
+	"ogTitle": "رول سوشی مرغ | Voskes",
+	"ogDescription": "این خوراکی‌های نرم بر پایه مرغ محبوب گربه‌هاست! سینه مرغ خوشمزه غنی‌شده با ماهی کاد، در قالبی زیبا به شکل سوشی.",
+	"canonical": "https://voskes.nl/products/chicken-sushi-rolls-60gr",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19975-_chicken_sushi_rolls-p.webp",
+			"alt": "CHICKEN SUSHI ROLLS | Kattensnacks kip en vis | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19975_chicken_sushi_rolls_-_inhoud-p.webp",
+			"alt": "CHICKEN SUSHI ROLLS | Kattensnacks kip en vis | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014886",
+	"composition": "chicken 61%, cod 17%, tapioca starch 8.9%, glycerine 6%, vegetable protein 5%, sorbitol 2%, salt 0.1%",
+	"analyticalComponents": "crude protein 28% - moisture 20% - crude oils and fats 4% - crude ash 2,5% - crude fibres 2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}
