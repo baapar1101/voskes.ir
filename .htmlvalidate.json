@@ -1,1 +1,0 @@
-{"extends":["html-validate:recommended"],"rules":{"void-style":"off","no-inline-style":"off","attribute-boolean-style":"off","long-title":"off","require-sri":"off","wcag/h30":"off","wcag/h37":"off","wcag/h63":"off","wcag/h71":"off","no-trailing-whitespace":"off"}}
