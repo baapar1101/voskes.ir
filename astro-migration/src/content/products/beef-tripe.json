@@ -1,0 +1,35 @@
+{
+	"slug": "beef-tripe",
+	"sku": "17711",
+	"gtin13": "87 112 42 93384 2",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried beef tripe. Made from 100% beef. Brings a lot of chewing pleasure and helps to keep teeth healthy. \",\n    \"name\": \"BEEF TRIPE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17711.png\",\n    \"sku\": \"17711\",\n    \"gtin13\": \"87 112 42 93384 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Beef tripe | Voskes",
+	"heading": "BEEF TRIPE",
+	"description": "Natural, dried beef tripe. Made from 100% beef. Provides plenty of chewing pleasure and contributes to dental health.",
+	"bodyDescription": "Natural dried beef tripe. Made from 100% beef. Brings a lot of chewing pleasure and helps to keep teeth healthy.",
+	"ogTitle": "Beef tripe | Voskes",
+	"ogDescription": "Natural, dried beef tripe. Made from 100% beef. Provides plenty of chewing pleasure and contributes to dental health.",
+	"canonical": "https://voskes.nl/en/products/beef-tripe",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17711-p.webp",
+			"alt": "BEEF TRIPE | Runderpens | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17711-p.webp",
+			"alt": "BEEF TRIPE | Runderpens | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "150gr | 350gr | 1kg"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242933842",
+	"composition": "۱۰۰٪ گوشت گاو",
+	"analyticalComponents": "crude protein 80.7% crude fibre 2.0% crude fat 3.9% crude ash 1.8% moisturecontent8%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

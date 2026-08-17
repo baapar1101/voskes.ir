@@ -1,0 +1,35 @@
+{
+	"slug": "mix-bucket-chicken",
+	"sku": "19486",
+	"gtin13": "87 112 42 01420 6",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried Chicken Mix is a tasty, natural snack. Are not hard in texture and easy to chew \",\n    \"name\": \"MIX BUCKET CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19486-front.png\",\n    \"sku\": \"19486\",\n    \"gtin13\": \"87 112 42 01420 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Mix bucket chicken | Voskes",
+	"heading": "MIX BUCKET CHICKEN",
+	"description": "The mix bucket contains several tasty snacks with chicken for your dog. These snacks are easy to chew and are ideal for rewarding your dog.",
+	"bodyDescription": "Dried Chicken Mix is a tasty, natural snack. Are not hard in texture and easy to chew",
+	"ogTitle": "Mix bucket chicken | Voskes",
+	"ogDescription": "The mix bucket contains several tasty snacks with chicken for your dog. These snacks are easy to chew and are ideal for rewarding your dog.",
+	"canonical": "https://voskes.nl/en/products/mix-bucket-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19486-front-p.webp",
+			"alt": "MIX BUCKET CHICKEN | Hondensnacks met kip | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19486_-_8711242014206_-_mix_bucket_chicken_600gr_gs1-gs1_product-2064-249-p.webp?v=bV0axF",
+			"alt": "MIX BUCKET CHICKEN |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014206",
+	"composition": "۱۰۰٪ مرغ",
+	"analyticalComponents": "crude protein 51.3% - crude fibre 3.5% - crude fat 34.8% - crude ash 9.9% - moisture 5.4%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

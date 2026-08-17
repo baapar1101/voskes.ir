@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import bodyHtml from './_biscuits.content.html?raw';
+import headerHtml from './_biscuits.header.html?raw';
+import cookieBannerHtml from './_biscuits.cookie.html?raw';
+import footerHtml from './_biscuits.footer.html?raw';
+
+---
+
+<Base
+	title="Biscuits for your dog with the Voskes Treats"
+	description="Biscuits are the classics among dog snacks. Because just about any doggo can be tempted with a biscuit. And Voskes has these in lots of varieties!"
+	canonical="https://voskes.nl/en/dog-treats/biscuits"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Biscuits for your dog with the Voskes Treats"
+	ogDescription="Biscuits are the classics among dog snacks. Because just about any doggo can be tempted with a biscuit. And Voskes has these in lots of varieties! "
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

@@ -1,0 +1,35 @@
+{
+	"slug": "soup-with-salmon",
+	"sku": "21044",
+	"gtin13": "8711242017160",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Soup with salmon is a delicious snack that encourages cats to drink more and promotes hydration. If cats do not drink enough, there is a risk of urolite formation. Especially cats following a diet consisting mainly of dry food are susceptible to this. Voskes Soup with Salmon is completely grain-free and no salt was added. Can be given separately as a drink or as a topping over kibble for extra flavour, ideal for picky cats! \",\n    \"name\": \"SOUP   WITH SALMON\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210441.png\",\n    \"sku\": \"21044\",\n    \"gtin13\": \"8711242017160\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Soup with salmon | Voskes",
+	"heading": "سوپ  WITH SALMON",
+	"description": "Voskes Soup with Salmon is a delicious snack that encourages cats to drink more and promotes hydration.",
+	"bodyDescription": "Voskes Soup with salmon is a delicious snack that encourages cats to drink more and promotes hydration. If cats do not drink enough, there is a risk of urolite formation. Especially cats following a diet consisting mainly of dry food are susceptible to this. Voskes Soup with Salmon is completely grain-free and no salt was added. Can be given separately as a drink or as a topping over kibble for extra flavour, ideal for picky cats!",
+	"ogTitle": "Soup with salmon | Voskes",
+	"ogDescription": "Voskes Soup with Salmon is a delicious snack that encourages cats to drink more and promotes hydration.",
+	"canonical": "https://voskes.nl/en/products/soup-with-salmon",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210441-p.webp",
+			"alt": "SOUP WITH SALMON |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_voskes_cat_drink_visual_salmon_lr-gs1_product-2064-311-p.webp?v=bTTb7t",
+			"alt": "SOUP WITH SALMON |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۵۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017160",
+	"composition": "salmon 5%, chicken, tapioca starch, glycine, sunflower oil, xylose, fish collagen",
+	"analyticalComponents": "moisture 93%, crude protein 3,5%, crude ash 0,5%, crude oils & fats 0,3%, crude fibre 0,5%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

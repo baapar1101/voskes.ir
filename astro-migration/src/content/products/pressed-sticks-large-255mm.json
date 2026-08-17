@@ -1,0 +1,35 @@
+{
+	"slug": "pressed-sticks-large-255mm",
+	"sku": "17374",
+	"gtin13": "8711242936355",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Compressed sticks made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"PRESSED STICKS   25,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17374.png\",\n    \"sku\": \"17374\",\n    \"gtin13\": \"8711242936355\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Pressed sticks | Voskes",
+	"heading": "PRESSED STICKS  25,5CM",
+	"description": "The rawhide pressed bar is one of the most popular snacks! This dog snack is made of dried rawhide.",
+	"bodyDescription": "Compressed sticks made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean.",
+	"ogTitle": "Pressed sticks | Voskes",
+	"ogDescription": "The rawhide pressed bar is one of the most popular snacks! This dog snack is made of dried rawhide.",
+	"canonical": "https://voskes.nl/en/products/pressed-sticks-large-255mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17374-p.webp",
+			"alt": "PRESSED STICKS 10'' (25,5CM) - 10PCS | Gedroogde hondensnacks | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17374-p.webp",
+			"alt": "PRESSED STICKS 10'' (25,5CM) - 10PCS | Gedroogde hondensnacks | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "10pcs"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936355",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

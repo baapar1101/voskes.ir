@@ -1,0 +1,35 @@
+{
+	"slug": "training-treats-lamb-and-rice",
+	"sku": "15056",
+	"gtin13": "8711242942974",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Lamb & Rice are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. \",\n    \"name\": \"TRAINING TREATS LAMB & RICE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15056_training_treats_lamb__rice_200gr_-web.png\",\n    \"sku\": \"15056\",\n    \"gtin13\": \"8711242942974\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Training treats lamb & rice | Voskes",
+	"heading": "تشویقی آموزشی بره و برنج",
+	"description": "Voskes Training Treats with lamb & rice are delicious, soft reward treats with no added sugar.",
+	"bodyDescription": "Voskes Training Treats with Lamb & Rice are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day.",
+	"ogTitle": "Training treats lamb & rice | Voskes",
+	"ogDescription": "Voskes Training Treats with lamb & rice are delicious, soft reward treats with no added sugar.",
+	"canonical": "https://voskes.nl/en/products/training-treats-lamb-and-rice",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15056_training_treats_lamb__rice_200gr_-web-p.webp",
+			"alt": "TRAINING TREATS LAMB & RICE |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15056_training_treats_lamb__rice_200gr_inhoud-web-p.webp",
+			"alt": "TRAINING TREATS LAMB & RICE |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242942974",
+	"composition": "cereals, derivatives of vegetable origin (2 % rice flour), oils and fats, meat and animal derivatives (2% lamb meal)",
+	"analyticalComponents": "crude protein 11.70% - crude oils and fats 5.90% - crude fibre 1% - crude ash 2% - moisture 24%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

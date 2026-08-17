@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-necks",
+	"sku": "17726",
+	"gtin13": "8711242934146",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The Voskes chicken necks are dried and dogs love this snack. They are not too hard and have a slightly brittle texture. \",\n    \"name\": \"CHICKEN NECKS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17726.png\",\n    \"sku\": \"17726\",\n    \"gtin13\": \"8711242934146\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Chicken necks | Voskes",
+	"heading": "CHICKEN NECKS",
+	"description": "Crunchy, not too hard and very flavourful. The chicken necks are dried. The chicken necks are somewhat brittle in texture, making them easy to chew.",
+	"bodyDescription": "The Voskes chicken necks are dried and dogs love this snack. They are not too hard and have a slightly brittle texture.",
+	"ogTitle": "Chicken necks | Voskes",
+	"ogDescription": "Crunchy, not too hard and very flavourful. The chicken necks are dried. The chicken necks are somewhat brittle in texture, making them easy to chew.",
+	"canonical": "https://voskes.nl/en/products/chicken-necks",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17726-p.webp",
+			"alt": "CHICKEN NECKS | Kippennekken | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17726-p.webp",
+			"alt": "CHICKEN NECKS | Kippennekken | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "150gr | 500gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242934146",
+	"composition": "۱۰۰٪ مرغ",
+	"analyticalComponents": "crude protein 46.4% - crude fibre 1.6% - crude fat 7.9% - crude ash 3.4% - moisture 5.4%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

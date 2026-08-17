@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_dog-treats.content.html?raw';
+import headerHtml from './_dog-treats.header.html?raw';
+import cookieBannerHtml from './_dog-treats.cookie.html?raw';
+import footerHtml from './_dog-treats.footer.html?raw';
+
+---
+
+<Base
+	title="تشویقی‌ها و خوراکی‌های فراوان برای غافلگیر کردن سگ شما با Voskes!"
+	description="Pampering your four-legged friend with a tasty treat ? At Voskes, we have a wide choice of different snacks for your dog!"
+	canonical="https://voskes.nl/en/dog-treats"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Plenty of snacks and treats to suprise your dog with Voskes! "
+	ogDescription="Pampering your four-legged friend with a tasty treat ? At Voskes, we have a wide choice of different snacks for your dog!"
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

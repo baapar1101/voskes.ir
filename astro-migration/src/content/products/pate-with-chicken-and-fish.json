@@ -1,0 +1,35 @@
+{
+	"slug": "pate-with-chicken-and-fish",
+	"sku": "20570",
+	"gtin13": "8711242016880",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious paté treat made with chicken and fish is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and fish, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat and fish ! \",\n    \"name\": \"PATÉ   WITH CHICKEN & FISH\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20570_pate_with_chicken_and_fish_blik.png\",\n    \"sku\": \"20570\",\n    \"gtin13\": \"8711242016880\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Paté with chicken and fish | Voskes",
+	"heading": "پته  WITH CHICKEN & FISH",
+	"description": "This cat snack is a delicious chicken and fish-based treat. A real treat for any cat!",
+	"bodyDescription": "This delicious paté treat made with chicken and fish is a veritable delicacy for every cat!The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and fish, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat and fish !",
+	"ogTitle": "Paté with chicken and fish | Voskes",
+	"ogDescription": "This cat snack is a delicious chicken and fish-based treat. A real treat for any cat!",
+	"canonical": "https://voskes.nl/en/products/pate-with-chicken-and-fish",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20570_pate_with_chicken_and_fish_blik.webp",
+			"alt": "PATÉ WITH CHICKEN & FISH | PATÉ WETFOOD WITH CHICKEN & FISH | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20570_pate_with_chicken_and_fish1.webp",
+			"alt": "PATÉ WITH CHICKEN & FISH | PATÉ WETFOOD WITH CHICKEN & FISH | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۸۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242016880",
+	"composition": "chicken 19%, mackerel 12%, vegetable gelatine 1,5%, tapioca starch, glycine, xylose, pea protein, sodium tripolyphosphate, sunflower oil, sodium chloride, potassium chloride",
+	"analyticalComponents": "moisture 86%, crude protein 7%, crude ash 1,0%, crude oils & fats 3,0%, crude fibre 0,5%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

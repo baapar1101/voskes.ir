@@ -1,0 +1,35 @@
+{
+	"slug": "marrow-hearts",
+	"sku": "11146",
+	"gtin13": "8711242980402",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Heart-shaped marrow biscuits, suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"MARROW HEARTS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-11146_-_marrow_hearts_400gr_-_gs1-gs1_packshot-2064-20.png?v=bUmGpE\",\n    \"sku\": \"11146\",\n    \"gtin13\": \"8711242980402\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Marrow hearts | Voskes",
+	"heading": "MARROW HEARTS",
+	"description": "Marrow biscuits in the shape of a heart, suitable for puppies from 6 months and adult dogs. Moreover, the biscuits are enriched with vitamins A, D3 and E.",
+	"bodyDescription": "Heart-shaped marrow biscuits, suitable for puppies from 6 months onwards and adult dogs.These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E !",
+	"ogTitle": "Marrow hearts | Voskes",
+	"ogDescription": "Marrow biscuits in the shape of a heart, suitable for puppies from 6 months and adult dogs. Moreover, the biscuits are enriched with vitamins A, D3 and E.",
+	"canonical": "https://voskes.nl/en/products/marrow-hearts",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-11146_-_marrow_hearts_400gr_-_gs1-gs1_packshot-2064-20-p.webp?v=bUmGpE",
+			"alt": "MARROW HEARTS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-11146_-_marrow_hearts_400gr_inhoud_-_gs1-gs1_product-2064-20-p.webp?v=bUmGp4",
+			"alt": "MARROW HEARTS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰۰ گرم | ۷۵۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242980402",
+	"composition": "Cereals, oils & fats, sugars, minerals.",
+	"analyticalComponents": "Crude protein 9%, crude oils & fats 10%, crude ash 2.5%, crude fibre 1%,",
+	"additives": "NUTRITIONAL ADDITIVES per kg: vitamin A: 12,500 I.U. - vitamin D3: 1,000 I.U. - vitamin E: 90 mg\nTECHNOLOGICAL ADDITIVES : Contains EU-approved antioxidants & and colourants.",
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import bodyHtml from './_drinks.content.html?raw';
+import headerHtml from './_drinks.header.html?raw';
+import cookieBannerHtml from './_drinks.cookie.html?raw';
+import footerHtml from './_drinks.footer.html?raw';
+
+---
+
+<Base
+	title="Delicious broth for your cat with the Voskes Drinks"
+	description="Our Soups are the ideal treat that encourage your cat to drink more. Available in 4 delicious flavours, these drinks contain fine pieces of fish and/or meat."
+	canonical="https://voskes.nl/en/cat-treats/drinks"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Delicious broth for your cat with the Voskes Drinks"
+	ogDescription="Our Soups are the ideal treat that encourage your cat to drink more. Available in 4 delicious flavours, these drinks contain fine pieces of fish and/or meat."
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

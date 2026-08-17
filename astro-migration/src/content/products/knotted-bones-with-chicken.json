@@ -1,0 +1,35 @@
+{
+	"slug": "knotted-bones-with-chicken",
+	"sku": "16562",
+	"gtin13": "87 112 42 93985 1",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A mix of dental bones made from white beef rawhide and chicken. 100% natural ingredients without additives. A tasty, natural chewy snack. Encourages chewing and helps to keep teeth healthy. \",\n    \"name\": \"KNOTTED BONES   WITH CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16562_-_geknoopte_kauwbotten_met_kip_-_gs1-gs1_packshot-2064-169.png?v=bTTcit\",\n    \"sku\": \"16562\",\n    \"gtin13\": \"87 112 42 93985 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Knotted bones with chicken | Voskes",
+	"heading": "استخوان گره‌دار  با مرغ",
+	"description": "100% natural ingredients with no additives. A delicious, natural chewy snack. Activates chewing behaviour and contributes to healthy teeth.",
+	"bodyDescription": "A mix of dental bones made from white beef rawhide and chicken. 100% natural ingredients without additives. A tasty, natural chewy snack. Encourages chewing and helps to keep teeth healthy.",
+	"ogTitle": "Knotted bones with chicken | Voskes",
+	"ogDescription": "100% natural ingredients with no additives. A delicious, natural chewy snack. Activates chewing behaviour and contributes to healthy teeth.",
+	"canonical": "https://voskes.nl/en/products/knotted-bones-with-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16562_-_geknoopte_kauwbotten_met_kip_-_gs1-gs1_packshot-2064-169-p.webp?v=bTTcit",
+			"alt": "KNOTTED BONES WITH CHICKEN - 10PCS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16562_-_inhoud_geknoopte_kauwbotten_met_kip_-_gs1-gs1_product-2064-169-p.webp?v=bTTcjc",
+			"alt": "KNOTTED BONES WITH CHICKEN - 10PCS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "10pcs"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242939851",
+	"composition": "beef rawhide 76%, chicken 22%, glycerin, salt.",
+	"analyticalComponents": "crude protein 78% - crude fibre 1.5% - crude fat 3.5% - crude ash 4% -moisture 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

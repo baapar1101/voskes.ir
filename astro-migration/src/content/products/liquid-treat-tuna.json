@@ -1,0 +1,35 @@
+{
+	"slug": "liquid-treat-tuna",
+	"sku": "21565",
+	"gtin13": "8711242018563",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your cat with our Liquid Treats with tuna – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. This variant is made with only natural ingredients and is completely grain-free, allowing your cat to enjoy it responsibly. Thanks to the addition of sunflower oil, rich in omega fatty acids, the Liquid Treats support healthy skin and a shiny coat. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health. \",\n    \"name\": \"LIQUID TREAT TUNA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21565_-_8711242018563_-_liquid_treat_tuna_-_20x15gr_left.png\",\n    \"sku\": \"21565\",\n    \"gtin13\": \"8711242018563\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Liquid treat tuna | Voskes",
+	"heading": "LIQUID TREAT TUNA",
+	"description": "Spoil your cat with our Liquid Treats with tuna – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. This variant is made with only natural ingredients and is completely grain-free, allowing your cat to enjoy it responsibly. Thanks to the addition of sunflower oil, rich in omega fatty acids, the Liquid Treats support healthy skin and a shiny coat. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health.",
+	"bodyDescription": "Spoil your cat with our Liquid Treats with tuna – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. This variant is made with only natural ingredients and is completely grain-free, allowing your cat to enjoy it responsibly. Thanks to the addition of sunflower oil, rich in omega fatty acids, the Liquid Treats support healthy skin and a shiny coat. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health.",
+	"ogTitle": "Liquid treat tuna | Voskes",
+	"ogDescription": "Spoil your cat with our Liquid Treats with tuna – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. This variant is made with only natural ingredients and is completely grain-free, allowing your cat to enjoy it responsibly. Thanks to the addition of sunflower oil, rich in omega fatty acids, the Liquid Treats support healthy skin and a shiny coat. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health.",
+	"canonical": "https://voskes.nl/en/products/liquid-treat-tuna",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21565_-_8711242018563_-_liquid_treat_tuna_-_20x15gr_left-p.webp",
+			"alt": "LIQUID TREAT TUNA (20 X 15G) |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21565-8711242018563-liquid-treat-tuna-15gr-content-p.webp",
+			"alt": "LIQUID TREAT TUNA (20 X 15G) |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲۰ × ۱۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242018563",
+	"composition": "Fish and fish derivatives (tuna 26%), derivatives of vegetable origin, fruit (cranberry 2%, blueberry 2%), meat and animal derivatives, oils and fats (salmon oil 0,4%), various sugars (FOS 0,04%), Yeasts",
+	"analyticalComponents": "Moisture 86%, crude protein 6,5%, crude ash 1%, crude oils and fats 1%, crude fibre 0,5%",
+	"additives": "Nutritional additives: Taurine 500mg/kg, Vitamine E 50mg/kg, Vitamine C (3a300) 100mg/kg",
+	"benefits": [],
+	"extraHtml": null
+}

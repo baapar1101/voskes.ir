@@ -1,0 +1,35 @@
+{
+	"slug": "rawhide-sticks-with-duck-25cm",
+	"sku": "20022",
+	"gtin13": "8711242015128",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and duck. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH DUCK   25CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20022---rawhide-twists-with-duck-25-cm-x-2---web_gs1-gs1_packshot-2064-327.png?v=bUweuE\",\n    \"sku\": \"20022\",\n    \"gtin13\": \"8711242015128\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Rawhide sticks with duck | Voskes",
+	"heading": "استیک پوست خام  با اردک  ۲۵ سانتی‌متر",
+	"description": "A tasty treat for your dog consisting of Chew sticks wrapped with rawhide, beef and chicken",
+	"bodyDescription": "A tasty treat for your dog consisting of beef rawhide and duck. These chew sticks are delicious, provide chewing pleasure and therefore contributeto healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds.",
+	"ogTitle": "Rawhide sticks with duck | Voskes",
+	"ogDescription": "A tasty treat for your dog consisting of Chew sticks wrapped with rawhide, beef and chicken",
+	"canonical": "https://voskes.nl/en/products/rawhide-sticks-with-duck-25cm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20022---rawhide-twists-with-duck-25-cm-x-2---web_gs1-gs1_packshot-2064-327-p.webp?v=bUweuE",
+			"alt": "RAWHIDE STICKS WITH DUCK 25CM - 2PCS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20022---rawhide-twists-with-duck-25-cm-x-2_content--web_gs1-gs1_product-2064-327-p.webp?v=bUwex2",
+			"alt": "RAWHIDE STICKS WITH DUCK 25CM - 2PCS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242015128",
+	"composition": "Beef rawhide 68%, duck 22%, glycerin 2%, sorbitol 2%, peanut meal 2%, soybean meal 2%, corn starch 1%, salt 0.5%, sugar 0.3%",
+	"analyticalComponents": "Crude Protein 65%, moisture 18%, crude fibre 2%, crude ash 2%, crude fat 1%.",
+	"additives": "Potassium sorbate 0.2%",
+	"benefits": [],
+	"extraHtml": null
+}

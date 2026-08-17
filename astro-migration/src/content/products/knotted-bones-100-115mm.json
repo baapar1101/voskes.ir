@@ -1,0 +1,35 @@
+{
+	"slug": "knotted-bones-100-115mm",
+	"sku": "17376",
+	"gtin13": "8711242936379",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"KNOTTED BONES   10-11,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17376.png\",\n    \"sku\": \"17376\",\n    \"gtin13\": \"8711242936379\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Knotted bones | Voskes",
+	"heading": "استخوان گره‌دار  10-11,5CM",
+	"description": "Bones are tasty and healthy dog snacks to keep teeth healthy. These knotted bones are the ideal dog snack as a snack or reward.",
+	"bodyDescription": "Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean.",
+	"ogTitle": "Knotted bones | Voskes",
+	"ogDescription": "Bones are tasty and healthy dog snacks to keep teeth healthy. These knotted bones are the ideal dog snack as a snack or reward.",
+	"canonical": "https://voskes.nl/en/products/knotted-bones-100-115mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17376-p.webp",
+			"alt": "KNOTTED BONES 4-4,5\" (10-11,5CM) - 5PCS | Gedroogde hondensnacks | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17376-p.webp",
+			"alt": "KNOTTED BONES 4-4,5\" (10-11,5CM) - 5PCS | Gedroogde hondensnacks | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "5pcs"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936379",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "trio-twist-chicken",
+	"sku": "17665",
+	"gtin13": "87 112 42 93597 6",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Trio Twist Chicken is a braid of white cowhide, a tasty strip of chicken and rawhide. A chew snack to savour. The shape also helps to keep teeth clean. \",\n    \"name\": \"TRIO TWIST   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking.png\",\n    \"sku\": \"17665\",\n    \"gtin13\": \"87 112 42 93597 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Trio twist chicken | Voskes",
+	"heading": "TRIO TWIST  مرغ",
+	"description": "The trio twist Chicken is a real treat for your four-legged friend. The trio twist Chicken is a braid of clear rawhide, a tasty strip of chicken and rawhide",
+	"bodyDescription": "The VOSKES Trio Twist Chicken is a braid of white cowhide, a tasty strip of chicken and rawhide. A chew snack to savour. The shape also helps to keep teeth clean.",
+	"ogTitle": "Trio twist chicken | Voskes",
+	"ogDescription": "The trio twist Chicken is a real treat for your four-legged friend. The trio twist Chicken is a braid of clear rawhide, a tasty strip of chicken and rawhide",
+	"canonical": "https://voskes.nl/en/products/trio-twist-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking-p.webp",
+			"alt": "TRIO TWIST CHICKEN | Kip snack hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17665-p.webp",
+			"alt": "TRIO TWIST CHICKEN | Kip snack hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "130gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242935976",
+	"composition": "Raw hide 60%, sweetpotato 20%, rice flour 8%, pregelatinized starch 6.3%, vegetable protein 3%, glycerin 2.5%, salt 0.1%, potassium sorbate 0.1%",
+	"analyticalComponents": "Crude protein 68%, crude fibre 0,5%, crude fat 3,5%, crude ash 3,5%, moisture content 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-fillet-slices",
+	"sku": "16053",
+	"gtin13": "8711242941564",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your dog with these Voskes Chicken Fillet slices, made from 100% fresh chicken breast, with no added colours, flavourings or preservatives. This dried chicken fillet is low in fat and easily digestible, excellent for overweight and allergic dogs. Moreover, this snack is a rich & nutritious source of animal protein, essential in your dog's nutritional needs. \",\n    \"name\": \"CHICKEN FILLET SLICES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_front_gs1-gs1_packshot-2064-67.png?v=bTU3HU\",\n    \"sku\": \"16053\",\n    \"gtin13\": \"8711242941564\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Chicken fillet slices | Voskes",
+	"heading": "برش‌های فیله مرغ",
+	"description": "Voskes chicken breast slices is a delicious treat and contains 100% fresh chicken breast, with no added colourings, flavourings or preservatives.",
+	"bodyDescription": "Spoil your dog with these Voskes Chicken Fillet slices, made from 100% fresh chicken breast, with no added colours, flavourings or preservatives. This dried chicken fillet is low in fat and easily digestible, excellent for overweight and allergic dogs. Moreover, this snack is a rich & nutritious source of animal protein, essential in your dog's nutritional needs.",
+	"ogTitle": "Chicken fillet slices | Voskes",
+	"ogDescription": "Voskes chicken breast slices is a delicious treat and contains 100% fresh chicken breast, with no added colourings, flavourings or preservatives.",
+	"canonical": "https://voskes.nl/en/products/chicken-fillet-slices",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_front_gs1-gs1_packshot-2064-67-p.webp?v=bTU3HU",
+			"alt": "CHICKEN FILLET SLICES |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_inhoud-gs1-gs1_product-2064-67-p.webp?v=bTU3Id",
+			"alt": "CHICKEN FILLET SLICES |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "100gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242941564",
+	"composition": "Meat and animal derivatives, (chicken 95%), derivatives of vegetable origin, oils & fats, minerals.",
+	"analyticalComponents": "Crude protein 31.6% - moisture 18% - crude ash 3.1% - crude oils & fats 1.4% - crude fibre 0.1%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

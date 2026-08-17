@@ -1,0 +1,136 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+	const products = await getCollection('products');
+	return products.map((product) => ({
+		params: { slug: product.data.slug },
+		props: { product },
+	}));
+}
+
+const { product } = Astro.props;
+const p = product.data;
+---
+
+<Base title={p.title} description={p.description} canonical={p.canonical} ogTitle={p.ogTitle} ogDescription={p.ogDescription} bodyClass="Products" jsonLd={p.jsonLd}>
+	<div class="section section--none section--padding">
+		<div class="san-container product__container">
+			<div class="san-col" data-span="tablet-sm-5 tablet-lg-5">
+				<div class="glide product-slider" data-js-slide id="product-slider" data-autoplay="10000" data-per-view="1">
+					<div class="glide__track product-slider__images" data-glide-el="track">
+						<ul class="glide__slides">
+							{p.images.map((img) => (
+								<li class="glide__slide product-slider__item">
+									<div class="ar--square">
+										<div class="ar__content">
+											<img loading="lazy" decoding="async" class="obj--contain" src={img.src} alt={img.alt} />
+										</div>
+									</div>
+								</li>
+							))}
+						</ul>
+					</div>
+
+					{p.images.length > 1 && (
+						<div class="product-slider__bullet-container" data-glide-el="controls[nav]">
+							{p.images.map((img, i) => (
+								<button class="product-slider__bullet" data-glide-dir={`=${i}`} type="button">
+									<span class="ar--square">
+										<span class="ar__content">
+											<img loading="lazy" decoding="async" class="obj--contain" src={img.src} alt={img.alt} />
+										</span>
+									</span>
+								</button>
+							))}
+						</div>
+					)}
+
+					<div class="product-slider__control-container d-lg-none" data-glide-el="controls">
+						<button class="product-slider__controls product-slider__controls--prev" data-glide-dir="<" aria-label={p.sliderPrevLabel} type="button">
+							<i class="fas fa-chevron-circle-right" aria-hidden="true"></i>
+						</button>
+						<button class="product-slider__controls product-slider__controls--next" data-glide-dir=">" aria-label={p.sliderNextLabel} type="button">
+							<i class="fas fa-chevron-circle-left" aria-hidden="true"></i>
+						</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="san-col" data-span="tablet-sm-7 tablet-lg-7">
+				<div class="product__headings">
+					<h1>{p.heading}</h1>
+				</div>
+
+				<div class="product__description">
+					{p.bodyDescription && <p>{p.bodyDescription}</p>}
+				</div>
+
+				{p.available && (
+					<div class="product__available mb--15">
+						<span class="product__available-text" style="margin-inline-end:15px;">{p.available.label}</span>
+						<span class="product__available-weight">{p.available.value}</span>
+					</div>
+				)}
+
+				{p.ctaHref && (
+					<div class="product__cta" style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 10px; margin-bottom: 60px;">
+						<a href={p.ctaHref} class="btn btn--cat-primary btn--normal" rel="noopener"><i class="fas fa-shopping-cart"></i></a>
+					</div>
+				)}
+
+				<div class="product-components">
+					{p.composition && (
+						<div class="faq__item">
+							<div class="faq__question" data-san-id="expand-item" data-groupid="faq" data-target="[san-id='open-faq--Composition']" data-state="closed" data-classlist="open" tabindex="0" role="button" aria-expanded="false">
+								ترکیبات
+							</div>
+							<div class="faq__answer" data-san-id="open-faq--Composition">
+								{p.composition}
+							</div>
+						</div>
+					)}
+					{p.analyticalComponents && (
+						<div class="faq__item">
+							<div class="faq__question" data-san-id="expand-item" data-groupid="faq" data-target="[san-id='open-faq--Analytical components']" data-state="closed" data-classlist="open" tabindex="0" role="button" aria-expanded="false">
+								ترکیبات تجزیه‌ای
+							</div>
+							<div class="faq__answer" data-san-id="open-faq--Analytical components">
+								{p.analyticalComponents}
+							</div>
+						</div>
+					)}
+					{p.additives && (
+						<div class="faq__item">
+							<div class="faq__question" data-san-id="expand-item" data-groupid="faq" data-target="[san-id='open-faq--Additives']" data-state="closed" data-classlist="open" tabindex="0" role="button" aria-expanded="false">
+								افزودنی‌ها
+							</div>
+							<div class="faq__answer" data-san-id="open-faq--Additives">
+								{p.additives}
+							</div>
+						</div>
+					)}
+				</div>
+			</div>
+
+			{p.benefits.length > 0 && (
+				<div class="san-col" data-span="12">
+					<div class="product-needs__container">
+						{p.benefits.map((b) => (
+							<div class="product-needs">
+								<div class="product-needs__icon">
+									<img class="obj--fullwidth" loading="lazy" decoding="async" alt={b.iconAlt} src={b.icon} />
+								</div>
+								<div class="product-needs__description">
+									{b.description}
+								</div>
+							</div>
+						))}
+					</div>
+				</div>
+			)}
+		</div>
+	</div>
+	{p.extraHtml && <Fragment set:html={p.extraHtml} />}
+</Base>

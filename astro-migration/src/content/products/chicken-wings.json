@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-wings",
+	"sku": "17728",
+	"gtin13": "8711242934184",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried Chicken wings are a delicious, natural snack. Nice and crunchy and it encourages chewing. The bones do not splinter so they can be consumed by the dog. \",\n    \"name\": \"CHICKEN WINGS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17728.png\",\n    \"sku\": \"17728\",\n    \"gtin13\": \"8711242934184\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Chicken wings | Voskes",
+	"heading": "CHICKEN WINGS",
+	"description": "Dried chicken wings are a delicious, natural dog snack. Deliciously crunchy and activates chewing.",
+	"bodyDescription": "Dried Chicken wings are a delicious, natural snack. Nice and crunchy and it encourages chewing. The bones do not splinter so they can be consumed by the dog.",
+	"ogTitle": "Chicken wings | Voskes",
+	"ogDescription": "Dried chicken wings are a delicious, natural dog snack. Deliciously crunchy and activates chewing.",
+	"canonical": "https://voskes.nl/en/products/chicken-wings",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17728-p.webp",
+			"alt": "CHICKEN WINGS | Kippenvleugels | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17728-p.webp",
+			"alt": "CHICKEN WINGS | Kippenvleugels | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "150gr | 500gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242934184",
+	"composition": "۱۰۰٪ مرغ",
+	"analyticalComponents": "crude protein 47.4% - crude fibre 1.6% - crude fat 7.9% - crude ash 3.4% - moisture 5.4%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

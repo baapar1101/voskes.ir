@@ -1,0 +1,35 @@
+{
+	"slug": "rawhide-sticks-with-chicken-25cm",
+	"sku": "18175",
+	"gtin13": "8711242933163",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH CHICKEN   25CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_18175.png\",\n    \"sku\": \"18175\",\n    \"gtin13\": \"8711242933163\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Rawhide sticks with chicken | Voskes",
+	"heading": "استیک پوست خام  با مرغ  ۲۵ سانتی‌متر",
+	"description": "These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein.",
+	"bodyDescription": "A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contributeto healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds.",
+	"ogTitle": "Rawhide sticks with chicken | Voskes",
+	"ogDescription": "These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein.",
+	"canonical": "https://voskes.nl/en/products/rawhide-sticks-with-chicken-25cm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_18175-p.webp",
+			"alt": "RAWHIDE STICKS WITH CHICKEN 25CM - 2PCS | Kauwsticks hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_18175inhoud-p.webp",
+			"alt": "RAWHIDE STICKS WITH CHICKEN 25CM - 2PCS | Kauwsticks hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242933163",
+	"composition": "Meat and animal derivatives (chicken 52%, beef rawhide 43%), vegetable protein extracts, oils and fats, minerals.",
+	"analyticalComponents": "crude protein 65% - crude fat 5% - crude fibre 1% - crude ash 3.5% - moisture 18%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

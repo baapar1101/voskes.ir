@@ -1,0 +1,35 @@
+{
+	"slug": "roll-sticks-125mm",
+	"sku": "17370",
+	"gtin13": "8711242936317",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" VOSKES Rollsticks are made from dried cowhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"ROLL STICKS   12,5 CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17370.png\",\n    \"sku\": \"17370\",\n    \"gtin13\": \"8711242936317\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Rollsticks | Voskes",
+	"heading": "ROLL STICKS  12,5 CM",
+	"description": "This functional snack is not only very tasty, but also contributes to keeping teeth clean. The roll sticks are made of dried rawhide.",
+	"bodyDescription": "VOSKES Rollsticks are made from dried cowhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean.",
+	"ogTitle": "Rollsticks | Voskes",
+	"ogDescription": "This functional snack is not only very tasty, but also contributes to keeping teeth clean. The roll sticks are made of dried rawhide.",
+	"canonical": "https://voskes.nl/en/products/roll-sticks-125mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17370-p.webp",
+			"alt": "ROLL STICKS 5\" (12,5 CM) - 50PCS | dog snacks | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17370-p.webp",
+			"alt": "ROLL STICKS 5\" (12,5 CM) - 50PCS | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "50pcs"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936317",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

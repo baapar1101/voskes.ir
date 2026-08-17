@@ -1,0 +1,35 @@
+{
+	"slug": "duck-fillet-hearts",
+	"sku": "19974",
+	"gtin13": "8711242014862",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These duck-based cat snacks are a real treat for cats. Delicious duck fillet enriched with fish in a beautiful heart shape. Suitable for growing kittens and adult cats. \",\n    \"name\": \"DUCK FILLET HEARTS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts.png\",\n    \"sku\": \"19974\",\n    \"gtin13\": \"8711242014862\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Duck fillet hearts | Voskes",
+	"heading": "DUCK FILLET HEARTS",
+	"description": "Voskes duck fillet hearts are delicious soft cat treats, ideal as a snack or reward!",
+	"bodyDescription": "These duck-based cat snacks are a real treat for cats. Delicious duck fillet enriched with fish in a beautiful heart shape. Suitable for growing kittens and adult cats.",
+	"ogTitle": "Duck fillet hearts | Voskes",
+	"ogDescription": "Voskes duck fillet hearts are delicious soft cat treats, ideal as a snack or reward!",
+	"canonical": "https://voskes.nl/en/products/duck-fillet-hearts",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts-p.webp",
+			"alt": "DUCK FILLET HEARTS | Kattensnack met eend | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts_-_inhoud-p.webp",
+			"alt": "DUCK FILLET HEARTS | Kattensnacks kip en vis | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014862",
+	"composition": "duck 65%, fish 10%, vegetable protein 8%, tapioca starch 6%, wheat flour 5.8%, glycerine 5%, salt 0.2%",
+	"analyticalComponents": "crude protein 2% - moisture 18% - crude oils and fats 4,5% - crude ash 4,5% - crude fibres 2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": "<div class=\"d--flex\" style=\"flex-wrap: wrap;\">\n                    \n\n                                        \n            \n            \n            \n            \n            \n            \n                                <div class=\"section section--none section--padding bg-c--white txt-c--nero heading-c--nero link-c--nero\">\n    <div class=\"san-container\" style=\"justify-content: center;\"><div class=\"san-col\" data-span=\"12 tablet-lg-6 desktop-3\"><a href=\"/en/blog/drinks.html\" class=\"link--no-style\">\n      <div class=\"j-card bg-c--transparent txt-c--nero\" data-type=\"container\" data-lazyload=\"true\" data-background-image=\"/uploads/bg_image/bg_image-en-bg-kat1-background_image-48-1.webp\" style=\"background-size: contain;\">\n    <div class=\"j-card\" data-type=\"head\" data-no-border=\"\" data-no-padding=\"\">\n\n                  <div class=\"ar ar--square\">\n            <div class=\"ar__content\">\n\n                \n            </div>\n          </div>\n        \n    </div>\n\n        <div class=\"j-card\" data-type=\"body\">\n            <div class=\"j-card\" data-type=\"title\">Is your cat drinking too little? </div>\n            <div class=\"j-card\" data-type=\"content\">Voskes has a wide range of cat snacks that increase fluid intake and will please many cats! </div>\n    </div>\n    \n              <div class=\"j-card\" data-type=\"footer\" data-no-border=\"\">\n          <span class=\"btn btn__block btn--nero btn--normal\">بیشتر بخوانید</span>\n        </div>\n        </div>\n    </a>\n</div><div class=\"san-col\" data-span=\"12 tablet-lg-6 desktop-3\"><a href=\"/en/cat-food/complete-dry-food.html\" class=\"link--no-style\">\n      <div class=\"j-card bg-c--transparent txt-c--nero\" data-type=\"container\" data-lazyload=\"true\" data-background-image=\"/uploads/bg_image/bg_image-kaart_kattenvoer_21-background_image-48-3.png\" style=\"background-size: contain;\">\n    <div class=\"j-card\" data-type=\"head\" data-no-border=\"\" data-no-padding=\"\">\n\n                  <div class=\"ar ar--square\">\n            <div class=\"ar__content\">\n\n                \n            </div>\n          </div>\n        \n    </div>\n\n        <div class=\"j-card\" data-type=\"body\">\n            <div class=\"j-card\" data-type=\"title\">Complete dry food <br> for cats</div>\n            <div class=\"j-card\" data-type=\"content\">Delicious crispy kibble with chicken or salmon as the main ingredient! </div>\n    </div>\n    \n              <div class=\"j-card\" data-type=\"footer\" data-no-border=\"\">\n          <span class=\"btn btn__block btn--nero btn--normal\">Discover catfood</span>\n        </div>\n        </div>\n    </a>\n</div><div class=\"san-col\" data-span=\"12 tablet-lg-6 desktop-3\"><a href=\"/en/blog/encouragement.html\" class=\"link--no-style\">\n      <div class=\"j-card bg-c--transparent txt-c--nero\" data-type=\"container\" data-lazyload=\"true\" data-background-image=\"/uploads/bg_image/bg_image-en-bg-hond-background_image-48-2.webp\" style=\"background-size: contain;\">\n    <div class=\"j-card\" data-type=\"head\" data-no-border=\"\" data-no-padding=\"\">\n\n                  <div class=\"ar ar--square\">\n            <div class=\"ar__content\">\n\n                \n            </div>\n          </div>\n        \n    </div>\n\n        <div class=\"j-card\" data-type=\"body\">\n            <div class=\"j-card\" data-type=\"title\">Which snack suits my dog? </div>\n            <div class=\"j-card\" data-type=\"content\">Your dog is naturally inquisitive. What best suits such an adventurous lifestyle?</div>\n    </div>\n    \n              <div class=\"j-card\" data-type=\"footer\" data-no-border=\"\">\n          <span class=\"btn btn__block btn--nero btn--normal\">بیشتر بخوانید</span>\n        </div>\n        </div>\n    </a>\n</div></div>\n</div>\n\n\n\n\n\n\n            \n            \n            </div>"
+}

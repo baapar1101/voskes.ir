@@ -1,0 +1,35 @@
+{
+	"slug": "training-treats-salmon-and-rice",
+	"sku": "15057",
+	"gtin13": "8711242942998",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Salmon & Rice are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day \",\n    \"name\": \"TRAINING TREATS   SALMON & RICE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15057_training_treats_salmon__rice_200gr_-_web.png\",\n    \"sku\": \"15057\",\n    \"gtin13\": \"8711242942998\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Training treats salmon & rice | Voskes",
+	"heading": "تشویقی آموزشی  SALMON & RICE",
+	"description": "Voskes Training Treats with salmon & rice are delicious, soft reward treats with no added sugar.",
+	"bodyDescription": "Voskes Training Treats with Salmon & Rice are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day",
+	"ogTitle": "Training treats salmon & rice | Voskes",
+	"ogDescription": "Voskes Training Treats with salmon & rice are delicious, soft reward treats with no added sugar.",
+	"canonical": "https://voskes.nl/en/products/training-treats-salmon-and-rice",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15057_training_treats_salmon__rice_200gr_-_web-p.webp",
+			"alt": "TRAINING TREATS SALMON & RICE |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15057_training_treats_salmon__rice_200gr_inhoud_-web-p.webp",
+			"alt": "TRAINING TREATS SALMON & RICE |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242942998",
+	"composition": "cereals, derivatives of vegetable origin (2% rice flour), oils and fats (2,50% salmon oil), meat and animal derivatives",
+	"analyticalComponents": "crude protein 11.70% - crude oils and fats 5.90% - crude fibre 1% - crude ash 2% - moisture 24%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import bodyHtml from './_soft-chewy-snacks.content.html?raw';
+import headerHtml from './_soft-chewy-snacks.header.html?raw';
+import cookieBannerHtml from './_soft-chewy-snacks.cookie.html?raw';
+import footerHtml from './_soft-chewy-snacks.footer.html?raw';
+
+---
+
+<Base
+	title="Soft & Chewy snacks for your cat with the Voskes Treats"
+	description="These cat treats are small but luxurious treats for your fluffy four-legged friend. Whether an avid fish lover or rather a carnivore, there is something for every cat!"
+	canonical="https://voskes.nl/en/cat-treats/soft-chewy-snacks"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Soft & Chewy snacks for your cat with the Voskes Treats"
+	ogDescription="These cat treats are small but luxurious treats for your fluffy four-legged friend. Whether an avid fish lover or rather a carnivore, there is something for every cat!"
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-breast-fillets",
+	"sku": "18332",
+	"gtin13": "87 112 42 93199 2",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious treat contains 100% fresh chicken breast, with no added colours, flavourings or preservatives. This dried chicken fillet is low in fat and easily digestible, excellent for overweight and allergic dogs. Moreover, this snack is a rich & nutritious source of animal protein, essential in your dog's nutritional needs. \",\n    \"name\": \"CHICKEN BREAST FILLETS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-18332_-_chicken_breast_fillets_400g-gs1-gs1_packshot-2064-197.png?v=bUfzGF\",\n    \"sku\": \"18332\",\n    \"gtin13\": \"87 112 42 93199 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Chicken breast fillets | Voskes",
+	"heading": "فیله سینه مرغ",
+	"description": "This treat contains 100% fresh chicken breast, with no added colours, flavourings or preservatives and is low in fat and easily digestible.",
+	"bodyDescription": "This delicious treat contains 100% fresh chicken breast, with no added colours, flavourings or preservatives. This dried chicken fillet is low in fat and easily digestible, excellent for overweight and allergic dogs. Moreover, this snack is a rich & nutritious source of animal protein, essential in your dog's nutritional needs.",
+	"ogTitle": "Chicken breast fillets | Voskes",
+	"ogDescription": "This treat contains 100% fresh chicken breast, with no added colours, flavourings or preservatives and is low in fat and easily digestible.",
+	"canonical": "https://voskes.nl/en/products/chicken-breast-fillets",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-18332_-_chicken_breast_fillets_400g-gs1-gs1_packshot-2064-197-p.webp?v=bUfzGF",
+			"alt": "CHICKEN BREAST FILLETS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-18332_-_chicken_breast_fillets_400g_inhoud-gs1-gs1_product-2064-197-p.webp?v=bUfzHP",
+			"alt": "CHICKEN BREAST FILLETS |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱۰۰ گرم | ۴۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242931992",
+	"composition": "chicken98%, glycerin, salt",
+	"analyticalComponents": "crude protein 41.6% - crude ash 2.4% - crude fat 1.8% - crude fibre 0.1% - moisturecontent25%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "pressed-bone-305mm",
+	"sku": "17388",
+	"gtin13": "87 112 42 93649 2",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Pressed bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for large to very large breeds. \",\n    \"name\": \"PRESSED BONE   30,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17388.png\",\n    \"sku\": \"17388\",\n    \"gtin13\": \"87 112 42 93649 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Pressed bone (xxl) | Voskes",
+	"heading": "PRESSED BONE  30,5CM",
+	"description": "Pressed bone made of 100% dried cowhide. Dogs love to chew on this dog snack and it also contributes to keeping teeth clean.",
+	"bodyDescription": "Pressed bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for large to very large breeds.",
+	"ogTitle": "Pressed bone (xxl) | Voskes",
+	"ogDescription": "Pressed bone made of 100% dried cowhide. Dogs love to chew on this dog snack and it also contributes to keeping teeth clean.",
+	"canonical": "https://voskes.nl/en/products/pressed-bone-305mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17388-p.webp",
+			"alt": "PRESSED BONE 12\" (30,5CM) - 1PC | Geperst bot hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17388-p.webp",
+			"alt": "PRESSED BONE 12\" (30,5CM) - 1PC | Geperst bot hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936492",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

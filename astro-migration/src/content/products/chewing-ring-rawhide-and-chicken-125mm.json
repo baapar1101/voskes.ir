@@ -1,0 +1,35 @@
+{
+	"slug": "chewing-ring-rawhide-and-chicken-125mm",
+	"sku": "19875",
+	"gtin13": "8711242014954",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This chew ring made of beef rawhide coated with dried chicken breast is a delicious treat for your four-legged friend to keep him occupied for hours. Chewy snacks contribute to healthy teeth by helping against the formation of tartar and plaque. This snack is also rich in animal protein. Suitable for adult large breed dogs. \",\n    \"name\": \"CHEWING RING   RAWHIDE & CHICKEN   12,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19875_-_chewing_ring_rawhide__chicken_12,5_cm_-_gs1-gs1_packshot-2064-307.png?v=bTTcfJ\",\n    \"sku\": \"19875\",\n    \"gtin13\": \"8711242014954\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Chewing ring rawhide & chicken | Voskes",
+	"heading": "CHEWING RING  RAWHIDE & CHICKEN  12,5CM",
+	"description": "Contributes to healthy teeth. This snack is also rich in animal protein. Suitable for adult large-breed dogs.",
+	"bodyDescription": "This chew ring made of beef rawhide coated with dried chicken breast is a delicious treat for your four-legged friend to keep him occupied for hours. Chewy snacks contribute to healthy teeth by helping against the formation of tartar and plaque. This snack is also rich in animal protein. Suitable for adult large breed dogs.",
+	"ogTitle": "Chewing ring rawhide & chicken | Voskes",
+	"ogDescription": "Contributes to healthy teeth. This snack is also rich in animal protein. Suitable for adult large-breed dogs.",
+	"canonical": "https://voskes.nl/en/products/chewing-ring-rawhide-and-chicken-125mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19875_-_chewing_ring_rawhide__chicken_12,5_cm_-_gs1-gs1_packshot-2064-307-p.webp?v=bTTcfJ",
+			"alt": "CHEWING RING RAWHIDE & CHICKEN 12,5CM |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19875_-_inhoud_chewing_ring_rawhide__chicken_12,5_cm_-_gs1-gs1_product-2064-307-p.webp?v=bTTcgE",
+			"alt": "CHEWING RING RAWHIDE & CHICKEN 12,5CM |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "12,5cm | 19cm"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014954",
+	"composition": "Meat and animal derivatives (beef rawhide 55%, chicken 42%), derivatives of vegetable origin, oils and fats.",
+	"analyticalComponents": "Crude protein 71% - moisture 18% - crude ash 4.5% - crude oils and fats 5% - crude fibre 1.5%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

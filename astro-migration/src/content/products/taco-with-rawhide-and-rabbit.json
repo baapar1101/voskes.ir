@@ -1,0 +1,35 @@
+{
+	"slug": "taco-with-rawhide-and-rabbit",
+	"sku": "21144",
+	"gtin13": "8711242017368",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious rawhide-based snack richly filled with rabbit is a treat that is sure to please any four-legged friend. These tacos provide nice, long chewing fun and thus help fight boredom. Moreover, chewing contributes to good dental care and reduction of plaque. The tacos are rich in meat and contain plenty of animal proteins. \",\n    \"name\": \"TACO   RAWHIDE & RABBIT\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21144_-_tacos_with_rabbit_400g_-_gs1-gs1_packshot-2064-320.png?v=bTuF5N\",\n    \"sku\": \"21144\",\n    \"gtin13\": \"8711242017368\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Taco with rawhide & rabbit | Voskes",
+	"heading": "TACO  RAWHIDE & RABBIT",
+	"description": "These tacos provide plenty of chewing fun and thus help fight boredom. Chewing contributes to good dental care and reduction of plaque.",
+	"bodyDescription": "This delicious rawhide-based snack richly filled with rabbit is a treat that is sure to please any four-legged friend. These tacos provide nice, long chewing fun and thus help fight boredom. Moreover, chewing contributes to good dental care and reduction of plaque. The tacos are rich in meat and contain plenty of animal proteins.",
+	"ogTitle": "Taco with rawhide & rabbit | Voskes",
+	"ogDescription": "These tacos provide plenty of chewing fun and thus help fight boredom. Chewing contributes to good dental care and reduction of plaque.",
+	"canonical": "https://voskes.nl/en/products/taco-with-rawhide-and-rabbit",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21144_-_tacos_with_rabbit_400g_-_gs1-gs1_packshot-2064-320-p.webp?v=bTuF5N",
+			"alt": "TACO WITH RAWHIDE & RABBIT | taco met konijn | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21142_-_inhoud_tacos_with_chicken_400g_-_gs1-gs1_product-2064-320-p.webp?v=bTuF5X",
+			"alt": "TACO WITH RAWHIDE & RABBIT | inhoud taco met eend | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017368",
+	"composition": "Meat and animal derivatives (rabbit 62.3%, beef rawhide 28%), vegetable protein extracts, oils and fats, derivatives of vegetable origin, minerals.",
+	"analyticalComponents": "Crude protein 50% - crude oils and fats 3% - crude fibre 2% - crude ash 2% - moisture 18%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

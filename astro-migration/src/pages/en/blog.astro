@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_blog.content.html?raw';
+import headerHtml from './_blog.header.html?raw';
+import cookieBannerHtml from './_blog.cookie.html?raw';
+import footerHtml from './_blog.footer.html?raw';
+
+---
+
+<Base
+	title="وبلاگ و دانستنی‌های Voskes"
+	description="Blogs about Dogs & Cats! We tell a lot about our new products for our furry friends."
+	canonical="https://voskes.nl/en/blog"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Blogs & Facts of Voskes"
+	ogDescription="Blogs about Dogs & Cats! We tell a lot about our new products for our furry friends."
+	bodyClass="Blog"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

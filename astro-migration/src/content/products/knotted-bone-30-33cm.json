@@ -1,0 +1,35 @@
+{
+	"slug": "knotted-bone-30-33cm",
+	"sku": "17381",
+	"gtin13": "8711242936423",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for large to very large breeds. \",\n    \"name\": \"KNOTTED BONE   30-33CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17381.png\",\n    \"sku\": \"17381\",\n    \"gtin13\": \"8711242936423\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Knotted bone | Voskes",
+	"heading": "KNOTTED BONE  30-33CM",
+	"description": "Pressed bone made of 100% dried cowhide. Dogs love to chew this dog snack and it also contributes to keeping teeth clean.",
+	"bodyDescription": "Knotted bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for large to very large breeds.",
+	"ogTitle": "Knotted bone | Voskes",
+	"ogDescription": "Pressed bone made of 100% dried cowhide. Dogs love to chew this dog snack and it also contributes to keeping teeth clean.",
+	"canonical": "https://voskes.nl/en/products/knotted-bone-30-33cm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17381-p.webp",
+			"alt": "KNOTTED BONE 12-13\" (30-33CM) - 1PC | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17381-p.webp",
+			"alt": "KNOTTED BONE 12-13\" (30-33CM) - 1PC | Gedroogde hondensnack | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۱ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936423",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

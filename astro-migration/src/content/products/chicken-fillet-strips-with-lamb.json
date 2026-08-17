@@ -1,0 +1,35 @@
+{
+	"slug": "chicken-fillet-strips-with-lamb",
+	"sku": "14166",
+	"gtin13": "8711242954359",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These dried chicken fillet strips enriched with lamb are a delicious treat for your dog. Plus, this healthy snack is packed with animal protein ! This treat contains no colourings or flavourings, no preservatives and no sugars! In short, very suitable as a responsible and healthy snack for your four-legged friend. \",\n    \"name\": \"CHICKEN FILLET STRIPS WITH LAMB\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14166_-_chicken_fillet_strips_with_lamb_400g-gs1-gs1_packshot-2064-59.png?v=bUfzJY\",\n    \"sku\": \"14166\",\n    \"gtin13\": \"8711242954359\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Chicken fillet strips with lamb | Voskes",
+	"heading": "نوارهای فیله مرغ با بره",
+	"description": "Voskes Chicken Breast strips with lamb is packed with animal proteins. This treat contains no colourings or flavourings, no preservatives and no sugars!",
+	"bodyDescription": "These dried chicken fillet strips enriched with lamb are a delicious treat for your dog. Plus, this healthy snack is packed with animal protein ! This treat contains no colourings or flavourings, no preservatives and no sugars! In short, very suitable as a responsible and healthy snack for your four-legged friend.",
+	"ogTitle": "Chicken fillet strips with lamb | Voskes",
+	"ogDescription": "Voskes Chicken Breast strips with lamb is packed with animal proteins. This treat contains no colourings or flavourings, no preservatives and no sugars!",
+	"canonical": "https://voskes.nl/en/products/chicken-fillet-strips-with-lamb",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14166_-_chicken_fillet_strips_with_lamb_400g-gs1-gs1_packshot-2064-59-p.webp?v=bUfzJY",
+			"alt": "CHICKEN FILLET STRIPS WITH LAMB |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14166_-_chicken_fillet_strips_with_lamb_400g_inhoud-gs1-gs1_product-2064-59-p.webp?v=bUfzK4",
+			"alt": "CHICKEN FILLET STRIPS WITH LAMB |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242954359",
+	"composition": "Meat and animal derivatives (chicken 75%, lamb 20%), derivatives of vegetable origin, minerals.",
+	"analyticalComponents": "Crude protein 49.3% - moisture 18% - crude ash 4.1% - crude oils and fats 5.5% - crude fibre 0.1%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

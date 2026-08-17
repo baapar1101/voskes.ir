@@ -1,0 +1,35 @@
+{
+	"slug": "shoes-125mm",
+	"sku": "17390",
+	"gtin13": "87 112 42 93651 5",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Shoes made from 100% dried beef rawhide. These tasty shoes will bring your dog hours of chewing pleasure. \",\n    \"name\": \"SHOES   12,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17390.png\",\n    \"sku\": \"17390\",\n    \"gtin13\": \"87 112 42 93651 5\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Shoes | Voskes",
+	"heading": "SHOES  12,5CM",
+	"description": "Tasty dog snack! These cute little shoes are made of dried rawhide. Hours of chewing fun.",
+	"bodyDescription": "Shoes made from 100% dried beef rawhide. These tasty shoes will bring your dog hours of chewing pleasure.",
+	"ogTitle": "Shoes | Voskes",
+	"ogDescription": "Tasty dog snack! These cute little shoes are made of dried rawhide. Hours of chewing fun.",
+	"canonical": "https://voskes.nl/en/products/shoes-125mm",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17390-p.webp",
+			"alt": "SHOES 5\" (12,5CM) - 8PCS | Runderhuid hond | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17390-p.webp",
+			"alt": "SHOES 5\" (12,5CM) - 8PCS | Runderhuid hond | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "3pcs | 8pcs"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242936515",
+	"composition": "۱۰۰٪ پوست خام گاو",
+	"analyticalComponents": "Crude protein 84% - crude ash 1% - crude fat 2% - crude fibre 3%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

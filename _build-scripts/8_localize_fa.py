@@ -18,9 +18,10 @@ import os, re, json, glob, html, collections
 DST = '/home/claude/build/voskes.nl'
 CAT = os.path.join(DST, 'i18n', 'fa.json')
 
-FONT_LINK = ('<link rel="stylesheet" '
-             'href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/'
-             'Vazirmatn-font-face.css">')
+# Vazirmatn is self-hosted: the @font-face block lives at the top of
+# css/style.min.css and loads from /assets/fonts/vazirmatn/. No external
+# stylesheet link is injected any more (the old jsdelivr CDN is gone).
+FONT_LINK = None
 FONT_STACK = ('"Vazirmatn", -apple-system, BlinkMacSystemFont, "Segoe UI", '
               'Tahoma, sans-serif')
 
@@ -69,9 +70,9 @@ def set_html_attrs(doc):
 
 # ------------------------------------------------------------------- 2. fonts
 def inject_font(doc):
-    if FONT_LINK not in doc:
-        doc = doc.replace('</head>', FONT_LINK + '</head>', 1)
-        stats['font_link_added'] += 1
+    # strip any legacy CDN <link> that an earlier run injected
+    doc, n = re.subn(r'<link rel="stylesheet" href="https://cdn\.jsdelivr\.net/[^"]*">', '', doc)
+    stats['cdn_link_removed'] += n
     # the per-page inline <style> defines the font custom properties
     for var in ('--default_font', '--heading_font', '--btn_font_family'):
         doc, n = re.subn(var + r'\s*:\s*[^;}]*', var + ': ' + FONT_STACK, doc)

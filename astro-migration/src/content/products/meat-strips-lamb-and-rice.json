@@ -1,0 +1,35 @@
+{
+	"slug": "meat-strips-lamb-and-rice",
+	"sku": "19668",
+	"gtin13": "87 112 42 01453 4",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Tender and tasty meat strips with lamb. This dog snack is very suitable as a healthy snack for dogs. Into smaller pieces, it can also be used as a reward snack during training. \",\n    \"name\": \"MEAT STRIPS   LAMB & RICE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/19688_-_vleesstrips_lamrijst_600gr.png\",\n    \"sku\": \"19668\",\n    \"gtin13\": \"87 112 42 01453 4\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Meat strips lamb & rice | Voskes",
+	"heading": "MEAT STRIPS  LAMB & RICE",
+	"description": "Tender and flavoursome meat strips with Lamb and Rice. Suitable as a healthy and natural snack for dogs.",
+	"bodyDescription": "Tender and tasty meat strips with lamb. This dog snack is very suitable as a healthy snack for dogs. Into smaller pieces, it can also be used as a reward snack during training.",
+	"ogTitle": "Meat strips lamb & rice | Voskes",
+	"ogDescription": "Tender and flavoursome meat strips with Lamb and Rice. Suitable as a healthy and natural snack for dogs.",
+	"canonical": "https://voskes.nl/en/products/meat-strips-lamb-and-rice",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/19688_-_vleesstrips_lamrijst_600gr-p.webp",
+			"alt": "MEAT STRIPS LAMB & RICE |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr_inhoud-gs1_product-2064-91-p.webp?v=bTTcbQ",
+			"alt": "MEAT STRIPS LAMB & RICE |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014534",
+	"composition": "Meat and animal derivatives (lamb 4%), cereals (rice 4%), glycerine, derivatives of vegetable origin, minerals.",
+	"analyticalComponents": "Crude protein 25%, crude oils and fats 4%, crude fibre 2%, crude ash 12%, moisture 16%.",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

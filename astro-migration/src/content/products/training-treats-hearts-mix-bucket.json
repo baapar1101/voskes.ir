@@ -1,0 +1,35 @@
+{
+	"slug": "training-treats-hearts-mix-bucket",
+	"sku": "14160",
+	"gtin13": "8711242964723",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Hearts Mix are soft, small heart-shaped treats in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket. \",\n    \"name\": \"TRAINING TREATS   HEARTS MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14160-gs1-gs1_packshot-2064-112.png?v=bTg16E\",\n    \"sku\": \"14160\",\n    \"gtin13\": \"8711242964723\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Training treats hearts mix | Voskes",
+	"heading": "تشویقی آموزشی  HEARTS MIX",
+	"description": "Voskes Heart Mix are soft, small dog treats in a mix of different flavours.",
+	"bodyDescription": "Voskes Hearts Mix are soft, small heart-shaped treats in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket.",
+	"ogTitle": "Training treats hearts mix | Voskes",
+	"ogDescription": "Voskes Heart Mix are soft, small dog treats in a mix of different flavours.",
+	"canonical": "https://voskes.nl/en/products/training-treats-hearts-mix-bucket",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14160-gs1-gs1_packshot-2064-112-p.webp?v=bTg16E",
+			"alt": "TRAINING TREATS HEARTS MIX |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14160_training_treats_heart_mix_500g_-_inhoud_klein_-_web-gs1_product-2064-112-p.webp?v=bTdYDA",
+			"alt": "TRAINING TREATS HEARTS MIX |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "500gr"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242964723",
+	"composition": "cereals, derivatives of vegetable origin, oils and fats, meat and animal derivatives, fish and fish derivatives",
+	"analyticalComponents": "moisture 24% - crude protein 11.70% - crude oils and fats 5.90% - crude fibre 1% - crude ash 2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,35 @@
+{
+	"slug": "rawhide-sticks-with-duck-40pcs",
+	"sku": "19542",
+	"gtin13": "87 112 42 01423 7",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious chewy snack consists of no less than 40 sticks with rawhide and duck. This snack is very rich in animal protein and duck is an easily digestible source of meat, making it suitable for dogs with sensitive intestines. \",\n    \"name\": \"RAWHIDE STICKS   WITH DUCK   40 PIECES \",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19542_-_rawhide_sticks_with_duck_40pcs_-_gs1-gs1_packshot-2064-236.png?v=bTEWbn\",\n    \"sku\": \"19542\",\n    \"gtin13\": \"87 112 42 01423 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Rawhide sticks with duck | Voskes",
+	"heading": "استیک پوست خام  با اردک  40 PIECES",
+	"description": "This snack is very rich in animal protein and duck is an easily digestible source of meat, making it suitable for dogs with sensitive intestines.",
+	"bodyDescription": "This delicious chewy snack consists of no less than 40 sticks with rawhide and duck. This snack is very rich in animal protein and duck is an easily digestible source of meat, making it suitable for dogs with sensitive intestines.",
+	"ogTitle": "Rawhide sticks with duck | Voskes",
+	"ogDescription": "This snack is very rich in animal protein and duck is an easily digestible source of meat, making it suitable for dogs with sensitive intestines.",
+	"canonical": "https://voskes.nl/en/products/rawhide-sticks-with-duck-40pcs",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19542_-_rawhide_sticks_with_duck_40pcs_-_gs1-gs1_packshot-2064-236-p.webp?v=bTEWbn",
+			"alt": "RAWHIDE STICKS WITH DUCK - 40PCS |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19542-inhoud-p.webp",
+			"alt": "RAWHIDE STICKS WITH DUCK - 40PCS | Kauwsnack hond met eend | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۴۰ عدد"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242014237",
+	"composition": "Meat and animal derivatives (beef rawhide 43%, duck 52%), vegetable protein extracts, oils and fats, minerals.",
+	"analyticalComponents": "Crude protein 65% - moisture 18% - crude ash 3.5% - crude oils and fats 5% - crude fibre 1%.",
+	"additives": "حاوی نگهدارنده‌های مجاز اتحادیه اروپا.",
+	"benefits": [],
+	"extraHtml": null
+}

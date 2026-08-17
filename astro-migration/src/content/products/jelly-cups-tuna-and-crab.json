@@ -1,0 +1,35 @@
+{
+	"slug": "jelly-cups-tuna-and-crab",
+	"sku": "18171",
+	"gtin13": "87 112 42 93308 8",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Cups filled with deliciously tender, hand-selected pieces of fish. The exquisite flavours of the sea are a true delicacy for your cat. \",\n    \"name\": \"JELLY CUPS   TUNA & CRAB\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_42.png\",\n    \"sku\": \"18171\",\n    \"gtin13\": \"87 112 42 93308 8\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Jelly cups tuna & crab | Voskes",
+	"heading": "ژله لیوانی  TUNA & CRAB",
+	"description": "Jelly cups filled with deliciously tender, hand-selected pieces of fish and crab. The delicate flavours from the sea are a true delicacy for your cat.",
+	"bodyDescription": "لیوان‌هایی پر از تکه‌های لطیف و دست‌چین ماهی. طعم‌های نفیس دریا خوراکی بی‌نظیری برای گربه شماست.",
+	"ogTitle": "Jelly cups tuna & crab | Voskes",
+	"ogDescription": "Jelly cups filled with deliciously tender, hand-selected pieces of fish and crab. The delicate flavours from the sea are a true delicacy for your cat.",
+	"canonical": "https://voskes.nl/en/products/jelly-cups-tuna-and-crab",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_42-p.webp",
+			"alt": "JELLY CUPS TUNA & CRAB (6 X 25G) | Kattensnack met tonijn en krab | Voskes Treats | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-18171-p.webp",
+			"alt": "JELLY CUPS TUNA & CRAB (6 X 25G) | Kattensnack met tonijn en krab | Voskes Treats | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۶ × ۲۵ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242933088",
+	"composition": "tuna 76%, salmon10%, crab8%, trehalose 3.5%, carrageenan (extract from seaweed) 0.70%, tapioca starch 0.5%, salt 0.20%, vitamin e 0.03%",
+	"analyticalComponents": "crude protein 5% - crude fat 0.5% - crude fibre 1.5% - crude ash 2% - moisture90% - calcium 0.01% - phosphorus 0.01% - energy 53kcal/100g",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

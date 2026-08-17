@@ -1,0 +1,35 @@
+{
+	"slug": "training-treats-bones-mix-bucket-1800gr",
+	"sku": "21308",
+	"gtin13": "8711242938427",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" VOSKES Training Mix is a soft, small treat in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket. \",\n    \"name\": \"TRAINING TREATS   BONES MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes_trainers_bucket_bonesmix_hr-gs1_packshot-2064-336.png?v=bUJncj\",\n    \"sku\": \"21308\",\n    \"gtin13\": \"8711242938427\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Training treats bones mix | Voskes",
+	"heading": "تشویقی آموزشی  مخلوط استخوان",
+	"description": "Voskes Training Treats Bones Mix are soft, small dog treats in a mix of different flavours.",
+	"bodyDescription": "VOSKES Training Mix is a soft, small treat in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket.",
+	"ogTitle": "Training treats bones mix | Voskes",
+	"ogDescription": "Voskes Training Treats Bones Mix are soft, small dog treats in a mix of different flavours.",
+	"canonical": "https://voskes.nl/en/products/training-treats-bones-mix-bucket-1800gr",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes_trainers_bucket_bonesmix_hr-gs1_packshot-2064-336-p.webp?v=bUJncj",
+			"alt": "TRAINING TREATS BONES MIX |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15058_training_treats_bones_mix_200gr_inhoud-web-p.webp",
+			"alt": "TRAINING TREATS BONES MIX |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "1,8kg"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242938427",
+	"composition": "cereals, derivatives of vegetable origin, oils and fats, meat and animal derivatives, fish and fish derivatives",
+	"analyticalComponents": "moisture 24% - crude protein 11.70% - crude oils and fats 5.90% - crude fibre 1% - crude ash 2%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

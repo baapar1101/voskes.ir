@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_cat-food.content.html?raw';
+import headerHtml from './_cat-food.header.html?raw';
+import cookieBannerHtml from './_cat-food.cookie.html?raw';
+import footerHtml from './_cat-food.footer.html?raw';
+
+---
+
+<Base
+	title="غذای مناسب گربه‌تان را با غذای گربه Voskes پیدا کنید"
+	description="We like to dish up a healthy and tasty menu for your cat. Our range of complementary wet food and high-quality wet and dry food ensures your cat gets the right ingredients, without artificial colours or flavours."
+	canonical="https://voskes.nl/en/cat-food"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Find the right food for your cat with the Voskes Cat Food"
+	ogDescription="We like to dish up a healthy and tasty menu for your cat. Our range of complementary wet food and high-quality wet and dry food ensures your cat gets the right ingredients, without artificial colours or flavours."
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

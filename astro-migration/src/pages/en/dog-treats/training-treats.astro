@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import bodyHtml from './_training-treats.content.html?raw';
+import headerHtml from './_training-treats.header.html?raw';
+import cookieBannerHtml from './_training-treats.cookie.html?raw';
+import footerHtml from './_training-treats.footer.html?raw';
+
+---
+
+<Base
+	title="Training Treats for your dog with the Voskes Treats"
+	description="When you want to train your dog at dog school or teach him new tricks at home, reward snacks are indispensable! Our Voskes Training Treats are ideal for this."
+	canonical="https://voskes.nl/en/dog-treats/training-treats"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Training Treats for your dog with the Voskes Treats"
+	ogDescription="When you want to train your dog at dog school or teach him new tricks at home, reward snacks are indispensable! Our Voskes Training Treats are ideal for this. "
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

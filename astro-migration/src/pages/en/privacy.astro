@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_privacy.content.html?raw';
+import headerHtml from './_privacy.header.html?raw';
+import cookieBannerHtml from './_privacy.cookie.html?raw';
+import footerHtml from './_privacy.footer.html?raw';
+
+---
+
+<Base
+	title="بیانیه حریم خصوصی Voskes"
+	description="Holland Diervoeders B.V. feels that protection of personal data is essential. We therefore process your data with the utmost care."
+	canonical="https://voskes.nl/en/privacy"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Privacy statement of Voskes"
+	ogDescription="Holland Diervoeders B.V. feels that protection of personal data is essential. We therefore process your data with the utmost care. "
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

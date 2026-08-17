@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import bodyHtml from './_complete-wet-food.content.html?raw';
+import headerHtml from './_complete-wet-food.header.html?raw';
+import cookieBannerHtml from './_complete-wet-food.cookie.html?raw';
+import footerHtml from './_complete-wet-food.footer.html?raw';
+
+---
+
+<Base
+	title="Complete wet food for your cat with Voskes"
+	description="Our delicious, creamy paté with premium fish or meat will keep your cat enjoying it for a long time to come. Discover our Complete wet food"
+	canonical="https://voskes.nl/en/cat-food/complete-wet-food"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Complete wet food for your cat with Voskes"
+	ogDescription="Our delicious, creamy paté with premium fish or meat will keep your cat enjoying it for a long time to come. Discover our Complete wet food"
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

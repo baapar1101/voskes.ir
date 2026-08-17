@@ -1,0 +1,35 @@
+{
+	"slug": "mousse-with-flakes-tuna-and-chicken",
+	"sku": "21560",
+	"gtin13": "8711242018464",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Mousse with tuna and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health. \",\n    \"name\": \"MOUSSE WITH FLAKES TUNA & CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21560_-_8711242018464_-_mouse_with_flakes_tuna__chicken_-_7x30gr_left.png\",\n    \"sku\": \"21560\",\n    \"gtin13\": \"8711242018464\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Mousse with flakes tuna & chicken | Voskes",
+	"heading": "MOUSSE WITH FLAKES TUNA & CHICKEN",
+	"description": "Voskes Mousse with tuna and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
+	"bodyDescription": "Voskes Mousse with tuna and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
+	"ogTitle": "Mousse with flakes tuna & chicken | Voskes",
+	"ogDescription": "Voskes Mousse with tuna and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
+	"canonical": "https://voskes.nl/en/products/mousse-with-flakes-tuna-and-chicken",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21560_-_8711242018464_-_mouse_with_flakes_tuna__chicken_-_7x30gr_left-p.webp",
+			"alt": "MOUSSE WITH FLAKES TUNA & CHICKEN (7 X 30G) |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21560-8711242018464-mouse-with-flakes-tuna-and-chicken-30gr-content-gs1-p.webp",
+			"alt": "MOUSSE WITH FLAKES TUNA & CHICKEN (7 X 30G) |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۷ × ۳۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242018464",
+	"composition": "Fish and fish derivatives (tuna 27%), meat and animal derivatives (chicken 26%), oils and fats, derivatives of vegetable, minerals, fruit (cranberry 0,02%)",
+	"analyticalComponents": "Moisture 81%, crude protein 14%, crude ash 1%, crude oils and fats 2%, crude fibre 0,5%",
+	"additives": "Nutritional additives: Vitamine E 150 mg/kg, Vitamine C (3a300) 300mg/kg",
+	"benefits": [],
+	"extraHtml": null
+}

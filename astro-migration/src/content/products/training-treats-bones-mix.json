@@ -1,0 +1,35 @@
+{
+	"slug": "training-treats-bones-mix",
+	"sku": "15058",
+	"gtin13": "8711242943001",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats Bones mix are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. Bones mix is a mix of various tastes. \",\n    \"name\": \"TRAINING TREATS   BONES MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15058_training_treats_bones_mix_200gr_-_web.png\",\n    \"sku\": \"15058\",\n    \"gtin13\": \"8711242943001\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"title": "Training treats bones mix | Voskes",
+	"heading": "تشویقی آموزشی  مخلوط استخوان",
+	"description": "Voskes Training Treats Bones Mix are delicious, soft reward treats with no added sugar.",
+	"bodyDescription": "Voskes Training Treats Bones mix are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. Bones mix is a mix of various tastes.",
+	"ogTitle": "Training treats bones mix | Voskes",
+	"ogDescription": "Voskes Training Treats Bones Mix are delicious, soft reward treats with no added sugar.",
+	"canonical": "https://voskes.nl/en/products/training-treats-bones-mix",
+	"images": [
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15058_training_treats_bones_mix_200gr_-_web-p.webp",
+			"alt": "TRAINING TREATS BONES MIX |  | VOSKES"
+		},
+		{
+			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15058_training_treats_bones_mix_200gr_inhoud-web-p.webp",
+			"alt": "TRAINING TREATS BONES MIX |  | VOSKES"
+		}
+	],
+	"sliderPrevLabel": "اسلاید قبلی",
+	"sliderNextLabel": "اسلاید بعدی",
+	"available": {
+		"label": "موجود در",
+		"value": "۲۰۰ گرم"
+	},
+	"ctaHref": "https://www.mypetfoodshop.com/products/8711242943001",
+	"composition": "cereals, derivatives of vegetable origin, oils and fats, meat and animal derivatives, fish and fish derivatives",
+	"analyticalComponents": "crude protein 11.70% - crude oils and fats 5.90% - crude fibre 1% - crude ash 2% - moisture 24%",
+	"additives": null,
+	"benefits": [],
+	"extraHtml": null
+}

@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_cat-treats.content.html?raw';
+import headerHtml from './_cat-treats.header.html?raw';
+import cookieBannerHtml from './_cat-treats.cookie.html?raw';
+import footerHtml from './_cat-treats.footer.html?raw';
+
+---
+
+<Base
+	title="تشویقی‌های خوشمزه گربه Voskes را کشف کنید"
+	description="Pamper your little tiger with Voskes' healthy cat snacks! Our cat snacks are not only delicious, they are also almost all grain-free."
+	canonical="https://voskes.nl/en/cat-treats"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Discover our delicious cat snacks of Voskes"
+	ogDescription="Pamper your little tiger with Voskes' healthy cat snacks! Our cat snacks are not only delicious, they are also almost all grain-free. "
+	bodyClass="Page"
+	
+	
+>
+	<Fragment set:html={bodyHtml} />
+</Base>
