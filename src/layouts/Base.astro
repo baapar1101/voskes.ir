@@ -1,7 +1,7 @@
 ---
-import rootVars from './partials/root-vars.css?raw';
-import cookieboxCss from './partials/cookiebox.css?raw';
-import utilityColors from './partials/utility-colors.css?raw';
+import defaultRootVars from './partials/root-vars.css?raw';
+import defaultCookieboxCss from './partials/cookiebox.css?raw';
+import defaultUtilityColors from './partials/utility-colors.css?raw';
 import defaultHeaderHtml from './partials/header.html?raw';
 import defaultCookieBannerHtml from './partials/cookie-banner.html?raw';
 import defaultFooterHtml from './partials/footer.html?raw';
@@ -26,6 +26,14 @@ interface Props {
 	// sits as a body-level sibling of div.site, outside the header/#page/
 	// footer structure every other page uses.
 	extraBodyHtml?: string | null;
+	// Every page in the /en/ tree shares one :root{} theme block and one
+	// utility-colors stylesheet (verified byte-length-identical across
+	// contact/products/blog/etc). The root NL homepage does NOT — it
+	// carries its own distinct values (e.g. --font_size_h2: 3.5rem vs
+	// 4rem), so these are overridable per page rather than assumed shared.
+	rootVars?: string;
+	cookieboxCss?: string;
+	utilityColors?: string;
 }
 
 const {
@@ -41,6 +49,9 @@ const {
 	cookieBannerHtml = defaultCookieBannerHtml,
 	footerHtml = defaultFooterHtml,
 	extraBodyHtml = null,
+	rootVars = defaultRootVars,
+	cookieboxCss = defaultCookieboxCss,
+	utilityColors = defaultUtilityColors,
 } = Astro.props;
 ---
 
@@ -74,15 +85,9 @@ const {
 			rel="stylesheet"
 		/>
 		<link href="https://sanux.100.nl/cdn/fonts/avenir-next/font.css" rel="stylesheet" />
-		<!-- Vazirmatn: self-hosted, see ASTRO-MIGRATION.md §5.1 -->
-		<style set:html={`@font-face {
-			font-family: "Vazirmatn";
-			src: url("/assets/fonts/vazirmatn/Vazirmatn[wght].woff2") format("woff2 supports variations"),
-			     url("/assets/fonts/vazirmatn/Vazirmatn[wght].woff2") format("woff2-variations");
-			font-weight: 100 900;
-			font-style: normal;
-			font-display: swap;
-		}`} />
+		<!-- Vazirmatn is self-hosted: @font-face rules now live at the top of
+		     css/style.min.css and load from /assets/fonts/vazirmatn/ (see
+		     DECISIONS.md §5.1). No separate font-face block needed here. -->
 		<!-- Styles -->
 		<style set:html={rootVars} />
 		<!-- This is to ensure the cookie styling is applied directly when shown. At least to hide the config box -->

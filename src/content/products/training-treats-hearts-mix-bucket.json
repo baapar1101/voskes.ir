@@ -3,13 +3,13 @@
 	"sku": "14160",
 	"gtin13": "8711242964723",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Hearts Mix are soft, small heart-shaped treats in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket. \",\n    \"name\": \"TRAINING TREATS   HEARTS MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14160-gs1-gs1_packshot-2064-112.png?v=bTg16E\",\n    \"sku\": \"14160\",\n    \"gtin13\": \"8711242964723\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Training treats hearts mix | Voskes",
+	"title": "تشویقی آموزشی؛ مخلوط قلب | Voskes",
 	"heading": "تشویقی آموزشی  HEARTS MIX",
-	"description": "Voskes Heart Mix are soft, small dog treats in a mix of different flavours.",
+	"description": "مخلوط قلب Voskes؛ خوراکی‌های نرم و کوچک سگ با ترکیبی از طعم‌های گوناگون.",
 	"bodyDescription": "Voskes Hearts Mix are soft, small heart-shaped treats in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket.",
-	"ogTitle": "Training treats hearts mix | Voskes",
-	"ogDescription": "Voskes Heart Mix are soft, small dog treats in a mix of different flavours.",
-	"canonical": "https://voskes.nl/en/products/training-treats-hearts-mix-bucket",
+	"ogTitle": "تشویقی آموزشی؛ مخلوط قلب | Voskes",
+	"ogDescription": "مخلوط قلب Voskes؛ خوراکی‌های نرم و کوچک سگ با ترکیبی از طعم‌های گوناگون.",
+	"canonical": "https://voskes.nl/products/training-treats-hearts-mix-bucket",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14160-gs1-gs1_packshot-2064-112-p.webp?v=bTg16E",

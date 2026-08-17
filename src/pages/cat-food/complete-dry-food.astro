@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_complete-dry-food.content.html?raw';
+import headerHtml from './_complete-dry-food.header.html?raw';
+import cookieBannerHtml from './_complete-dry-food.cookie.html?raw';
+import footerHtml from './_complete-dry-food.footer.html?raw';
+
+import rootVars from './_complete-dry-food.root-vars.css?raw';
+import cookieboxCss from './_complete-dry-food.cookiebox.css?raw';
+import utilityColors from './_complete-dry-food.utility-colors.css?raw';
+---
+
+<Base
+	title="غذای خشک کامل برای گربه شما با Voskes"
+	description="دوست پشمالوی شما از غذای خوب لذت می‌برد، اما گاهی سخت‌پسند است. برای همین با Voskes منویی سالم و خوش‌طعم ارائه می‌کنیم."
+	canonical="https://voskes.nl/cat-food/complete-dry-food"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="غذای خشک کامل برای گربه شما با Voskes"
+	ogDescription="دوست پشمالوی شما از غذای خوب لذت می‌برد، اما گاهی سخت‌پسند است. برای همین با Voskes منویی سالم و خوش‌طعم ارائه می‌کنیم."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

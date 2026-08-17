@@ -3,13 +3,13 @@
 	"sku": "17701",
 	"gtin13": "8711242933644",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A natural snack made from dried salmon skin. It is a healthy snack between meals for your dog and it also encourages chewing behaviour. \",\n    \"name\": \"SALMON SKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_3-17701.png\",\n    \"sku\": \"17701\",\n    \"gtin13\": \"8711242933644\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Salmon skin | Voskes",
+	"title": "پوست سالمون | Voskes",
 	"heading": "SALMON SKIN",
-	"description": "A healthy snack that encourages chewing behaviour. In addition, the Omega 3 from the salmon skin has a positive effect on your dog's skin and coat.",
+	"description": "میان‌وعده‌ای سالم که رفتار جویدن را تشویق می‌کند. امگا-۳ موجود در پوست سالمون اثری مثبت بر پوست و موی سگ شما دارد.",
 	"bodyDescription": "A natural snack made from dried salmon skin. It is a healthy snack between meals for your dog and it also encourages chewing behaviour.",
-	"ogTitle": "Salmon skin | Voskes",
-	"ogDescription": "A healthy snack that encourages chewing behaviour. In addition, the Omega 3 from the salmon skin has a positive effect on your dog's skin and coat.",
-	"canonical": "https://voskes.nl/en/products/salmon-skin",
+	"ogTitle": "پوست سالمون | Voskes",
+	"ogDescription": "میان‌وعده‌ای سالم که رفتار جویدن را تشویق می‌کند. امگا-۳ موجود در پوست سالمون اثری مثبت بر پوست و موی سگ شما دارد.",
+	"canonical": "https://voskes.nl/products/salmon-skin",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_3-17701-p.webp",

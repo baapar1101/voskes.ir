@@ -3,13 +3,13 @@
 	"sku": "18172",
 	"gtin13": "8711242933101",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein. Due to their size, these sticks are very suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH BEEF & CHICKEN   25CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_(stick)_beef_skin,_pork_skin_and_chicken_(m)1.png\",\n    \"sku\": \"18172\",\n    \"gtin13\": \"8711242933101\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Rawhide sticks with beef & chicken | Voskes",
+	"title": "استیک پوست خام با گوشت گاو و مرغ | Voskes",
 	"heading": "استیک پوست خام  با گوشت گاو و مرغ  ۲۵ سانتی‌متر",
-	"description": "These delicious chew sticks provide chewing pleasure and contribute to healthy teeth. They are rich in animal protein and suitable for larger breeds.",
+	"description": "این استیک‌های جویدنی خوشمزه لذت جویدن می‌آورند و به سلامت دندان کمک می‌کنند؛ سرشار از پروتئین حیوانی و مناسب نژادهای بزرگ.",
 	"bodyDescription": "A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein. Due to their size, these sticks are very suitable for larger breeds.",
-	"ogTitle": "Rawhide sticks with beef & chicken | Voskes",
-	"ogDescription": "These delicious chew sticks provide chewing pleasure and contribute to healthy teeth. They are rich in animal protein and suitable for larger breeds.",
-	"canonical": "https://voskes.nl/en/products/rawhide-sticks-with-beef-and-chicken-25cm",
+	"ogTitle": "استیک پوست خام با گوشت گاو و مرغ | Voskes",
+	"ogDescription": "این استیک‌های جویدنی خوشمزه لذت جویدن می‌آورند و به سلامت دندان کمک می‌کنند؛ سرشار از پروتئین حیوانی و مناسب نژادهای بزرگ.",
+	"canonical": "https://voskes.nl/products/rawhide-sticks-with-beef-and-chicken-25cm",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_(stick)_beef_skin,_pork_skin_and_chicken_(m)1-p.webp",

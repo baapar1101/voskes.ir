@@ -3,13 +3,13 @@
 	"sku": "17664",
 	"gtin13": "87 112 42 93593 8",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Trio Twist Beef is a plait made from white cowhide, a tasty strip of beef and rawhide. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"TRIO TWIST   BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17664-twist-verpakking.png\",\n    \"sku\": \"17664\",\n    \"gtin13\": \"87 112 42 93593 8\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Trio twist beef | Voskes",
+	"title": "پیچ سه‌تایی گوشت گاو | Voskes",
 	"heading": "TRIO TWIST  BEEF",
-	"description": "The trio twist beef is a real treat for your four-legged friend. It is a braid of clear rawhide with a tasty strip of beef and rawhide.",
+	"description": "پیچ سه‌تایی گوشت گاو خوراکی واقعی دوست چهارپای شماست؛ بافتی از پوست خام شفاف با نوار خوشمزه گوشت گاو.",
 	"bodyDescription": "The VOSKES Trio Twist Beef is a plait made from white cowhide, a tasty strip of beef and rawhide. A chewy and delicious snack. Its shape also helps to keep teeth clean.",
-	"ogTitle": "Trio twist beef | Voskes",
-	"ogDescription": "The trio twist beef is a real treat for your four-legged friend. It is a braid of clear rawhide with a tasty strip of beef and rawhide.",
-	"canonical": "https://voskes.nl/en/products/trio-twist-beef",
+	"ogTitle": "پیچ سه‌تایی گوشت گاو | Voskes",
+	"ogDescription": "پیچ سه‌تایی گوشت گاو خوراکی واقعی دوست چهارپای شماست؛ بافتی از پوست خام شفاف با نوار خوشمزه گوشت گاو.",
+	"canonical": "https://voskes.nl/products/trio-twist-beef",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17664-twist-verpakking-p.webp",

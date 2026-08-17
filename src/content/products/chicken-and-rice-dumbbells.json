@@ -3,13 +3,13 @@
 	"sku": "20574",
 	"gtin13": "8711242016743",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Surprise your dog with these delicious Voskes Chicken & Rice Dumbbells. These tasty treats contain dried rawhide with tasty chicken breast and rice. They are easily digestible, low in fat and high in protein. Ideal pampering snacks for your wagging housemate ! \",\n    \"name\": \"CHICKEN & RICE DUMBBELLS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20574-chicken--rice-dumbbells-400g_front_web_gs1-gs1_packshot-2064-304.png?v=bSo235\",\n    \"sku\": \"20574\",\n    \"gtin13\": \"8711242016743\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Chicken & rice dumbbells | Voskes",
+	"title": "دمبل مرغ و برنج | Voskes",
 	"heading": "دمبل مرغ و برنج",
-	"description": "Voskes Chicken & Rice Dumbbells contain dried rawhide with tasty chicken fillet and rice, providing an irresistible treat.",
+	"description": "دمبل مرغ و برنج Voskes از پوست خام خشک همراه فیله مرغ خوشمزه و برنج ساخته شده؛ خوراکی وسوسه‌انگیز.",
 	"bodyDescription": "Surprise your dog with these delicious Voskes Chicken & Rice Dumbbells. These tasty treats contain dried rawhide with tasty chicken breast and rice. They are easily digestible, low in fat and high in protein. Ideal pampering snacks for your wagging housemate !",
-	"ogTitle": "Chicken & rice dumbbells | Voskes",
-	"ogDescription": "Voskes Chicken & Rice Dumbbells contain dried rawhide with tasty chicken fillet and rice, providing an irresistible treat.",
-	"canonical": "https://voskes.nl/en/products/chicken-and-rice-dumbbells",
+	"ogTitle": "دمبل مرغ و برنج | Voskes",
+	"ogDescription": "دمبل مرغ و برنج Voskes از پوست خام خشک همراه فیله مرغ خوشمزه و برنج ساخته شده؛ خوراکی وسوسه‌انگیز.",
+	"canonical": "https://voskes.nl/products/chicken-and-rice-dumbbells",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20574-chicken--rice-dumbbells-400g_front_web_gs1-gs1_packshot-2064-304.webp?v=bSo235",

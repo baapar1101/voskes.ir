@@ -3,13 +3,13 @@
 	"sku": "19671",
 	"gtin13": "87 112 42 01459 6",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Our Dental sticks with chicken have been specially developed to maintain your four-legged friend's healthy teeth. These dog snacks have a cleansing effect and ensure good condition of the gums. Moreover, they are also delicious in taste and your dog will chew on them for a long time, while taking care of his teeth in the meantime. \",\n    \"name\": \"DENTAL STICKS   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19671_-_dental_sticks_met_kip_600gr-gs1_packshot-2064-248.png?v=bTTbUa\",\n    \"sku\": \"19671\",\n    \"gtin13\": \"87 112 42 01459 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Dental sticks with chicken | Voskes",
+	"title": "استیک دندانی با مرغ | Voskes",
 	"heading": "DENTAL STICKS  مرغ",
-	"description": "Dental sticks with chicken are specially designed to maintain your four-legged friend's healthy teeth. They have a cleansing effect on the gums.",
+	"description": "استیک دندانی با مرغ ویژه حفظ سلامت دندان دوست چهارپای شما طراحی شده و اثر پاک‌کنندگی روی لثه‌ها دارد.",
 	"bodyDescription": "Our Dental sticks with chicken have been specially developed to maintain your four-legged friend's healthy teeth. These dog snacks have a cleansing effect and ensure good condition of the gums. Moreover, they are also delicious in taste and your dog will chew on them for a long time, while taking care of his teeth in the meantime.",
-	"ogTitle": "Dental sticks with chicken | Voskes",
-	"ogDescription": "Dental sticks with chicken are specially designed to maintain your four-legged friend's healthy teeth. They have a cleansing effect on the gums.",
-	"canonical": "https://voskes.nl/en/products/dental-sticks-chicken",
+	"ogTitle": "استیک دندانی با مرغ | Voskes",
+	"ogDescription": "استیک دندانی با مرغ ویژه حفظ سلامت دندان دوست چهارپای شما طراحی شده و اثر پاک‌کنندگی روی لثه‌ها دارد.",
+	"canonical": "https://voskes.nl/products/dental-sticks-chicken",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19671_-_dental_sticks_met_kip_600gr-gs1_packshot-2064-248-p.webp?v=bTTbUa",

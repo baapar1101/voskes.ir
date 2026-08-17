@@ -3,13 +3,13 @@
 	"sku": "20565",
 	"gtin13": "8711242016828",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and beef is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef_blik.png\",\n    \"sku\": \"20565\",\n    \"gtin13\": \"8711242016828\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Jelly tuna with beef | Voskes",
+	"title": "ژله ماهی تن با گوشت گاو | Voskes",
 	"heading": "ژله ماهی تن  WITH BEEF",
-	"description": "This cat snack is a delicious tuna-based treat with beef. A real treat for any cat!",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و گوشت گاو است. خوراکی واقعی برای هر گربه‌ای!",
 	"bodyDescription": "This delicious jelly treat made with tuna and beef is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
-	"ogTitle": "Jelly tuna with beef | Voskes",
-	"ogDescription": "This cat snack is a delicious tuna-based treat with beef. A real treat for any cat!",
-	"canonical": "https://voskes.nl/en/products/jelly-tuna-with-beef",
+	"ogTitle": "ژله ماهی تن با گوشت گاو | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و گوشت گاو است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-beef",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef_blik.webp",

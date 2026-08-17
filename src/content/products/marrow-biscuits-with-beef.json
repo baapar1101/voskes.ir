@@ -3,13 +3,13 @@
 	"sku": "10972",
 	"gtin13": "8711242990272",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Small marrow biscuits with a beef-flavoured filling, suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"MARROW BISCUITS   WITH BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10972_-_marrow_with_beef_750gr_-_gs1-gs1_packshot-2064-28.png?v=bUmGw9\",\n    \"sku\": \"10972\",\n    \"gtin13\": \"8711242990272\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Marrow biscuits with beef | Voskes",
+	"title": "بیسکویت مغز استخوان با گوشت گاو | Voskes",
 	"heading": "MARROW BISCUITS  WITH BEEF",
-	"description": "Marrow biscuits with a beef-flavoured filling, suitable for puppies from 6 months and adult dogs. Moreover, the biscuits are enriched with vitamins A, D3 and E.",
+	"description": "بیسکویت مغز استخوان با مغزی طعم گوشت گاو، مناسب توله‌های بالای ۶ ماه و سگ بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
 	"bodyDescription": "Small marrow biscuits with a beef-flavoured filling, suitable for puppies from 6 months onwards and adult dogs.These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E !",
-	"ogTitle": "Marrow biscuits with beef | Voskes",
-	"ogDescription": "Marrow biscuits with a beef-flavoured filling, suitable for puppies from 6 months and adult dogs. Moreover, the biscuits are enriched with vitamins A, D3 and E.",
-	"canonical": "https://voskes.nl/en/products/marrow-biscuits-with-beef",
+	"ogTitle": "بیسکویت مغز استخوان با گوشت گاو | Voskes",
+	"ogDescription": "بیسکویت مغز استخوان با مغزی طعم گوشت گاو، مناسب توله‌های بالای ۶ ماه و سگ بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
+	"canonical": "https://voskes.nl/products/marrow-biscuits-with-beef",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10972_-_marrow_with_beef_750gr_-_gs1-gs1_packshot-2064-28-p.webp?v=bUmGw9",

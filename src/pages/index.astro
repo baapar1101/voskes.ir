@@ -4,21 +4,27 @@ import bodyHtml from './_index.content.html?raw';
 import headerHtml from './_index.header.html?raw';
 import cookieBannerHtml from './_index.cookie.html?raw';
 import footerHtml from './_index.footer.html?raw';
-import extraBodyHtml from './_index.extra.html?raw';
+
+import rootVars from './_index.root-vars.css?raw';
+import cookieboxCss from './_index.cookiebox.css?raw';
+import utilityColors from './_index.utility-colors.css?raw';
 ---
 
 <Base
-	title="تشویقی خوشمزه سگ و گربه و غذای گربه از Voskes"
-	description="Keuze uit meer dat 200 verschillende producten! We werken met natuurlijke ingrediënten voor de allerbeste kwaliteit voor jouw hond of kat."
-	canonical="https://voskes.nl/nl"
+	title="Voskes — طعم شادی برای گربه‌ها و سگ‌ها"
+	description="دوست پشمالوی شما از غذای خوب لذت می‌برد، اما گربه‌ها گاهی سخت‌پسندند. برای همین با Voskes منویی سالم و خوش‌طعم ارائه می‌کنیم."
+	canonical="https://voskes.nl/en"
 	headerHtml={headerHtml}
 	cookieBannerHtml={cookieBannerHtml}
 	footerHtml={footerHtml}
-	ogTitle="Heerlijke hondensnacks en kattensnacks en kattenvoeding van Voskes"
-	ogDescription="Keuze uit meer dat 200 verschillende producten! We werken met natuurlijke ingrediënten voor de allerbeste kwaliteit voor jouw hond of kat. "
+	ogTitle="Voskes — طعم شادی برای گربه‌ها و سگ‌ها"
+	ogDescription="دوست پشمالوی شما از غذای خوب لذت می‌برد، اما گربه‌ها گاهی سخت‌پسندند. برای همین با Voskes منویی سالم و خوش‌طعم ارائه می‌کنیم."
 	bodyClass="Dashboard"
 	
-	extraBodyHtml={extraBodyHtml}
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
 >
 	<Fragment set:html={bodyHtml} />
 </Base>

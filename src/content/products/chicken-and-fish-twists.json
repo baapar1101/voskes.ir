@@ -3,13 +3,13 @@
 	"sku": "16055",
 	"gtin13": "8711242941601",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This is a tasty treat for your four-legged friend who loves the combination of meat and fish. Delicious snack with high protein content and, due to its shape, also conducive against dental plaque. Ideal as a snack for all adult dogs. \",\n    \"name\": \"CHICKEN & FISH TWISTS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/16055_-_chicken__fish_twists_100g_front-gs1.png\",\n    \"sku\": \"16055\",\n    \"gtin13\": \"8711242941601\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Chicken & fish twists | Voskes",
+	"title": "پیچ مرغ و ماهی | Voskes",
 	"heading": "پیچ مرغ و ماهی",
-	"description": "This is a tasty treat with a combination of meat and fish. Delicious snack with high protein content and, due to its shape, also promotes against dental plaque.",
+	"description": "خوراکی خوشمزه با ترکیب گوشت و ماهی؛ سرشار از پروتئین و به دلیل فرم خاصش مؤثر در کاهش پلاک دندانی.",
 	"bodyDescription": "This is a tasty treat for your four-legged friend who loves the combination of meat and fish. Delicious snack with high protein content and, due to its shape, also conducive against dental plaque. Ideal as a snack for all adult dogs.",
-	"ogTitle": "Chicken & fish twists | Voskes",
-	"ogDescription": "This is a tasty treat with a combination of meat and fish. Delicious snack with high protein content and, due to its shape, also promotes against dental plaque.",
-	"canonical": "https://voskes.nl/en/products/chicken-and-fish-twists",
+	"ogTitle": "پیچ مرغ و ماهی | Voskes",
+	"ogDescription": "خوراکی خوشمزه با ترکیب گوشت و ماهی؛ سرشار از پروتئین و به دلیل فرم خاصش مؤثر در کاهش پلاک دندانی.",
+	"canonical": "https://voskes.nl/products/chicken-and-fish-twists",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/16055_-_chicken__fish_twists_100g_front-gs1-p.webp",

@@ -3,13 +3,13 @@
 	"sku": "11170",
 	"gtin13": "87 112 42 99119 4",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG EARS   10 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-11170.png\",\n    \"sku\": \"11170\",\n    \"gtin13\": \"87 112 42 99119 4\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Pig ears | Voskes",
+	"title": "گوش خوک | Voskes",
 	"heading": "PIG EARS  10 PIECES",
-	"description": "Pig's ears are a delicious treat for your dog.",
+	"description": "گوش خوک خوراکی خوشمزه‌ای برای سگ شماست.",
 	"bodyDescription": "محصول جویدنی خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
-	"ogTitle": "Pig ears | Voskes",
-	"ogDescription": "Pig's ears are a delicious treat for your dog.",
-	"canonical": "https://voskes.nl/en/products/pig-ears-promo-10pcs",
+	"ogTitle": "گوش خوک | Voskes",
+	"ogDescription": "گوش خوک خوراکی خوشمزه‌ای برای سگ شماست.",
+	"canonical": "https://voskes.nl/products/pig-ears-promo-10pcs",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-11170-p.webp",

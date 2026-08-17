@@ -3,13 +3,13 @@
 	"sku": "17368",
 	"gtin13": "8711242936294",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Munchy Sticks Red are made from compressed, untanned cowhide. A soft chewy snack made from natural ingredients. Also suitable for older dogs that find it difficult to chew on hard bones. \",\n    \"name\": \"MUNCHY STICKS RED\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17368.png\",\n    \"sku\": \"17368\",\n    \"gtin13\": \"8711242936294\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Munchy sticks red | Voskes",
+	"title": "استیک جویدنی قرمز | Voskes",
 	"heading": "MUNCHY STICKS RED",
-	"description": "This dog snack is made of ground beef skin. A soft dog snack made from natural ingredients.",
+	"description": "این تشویقی سگ از پوست چرخ‌شده گاو ساخته شده است؛ خوراکی نرم از مواد اولیه طبیعی.",
 	"bodyDescription": "Munchy Sticks Red are made from compressed, untanned cowhide. A soft chewy snack made from natural ingredients. Also suitable for older dogs that find it difficult to chew on hard bones.",
-	"ogTitle": "Munchy sticks red | Voskes",
-	"ogDescription": "This dog snack is made of ground beef skin. A soft dog snack made from natural ingredients.",
-	"canonical": "https://voskes.nl/en/products/munchy-sticks-red-5inch-125mm",
+	"ogTitle": "استیک جویدنی قرمز | Voskes",
+	"ogDescription": "این تشویقی سگ از پوست چرخ‌شده گاو ساخته شده است؛ خوراکی نرم از مواد اولیه طبیعی.",
+	"canonical": "https://voskes.nl/products/munchy-sticks-red-5inch-125mm",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17368-p.webp",

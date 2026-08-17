@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import bodyHtml from './_blog.content.html?raw';
+import headerHtml from './_blog.header.html?raw';
+import cookieBannerHtml from './_blog.cookie.html?raw';
+import footerHtml from './_blog.footer.html?raw';
+
+import rootVars from './_blog.root-vars.css?raw';
+import cookieboxCss from './_blog.cookiebox.css?raw';
+import utilityColors from './_blog.utility-colors.css?raw';
+---
+
+<Base
+	title="وبلاگ و دانستنی‌های Voskes"
+	description="وبلاگ سگ‌ها و گربه‌ها! از محصولات تازه‌مان برای دوستان پشمالو می‌گوییم."
+	canonical="https://voskes.nl/blog"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="وبلاگ و دانستنی‌های Voskes"
+	ogDescription="وبلاگ سگ‌ها و گربه‌ها! از محصولات تازه‌مان برای دوستان پشمالو می‌گوییم."
+	bodyClass="Blog"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

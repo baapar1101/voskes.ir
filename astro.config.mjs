@@ -3,12 +3,9 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  vite: {
-    server: {
-      allowedHosts: [
-        'voskes.ir',
-        'www.voskes.ir'
-      ]
-    }
-  }
+	site: 'https://voskes.nl',
+	trailingSlash: 'never',
+	build: {
+		format: 'preserve',
+	},
 });

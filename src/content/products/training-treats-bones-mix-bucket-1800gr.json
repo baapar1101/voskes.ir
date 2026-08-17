@@ -3,13 +3,13 @@
 	"sku": "21308",
 	"gtin13": "8711242938427",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" VOSKES Training Mix is a soft, small treat in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket. \",\n    \"name\": \"TRAINING TREATS   BONES MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes_trainers_bucket_bonesmix_hr-gs1_packshot-2064-336.png?v=bUJncj\",\n    \"sku\": \"21308\",\n    \"gtin13\": \"8711242938427\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Training treats bones mix | Voskes",
+	"title": "تشویقی آموزشی؛ مخلوط استخوان | Voskes",
 	"heading": "تشویقی آموزشی  مخلوط استخوان",
-	"description": "Voskes Training Treats Bones Mix are soft, small dog treats in a mix of different flavours.",
+	"description": "مخلوط استخوان تشویقی آموزشی Voskes؛ خوراکی‌های نرم و کوچک سگ با ترکیبی از طعم‌های گوناگون.",
 	"bodyDescription": "VOSKES Training Mix is a soft, small treat in a mix of different flavours. Ideal to reward your dog during training and for good behaviour. Comes in a convenient storage bucket.",
-	"ogTitle": "Training treats bones mix | Voskes",
-	"ogDescription": "Voskes Training Treats Bones Mix are soft, small dog treats in a mix of different flavours.",
-	"canonical": "https://voskes.nl/en/products/training-treats-bones-mix-bucket-1800gr",
+	"ogTitle": "تشویقی آموزشی؛ مخلوط استخوان | Voskes",
+	"ogDescription": "مخلوط استخوان تشویقی آموزشی Voskes؛ خوراکی‌های نرم و کوچک سگ با ترکیبی از طعم‌های گوناگون.",
+	"canonical": "https://voskes.nl/products/training-treats-bones-mix-bucket-1800gr",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes_trainers_bucket_bonesmix_hr-gs1_packshot-2064-336-p.webp?v=bUJncj",

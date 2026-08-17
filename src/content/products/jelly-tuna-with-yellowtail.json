@@ -3,13 +3,13 @@
 	"sku": "19884",
 	"gtin13": "8711447890759",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and yellowtail jelly is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH YELLOWTAIL\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19884_tuna_with_yellow_tail_jelly_-_blik@2x.png\",\n    \"sku\": \"19884\",\n    \"gtin13\": \"8711447890759\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Jelly tuna with yellowtail | Voskes",
+	"title": "ژله ماهی تن با ماهی دم‌زرد | Voskes",
 	"heading": "ژله ماهی تن  با ماهی دم‌زرد",
-	"description": "This cat snack is a delicious tuna-based treat with yellowtail. A real treat for any cat!",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و ماهی دم‌زرد است. خوراکی واقعی برای هر گربه‌ای!",
 	"bodyDescription": "This delicious jelly treat made with tuna and yellowtail jelly is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
-	"ogTitle": "Jelly tuna with yellowtail | Voskes",
-	"ogDescription": "This cat snack is a delicious tuna-based treat with yellowtail. A real treat for any cat!",
-	"canonical": "https://voskes.nl/en/products/jelly-tuna-with-yellowtail",
+	"ogTitle": "ژله ماهی تن با ماهی دم‌زرد | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و ماهی دم‌زرد است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-yellowtail",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19884_tuna_with_yellow_tail_jelly_-_blik@2x-p.webp",

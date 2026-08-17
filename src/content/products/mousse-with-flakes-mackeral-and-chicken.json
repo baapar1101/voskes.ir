@@ -3,13 +3,13 @@
 	"sku": "21559",
 	"gtin13": "8711242018440",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Mousse with mackerel and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health. \",\n    \"name\": \"MOUSSE WITH FLAKES MACKERAL & CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21559_-_8711242018440_-_mouse_with_flakes_mackeral__chicken_-_7x30gr_left.png\",\n    \"sku\": \"21559\",\n    \"gtin13\": \"8711242018440\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Mousse with flakes mackeral & chicken | Voskes",
+	"title": "موس با تکه‌های خال‌مخالی و مرغ | Voskes",
 	"heading": "MOUSSE WITH FLAKES MACKERAL & CHICKEN",
 	"description": "Voskes Mousse with mackerel and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
 	"bodyDescription": "Voskes Mousse with mackerel and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
-	"ogTitle": "Mousse with flakes mackeral & chicken | Voskes",
+	"ogTitle": "موس با تکه‌های خال‌مخالی و مرغ | Voskes",
 	"ogDescription": "Voskes Mousse with mackerel and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
-	"canonical": "https://voskes.nl/en/products/mousse-with-flakes-mackeral-and-chicken",
+	"canonical": "https://voskes.nl/products/mousse-with-flakes-mackeral-and-chicken",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21559_-_8711242018440_-_mouse_with_flakes_mackeral__chicken_-_7x30gr_left-p.webp",

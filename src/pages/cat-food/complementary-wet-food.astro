@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_complementary-wet-food.content.html?raw';
+import headerHtml from './_complementary-wet-food.header.html?raw';
+import cookieBannerHtml from './_complementary-wet-food.cookie.html?raw';
+import footerHtml from './_complementary-wet-food.footer.html?raw';
+
+import rootVars from './_complementary-wet-food.root-vars.css?raw';
+import cookieboxCss from './_complementary-wet-food.cookiebox.css?raw';
+import utilityColors from './_complementary-wet-food.utility-colors.css?raw';
+---
+
+<Base
+	title="غذای تر مکمل برای گربه شما از Voskes"
+	description="این خوراکی‌های خوشمزه بر پایه ماهی و گوشت، حتی سخت‌پسندترین گربه را راضی می‌کنند! ژله نرم یا پته با تکه‌های لطیف ماهی یا گوشت."
+	canonical="https://voskes.nl/cat-food/complementary-wet-food"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="غذای تر مکمل برای گربه شما از Voskes"
+	ogDescription="این خوراکی‌های خوشمزه بر پایه ماهی و گوشت، حتی سخت‌پسندترین گربه را راضی می‌کنند! ژله نرم یا پته با تکه‌های لطیف ماهی یا گوشت."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

@@ -3,13 +3,13 @@
 	"sku": "20723",
 	"gtin13": "8711242017115",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This 100% duck breast fillet in strips is a delicious treat for dogs of all breeds. The alternative and rich protein source makes this snack ideal for dogs with allergies. Moreover, these duck breast fillets are low in fat and easily digestible, making them also suitable for dogs with obesity problems. \",\n    \"name\": \"DUCK BREAST FILLETS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20723_-_duck_breast_fillets_400g-gs1-gs1_packshot-2064-317.png?v=bUfzRK\",\n    \"sku\": \"20723\",\n    \"gtin13\": \"8711242017115\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Duck breast filets | Voskes",
+	"title": "فیله سینه اردک | Voskes",
 	"heading": "فیله سینه اردک",
-	"description": "This 100% duck breast fillet in strips is a treat for all dogs. Alternative and rich protein source makes this snack ideal for dogs with allergies.",
+	"description": "نوارهای ۱۰۰٪ فیله سینه اردک خوراکی همه سگ‌هاست. منبع پروتئینی جایگزین و غنی، مناسب سگ‌های دارای حساسیت.",
 	"bodyDescription": "This 100% duck breast fillet in strips is a delicious treat for dogs of all breeds. The alternative and rich protein source makes this snack ideal for dogs with allergies. Moreover, these duck breast fillets are low in fat and easily digestible, making them also suitable for dogs with obesity problems.",
-	"ogTitle": "Duck breast filets | Voskes",
-	"ogDescription": "This 100% duck breast fillet in strips is a treat for all dogs. Alternative and rich protein source makes this snack ideal for dogs with allergies.",
-	"canonical": "https://voskes.nl/en/products/duck-breast-fillets",
+	"ogTitle": "فیله سینه اردک | Voskes",
+	"ogDescription": "نوارهای ۱۰۰٪ فیله سینه اردک خوراکی همه سگ‌هاست. منبع پروتئینی جایگزین و غنی، مناسب سگ‌های دارای حساسیت.",
+	"canonical": "https://voskes.nl/products/duck-breast-fillets",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20723_-_duck_breast_fillets_400g-gs1-gs1_packshot-2064-317-p.webp?v=bUfzRK",

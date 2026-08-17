@@ -3,13 +3,13 @@
 	"sku": "20722",
 	"gtin13": "87 112 42 017092",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Tender and tasty meat strips rich in chicken. This dog snack is very suitable as a healthy snack for dogs. Into smaller pieces, it can also be used as a reward snack during training. \",\n    \"name\": \"MEAT STRIPS   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr-gs1_packshot-2064-322.png?v=bTXfPZ\",\n    \"sku\": \"20722\",\n    \"gtin13\": \"87 112 42 017092\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Meat strips chicken | Voskes",
+	"title": "نوارهای گوشت مرغ | Voskes",
 	"heading": "MEAT STRIPS  مرغ",
-	"description": "Tender and flavoursome meat strips rich in chicken. This dog snack is great as a healthy snack for dogs.",
+	"description": "نوارهای گوشت لطیف و خوش‌طعم سرشار از مرغ؛ میان‌وعده‌ای سالم و عالی برای سگ‌ها.",
 	"bodyDescription": "Tender and tasty meat strips rich in chicken. This dog snack is very suitable as a healthy snack for dogs. Into smaller pieces, it can also be used as a reward snack during training.",
-	"ogTitle": "Meat strips chicken | Voskes",
-	"ogDescription": "Tender and flavoursome meat strips rich in chicken. This dog snack is great as a healthy snack for dogs.",
-	"canonical": "https://voskes.nl/en/products/meat-strips-chicken",
+	"ogTitle": "نوارهای گوشت مرغ | Voskes",
+	"ogDescription": "نوارهای گوشت لطیف و خوش‌طعم سرشار از مرغ؛ میان‌وعده‌ای سالم و عالی برای سگ‌ها.",
+	"canonical": "https://voskes.nl/products/meat-strips-chicken",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr-gs1_packshot-2064-322-p.webp?v=bTXfPZ",

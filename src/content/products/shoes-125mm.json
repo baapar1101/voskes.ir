@@ -3,13 +3,13 @@
 	"sku": "17390",
 	"gtin13": "87 112 42 93651 5",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Shoes made from 100% dried beef rawhide. These tasty shoes will bring your dog hours of chewing pleasure. \",\n    \"name\": \"SHOES   12,5CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17390.png\",\n    \"sku\": \"17390\",\n    \"gtin13\": \"87 112 42 93651 5\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Shoes | Voskes",
+	"title": "کفش جویدنی | Voskes",
 	"heading": "SHOES  12,5CM",
-	"description": "Tasty dog snack! These cute little shoes are made of dried rawhide. Hours of chewing fun.",
+	"description": "تشویقی خوشمزه سگ! این کفش‌های کوچک بامزه از پوست خام خشک ساخته شده‌اند؛ ساعت‌ها لذت جویدن.",
 	"bodyDescription": "Shoes made from 100% dried beef rawhide. These tasty shoes will bring your dog hours of chewing pleasure.",
-	"ogTitle": "Shoes | Voskes",
-	"ogDescription": "Tasty dog snack! These cute little shoes are made of dried rawhide. Hours of chewing fun.",
-	"canonical": "https://voskes.nl/en/products/shoes-125mm",
+	"ogTitle": "کفش جویدنی | Voskes",
+	"ogDescription": "تشویقی خوشمزه سگ! این کفش‌های کوچک بامزه از پوست خام خشک ساخته شده‌اند؛ ساعت‌ها لذت جویدن.",
+	"canonical": "https://voskes.nl/products/shoes-125mm",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17390-p.webp",

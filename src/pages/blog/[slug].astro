@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog');
+	return posts.map((post) => ({
+		params: { slug: post.data.slug },
+		props: { post },
+	}));
+}
+
+const { post } = Astro.props;
+const p = post.data;
+---
+
+<Base title={p.title} description={p.description} canonical={p.canonical} ogTitle={p.ogTitle} ogDescription={p.ogDescription} bodyClass="Blog">
+	<Fragment set:html={p.bodyHtml} />
+</Base>

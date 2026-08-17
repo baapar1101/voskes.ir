@@ -3,13 +3,13 @@
 	"sku": "17339",
 	"gtin13": "87 112 42 93620 1",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG AURICLES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17339.png\",\n    \"sku\": \"17339\",\n    \"gtin13\": \"87 112 42 93620 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Pig auricles | Voskes",
+	"title": "لاله گوش خوک | Voskes",
 	"heading": "PIG AURICLES",
-	"description": "Pig's ear shells are a natural, dried chewy snack with no additives. This dog snack offers great chewing pleasure and contributes to healthy teeth.",
+	"description": "لاله گوش خوک خوراکی جویدنی طبیعی و خشک بدون افزودنی است؛ لذت جویدن فراوان و کمک به سلامت دندان.",
 	"bodyDescription": "محصول جویدنی خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
-	"ogTitle": "Pig auricles | Voskes",
-	"ogDescription": "Pig's ear shells are a natural, dried chewy snack with no additives. This dog snack offers great chewing pleasure and contributes to healthy teeth.",
-	"canonical": "https://voskes.nl/en/products/pig-auricles",
+	"ogTitle": "لاله گوش خوک | Voskes",
+	"ogDescription": "لاله گوش خوک خوراکی جویدنی طبیعی و خشک بدون افزودنی است؛ لذت جویدن فراوان و کمک به سلامت دندان.",
+	"canonical": "https://voskes.nl/products/pig-auricles",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17339-p.webp",

@@ -3,13 +3,13 @@
 	"sku": "19972",
 	"gtin13": "8711242014824",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This tasty chicken and fish-based cat snack is a delicious treat for kittens or adult cats. \",\n    \"name\": \"CHICKEN SANDWICHES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19972_chicken_sandwiches.png\",\n    \"sku\": \"19972\",\n    \"gtin13\": \"8711242014824\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Chicken sandwiches | Voskes",
+	"title": "ساندویچ مرغ | Voskes",
 	"heading": "CHICKEN SANDWICHES",
-	"description": "Voskes chicken sandwiches are delicious soft cat treats, ideal as a snack or reward!",
+	"description": "ساندویچ مرغ Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
 	"bodyDescription": "This tasty chicken and fish-based cat snack is a delicious treat for kittens or adult cats.",
-	"ogTitle": "Chicken sandwiches | Voskes",
-	"ogDescription": "Voskes chicken sandwiches are delicious soft cat treats, ideal as a snack or reward!",
-	"canonical": "https://voskes.nl/en/products/chicken-sandwiches",
+	"ogTitle": "ساندویچ مرغ | Voskes",
+	"ogDescription": "ساندویچ مرغ Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
+	"canonical": "https://voskes.nl/products/chicken-sandwiches",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19972_chicken_sandwiches-p.webp",

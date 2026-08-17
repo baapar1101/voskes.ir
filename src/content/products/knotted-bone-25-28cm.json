@@ -3,13 +3,13 @@
 	"sku": "17380",
 	"gtin13": "8711242936416",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for larger breeds. \",\n    \"name\": \"KNOTTED BONE   25-28CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17380.png\",\n    \"sku\": \"17380\",\n    \"gtin13\": \"8711242936416\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Knotted bone | Voskes",
+	"title": "استخوان گره‌دار | Voskes",
 	"heading": "KNOTTED BONE  25-28CM",
-	"description": "Pressed bone made of 100% dried cowhide. Dogs love to chew this dog snack and it also contributes to keeping teeth clean.",
+	"description": "استخوان فشرده از ۱۰۰٪ پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
 	"bodyDescription": "Knotted bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for larger breeds.",
-	"ogTitle": "Knotted bone | Voskes",
-	"ogDescription": "Pressed bone made of 100% dried cowhide. Dogs love to chew this dog snack and it also contributes to keeping teeth clean.",
-	"canonical": "https://voskes.nl/en/products/knotted-bone-25-28cm",
+	"ogTitle": "استخوان گره‌دار | Voskes",
+	"ogDescription": "استخوان فشرده از ۱۰۰٪ پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/knotted-bone-25-28cm",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17380-p.webp",

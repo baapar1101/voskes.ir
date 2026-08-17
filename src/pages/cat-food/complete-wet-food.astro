@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import bodyHtml from './_complete-wet-food.content.html?raw';
+import headerHtml from './_complete-wet-food.header.html?raw';
+import cookieBannerHtml from './_complete-wet-food.cookie.html?raw';
+import footerHtml from './_complete-wet-food.footer.html?raw';
+
+import rootVars from './_complete-wet-food.root-vars.css?raw';
+import cookieboxCss from './_complete-wet-food.cookiebox.css?raw';
+import utilityColors from './_complete-wet-food.utility-colors.css?raw';
+---
+
+<Base
+	title="غذای تر کامل برای گربه شما با Voskes"
+	description="پته کرمی و خوشمزه ما با ماهی یا گوشت درجه‌یک، مدت‌ها گربه‌تان را راضی نگه می‌دارد. غذای تر کامل ما را ببینید."
+	canonical="https://voskes.nl/cat-food/complete-wet-food"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="غذای تر کامل برای گربه شما با Voskes"
+	ogDescription="پته کرمی و خوشمزه ما با ماهی یا گوشت درجه‌یک، مدت‌ها گربه‌تان را راضی نگه می‌دارد. غذای تر کامل ما را ببینید."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

@@ -3,13 +3,13 @@
 	"sku": "15074",
 	"gtin13": "8711242943292",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Mix of bone-shaped biscuits , suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"BONES MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-15074_-_bones_mix_400gr_-_gs1-gs1_packshot-2064-22.png?v=bUmGq6\",\n    \"sku\": \"15074\",\n    \"gtin13\": \"8711242943292\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Bones mix | Voskes",
+	"title": "مخلوط استخوان | Voskes",
 	"heading": "مخلوط استخوان",
-	"description": "Biscuit mix in the form of biscuits suitable for puppies from 6 months and adult dogs. Moreover, the biscuits are enriched with vitamins A, D3 and E.",
+	"description": "مخلوط بیسکویت مناسب توله‌های بالای ۶ ماه و سگ‌های بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
 	"bodyDescription": "Mix of bone-shaped biscuits , suitable for puppies from 6 months onwards and adult dogs.These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E !",
-	"ogTitle": "Bones mix | Voskes",
-	"ogDescription": "Biscuit mix in the form of biscuits suitable for puppies from 6 months and adult dogs. Moreover, the biscuits are enriched with vitamins A, D3 and E.",
-	"canonical": "https://voskes.nl/en/products/bones-mix",
+	"ogTitle": "مخلوط استخوان | Voskes",
+	"ogDescription": "مخلوط بیسکویت مناسب توله‌های بالای ۶ ماه و سگ‌های بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
+	"canonical": "https://voskes.nl/products/bones-mix",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-15074_-_bones_mix_400gr_-_gs1-gs1_packshot-2064-22-p.webp?v=bUmGq6",

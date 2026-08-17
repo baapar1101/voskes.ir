@@ -3,13 +3,13 @@
 	"sku": "17332",
 	"gtin13": "87 112 42 93611 9",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A natural chewing product without additives. Encourages chewing and helps to keep teeth healthy. \",\n    \"name\": \"BEEF LUNG\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17332.png\",\n    \"sku\": \"17332\",\n    \"gtin13\": \"87 112 42 93611 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Beef lung | Voskes",
+	"title": "شش گاو | Voskes",
 	"heading": "BEEF LUNG",
-	"description": "A natural chewy snack with no additives. Encourages chewing and contributes to healthy teeth.",
+	"description": "خوراکی جویدنی طبیعی بدون افزودنی. جویدن را تشویق می‌کند و به سلامت دندان‌ها کمک می‌کند.",
 	"bodyDescription": "A natural chewing product without additives. Encourages chewing and helps to keep teeth healthy.",
-	"ogTitle": "Beef lung | Voskes",
-	"ogDescription": "A natural chewy snack with no additives. Encourages chewing and contributes to healthy teeth.",
-	"canonical": "https://voskes.nl/en/products/beef-lung-promo",
+	"ogTitle": "شش گاو | Voskes",
+	"ogDescription": "خوراکی جویدنی طبیعی بدون افزودنی. جویدن را تشویق می‌کند و به سلامت دندان‌ها کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/beef-lung-promo",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17332-p.webp",

@@ -3,13 +3,13 @@
 	"sku": "15053",
 	"gtin13": "8711242954335",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Chicken are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. \",\n    \"name\": \"TRAINING TREATS   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15053_training_treats_chicken_200gr_-_web.png\",\n    \"sku\": \"15053\",\n    \"gtin13\": \"8711242954335\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Training treats chicken | Voskes",
+	"title": "تشویقی آموزشی مرغ | Voskes",
 	"heading": "تشویقی آموزشی  مرغ",
-	"description": "Voskes Training Treats with chicken are delicious, soft reward treats with no added sugar.",
+	"description": "تشویقی آموزشی Voskes با مرغ؛ خوراکی نرم و خوشمزه پاداش، بدون شکر افزوده.",
 	"bodyDescription": "Voskes Training Treats with Chicken are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day.",
-	"ogTitle": "Training treats chicken | Voskes",
-	"ogDescription": "Voskes Training Treats with chicken are delicious, soft reward treats with no added sugar.",
-	"canonical": "https://voskes.nl/en/products/training-treats-chicken",
+	"ogTitle": "تشویقی آموزشی مرغ | Voskes",
+	"ogDescription": "تشویقی آموزشی Voskes با مرغ؛ خوراکی نرم و خوشمزه پاداش، بدون شکر افزوده.",
+	"canonical": "https://voskes.nl/products/training-treats-chicken",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15053_training_treats_chicken_200gr_-_web-p.webp",

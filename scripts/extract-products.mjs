@@ -10,6 +10,7 @@
 // left in the tree. See DECISIONS.md.
 import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
 import { load } from 'cheerio';
+import { rewriteEnLinks, rewriteEnUrl } from './lib/rewrite-links.mjs';
 
 const SRC = new URL('../../voskes.nl/en/products/', import.meta.url);
 const OUT = new URL('../src/content/products/', import.meta.url);
@@ -42,11 +43,11 @@ for (const file of files) {
 		if (cls.includes('product__container') || $(el).find('.product__container').length) return false;
 		return true;
 	});
-	const extraHtml = extraNodes.length ? extraNodes.map((el) => $.html(el)).join('\n') : null;
+	const extraHtml = extraNodes.length ? rewriteEnLinks(extraNodes.map((el) => $.html(el)).join('\n')) : null;
 
 	const title = $('title').text().trim();
 	const description = $('meta[name="description"]').attr('content')?.trim() || jsonLd?.description?.trim() || '';
-	const canonical = $('link[rel="canonical"]').attr('href') || `https://voskes.nl/en/products/${slug}`;
+	const canonical = rewriteEnUrl($('link[rel="canonical"]').attr('href') || `https://voskes.nl/en/products/${slug}`);
 	const ogTitle = $('meta[property="og:title"]').attr('content') || title;
 	const ogDescription = $('meta[property="og:description"]').attr('content') || description;
 

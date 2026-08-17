@@ -3,13 +3,13 @@
 	"sku": "21561",
 	"gtin13": "8711242018488",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Mousse with chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. This mousse is a mono-protein snack, with chicken as the only source of protein, making it very suitable for sensitive cats or cats with special dietary needs. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health. \",\n    \"name\": \"MOUSSE WITH FLAKES CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21561_-_8711242018488_-_mouse_with_flakes_chicken_-_7x30gr_left.png\",\n    \"sku\": \"21561\",\n    \"gtin13\": \"8711242018488\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Mousse with flakes chicken | Voskes",
+	"title": "موس با تکه‌های مرغ | Voskes",
 	"heading": "MOUSSE WITH FLAKES CHICKEN",
 	"description": "Voskes Mousse with chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. This mousse is a mono-protein snack, with chicken as the only source of protein, making it very suitable for sensitive cats or cats with special dietary needs. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
 	"bodyDescription": "Voskes Mousse with chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. This mousse is a mono-protein snack, with chicken as the only source of protein, making it very suitable for sensitive cats or cats with special dietary needs. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
-	"ogTitle": "Mousse with flakes chicken | Voskes",
+	"ogTitle": "موس با تکه‌های مرغ | Voskes",
 	"ogDescription": "Voskes Mousse with chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. This mousse is a mono-protein snack, with chicken as the only source of protein, making it very suitable for sensitive cats or cats with special dietary needs. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
-	"canonical": "https://voskes.nl/en/products/mousse-with-flakes-chicken",
+	"canonical": "https://voskes.nl/products/mousse-with-flakes-chicken",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21561_-_8711242018488_-_mouse_with_flakes_chicken_-_7x30gr_left-p.webp",

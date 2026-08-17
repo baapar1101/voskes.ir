@@ -3,13 +3,13 @@
 	"sku": "16413",
 	"gtin13": "87 112 42 93938 7",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   WITH SHELF   20 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st.png\",\n    \"sku\": \"16413\",\n    \"gtin13\": \"87 112 42 93938 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Cow ears with shelf | Voskes",
+	"title": "گوش گاو با غضروف | Voskes",
 	"heading": "گوش گاو  WITH SHELF  20 PIECES",
-	"description": "Natural, dried beef ears with no additives. Lots of chewing fun and therefore also contributes to healthy teeth.",
+	"description": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
 	"bodyDescription": "گوش گاو خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
-	"ogTitle": "Cow ears with shelf | Voskes",
-	"ogDescription": "Natural, dried beef ears with no additives. Lots of chewing fun and therefore also contributes to healthy teeth.",
-	"canonical": "https://voskes.nl/en/products/cow-ears-with-shelf-20pcs",
+	"ogTitle": "گوش گاو با غضروف | Voskes",
+	"ogDescription": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/cow-ears-with-shelf-20pcs",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st-p.webp",

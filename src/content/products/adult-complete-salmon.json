@@ -3,13 +3,13 @@
 	"sku": "20058",
 	"gtin13": "8711242015357",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Optimum immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to promote good pH and contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Vegetable fibre and beet pulp help reduce hairball formation. Formulated without maize or wheat. \",\n    \"name\": \"ADULT COMPLETE SALMON\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_complete_salmon_7kg_+30_hr.png\",\n    \"sku\": \"20058\",\n    \"gtin13\": \"8711242015357\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Adult complete salmon | Voskes",
+	"title": "غذای کامل بالغ با سالمون | Voskes",
 	"heading": "غذای کامل بالغ با سالمون",
-	"description": "Complete pet food for adult cats. Optimal skin and coat are promoted by omega-3 fatty acids from fish oil and Antarctic krill.",
+	"description": "غذای کامل گربه بالغ. اسیدهای چرب امگا-۳ از روغن ماهی و کریل قطبی، سلامت پوست و مو را تقویت می‌کند.",
 	"bodyDescription": "Optimum immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to promote good pH and contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Vegetable fibre and beet pulp help reduce hairball formation. Formulated without maize or wheat.",
-	"ogTitle": "Adult complete salmon | Voskes",
-	"ogDescription": "Complete pet food for adult cats. Optimal skin and coat are promoted by omega-3 fatty acids from fish oil and Antarctic krill.",
-	"canonical": "https://voskes.nl/en/products/adult-complete-salmon",
+	"ogTitle": "غذای کامل بالغ با سالمون | Voskes",
+	"ogDescription": "غذای کامل گربه بالغ. اسیدهای چرب امگا-۳ از روغن ماهی و کریل قطبی، سلامت پوست و مو را تقویت می‌کند.",
+	"canonical": "https://voskes.nl/products/adult-complete-salmon",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_complete_salmon_7kg_+30_hr-p.webp",

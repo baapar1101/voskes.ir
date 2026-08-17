@@ -3,13 +3,13 @@
 	"sku": "21186",
 	"gtin13": "8711242017542",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This creamy and delicious paté with turkey and chicken and fine pieces of pumpkin is complete wet food for adult cats. The high poultry content is ideal for cats that do not like fish. Pumpkin contains high concentration of minerals, vitamins & natural antioxidants. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable !  There are 8 tetrapacks of 95gr in a box. 1 pack = 1 meal. \",\n    \"name\": \"ADULT   PATÉ TURKEY   WITH CHICKEN & PUMPKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20039_pate_turkeychickenpumpkin_8pack_left_hr-gs1_packshot-2064-279.png?v=bTUhfS\",\n    \"sku\": \"21186\",\n    \"gtin13\": \"8711242017542\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Adult - paté turkey with chicken & pumpkin | Voskes",
+	"title": "بالغ؛ پته بوقلمون با مرغ و کدو حلوایی | Voskes",
 	"heading": "بالغ  پته بوقلمون  با مرغ و کدو حلوایی",
-	"description": "This creamy and delicious pâté with turkey and chicken and fine pieces of pumpkin is complete wet food for adult cats. 100% natural ingredients.",
+	"description": "این پته کرمی و خوشمزه با بوقلمون، مرغ و تکه‌های لطیف کدو حلوایی، غذای تر کامل گربه بالغ است. ۱۰۰٪ مواد طبیعی.",
 	"bodyDescription": "This creamy and delicious paté with turkey and chicken and fine pieces of pumpkin is complete wet food for adult cats. The high poultry content is ideal for cats that do not like fish. Pumpkin contains high concentration of minerals, vitamins & natural antioxidants. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable !در هر جعبه ۸ بسته ۹۵ گرمی وجود دارد. هر بسته = یک وعده.",
-	"ogTitle": "Adult - paté turkey with chicken & pumpkin | Voskes",
-	"ogDescription": "This creamy and delicious pâté with turkey and chicken and fine pieces of pumpkin is complete wet food for adult cats. 100% natural ingredients.",
-	"canonical": "https://voskes.nl/en/products/pate-turkey-with-chicken-and-pumpkin",
+	"ogTitle": "بالغ؛ پته بوقلمون با مرغ و کدو حلوایی | Voskes",
+	"ogDescription": "این پته کرمی و خوشمزه با بوقلمون، مرغ و تکه‌های لطیف کدو حلوایی، غذای تر کامل گربه بالغ است. ۱۰۰٪ مواد طبیعی.",
+	"canonical": "https://voskes.nl/products/pate-turkey-with-chicken-and-pumpkin",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20039_pate_turkeychickenpumpkin_8pack_left_hr-gs1_packshot-2064-279-p.webp?v=bTUhfS",

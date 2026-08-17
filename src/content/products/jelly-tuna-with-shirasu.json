@@ -3,13 +3,13 @@
 	"sku": "19889",
 	"gtin13": "8711447890858",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and shirasu is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SHIRASU\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19889_tuna_with_shirasu_jelly_-_blik@2x.png\",\n    \"sku\": \"19889\",\n    \"gtin13\": \"8711447890858\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Jelly tuna with shirasu | Voskes",
+	"title": "ژله ماهی تن با شیراسو | Voskes",
 	"heading": "ژله ماهی تن  WITH SHIRASU",
-	"description": "This cat snack is a delicious tuna-based treat with shirasu. A real treat for any cat!",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و شیراسو است. خوراکی واقعی برای هر گربه‌ای!",
 	"bodyDescription": "This delicious jelly treat made with tuna and shirasu is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
-	"ogTitle": "Jelly tuna with shirasu | Voskes",
-	"ogDescription": "This cat snack is a delicious tuna-based treat with shirasu. A real treat for any cat!",
-	"canonical": "https://voskes.nl/en/products/jelly-tuna-with-shirasu",
+	"ogTitle": "ژله ماهی تن با شیراسو | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و شیراسو است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-shirasu",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19889_tuna_with_shirasu_jelly_-_blik@2x-p.webp",

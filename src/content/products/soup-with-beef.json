@@ -3,13 +3,13 @@
 	"sku": "21045",
 	"gtin13": "8711242017184",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Soup with Beef is a delicious snack that encourages cats to drink more and promotes hydration. If cats do not drink enough, there is a risk of urolite formation. Especially cats following a diet consisting mainly of dry food are susceptible to this. Voskes Soup with Beef is completely grain-free and no salt was added. Can be given separately as a drink or as a topping over kibble for extra flavour, ideal for picky cats! \",\n    \"name\": \"SOUP   WITH BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210721.png\",\n    \"sku\": \"21045\",\n    \"gtin13\": \"8711242017184\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Soup with beef | Voskes",
+	"title": "سوپ با گوشت گاو | Voskes",
 	"heading": "سوپ  WITH BEEF",
-	"description": "Voskes Soup with Beef is a delicious snack that encourages cats to drink more and promotes hydration.",
+	"description": "سوپ گوشت گاو Voskes خوراکی خوشمزه‌ای است که گربه را به نوشیدن بیشتر تشویق و به آبرسانی بدن کمک می‌کند.",
 	"bodyDescription": "Voskes Soup with Beef is a delicious snack that encourages cats to drink more and promotes hydration. If cats do not drink enough, there is a risk of urolite formation. Especially cats following a diet consisting mainly of dry food are susceptible to this. Voskes Soup with Beef is completely grain-free and no salt was added. Can be given separately as a drink or as a topping over kibble for extra flavour, ideal for picky cats!",
-	"ogTitle": "Soup with beef | Voskes",
-	"ogDescription": "Voskes Soup with Beef is a delicious snack that encourages cats to drink more and promotes hydration.",
-	"canonical": "https://voskes.nl/en/products/soup-with-beef",
+	"ogTitle": "سوپ با گوشت گاو | Voskes",
+	"ogDescription": "سوپ گوشت گاو Voskes خوراکی خوشمزه‌ای است که گربه را به نوشیدن بیشتر تشویق و به آبرسانی بدن کمک می‌کند.",
+	"canonical": "https://voskes.nl/products/soup-with-beef",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210721-p.webp",

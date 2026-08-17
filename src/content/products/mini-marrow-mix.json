@@ -3,13 +3,13 @@
 	"sku": "11144",
 	"gtin13": "8711242980365",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Mix of small marrow biscuits particularly suitable for puppies from 6 months and adult dogs of small breeds. These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E! \",\n    \"name\": \"MINI MARROW MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-11144_-_mini_marrow_mix_400gr_-_gs11-gs1_packshot-2064-19.png?v=bUmGoe\",\n    \"sku\": \"11144\",\n    \"gtin13\": \"8711242980365\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Mini marrow mix | Voskes",
+	"title": "مخلوط مینی مغز استخوان | Voskes",
 	"heading": "MINI MARROW MIX",
-	"description": "Mix of small marrow biscuits particularly suitable for puppies from 6 months and adult dogs of small breeds. Enriched with vitamins A, D3 and E.",
+	"description": "مخلوط بیسکویت کوچک مغز استخوان، مناسب توله‌های بالای ۶ ماه و سگ‌های بالغ نژاد کوچک؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
 	"bodyDescription": "Mix of small marrow biscuits particularly suitable for puppies from 6 months and adult dogs of small breeds.These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E!",
-	"ogTitle": "Mini marrow mix | Voskes",
-	"ogDescription": "Mix of small marrow biscuits particularly suitable for puppies from 6 months and adult dogs of small breeds. Enriched with vitamins A, D3 and E.",
-	"canonical": "https://voskes.nl/en/products/mini-marrow-mix",
+	"ogTitle": "مخلوط مینی مغز استخوان | Voskes",
+	"ogDescription": "مخلوط بیسکویت کوچک مغز استخوان، مناسب توله‌های بالای ۶ ماه و سگ‌های بالغ نژاد کوچک؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
+	"canonical": "https://voskes.nl/products/mini-marrow-mix",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-11144_-_mini_marrow_mix_400gr_-_gs11-gs1_packshot-2064-19-p.webp?v=bUmGoe",

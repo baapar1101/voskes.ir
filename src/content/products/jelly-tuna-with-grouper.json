@@ -3,13 +3,13 @@
 	"sku": "19881",
 	"gtin13": "8711447890698",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and grouper is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH GROUPER\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19881_tuna_with_grouper_jelly_-_blik@2x1.png\",\n    \"sku\": \"19881\",\n    \"gtin13\": \"8711447890698\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Jelly tuna with grouper | Voskes",
+	"title": "ژله ماهی تن با هامور | Voskes",
 	"heading": "ژله ماهی تن  با ماهی هامور",
-	"description": "This cat snack is a delicious tuna-based treat with grouper. A real treat for any cat!",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و هامور است. خوراکی واقعی برای هر گربه‌ای!",
 	"bodyDescription": "This delicious jelly treat made with tuna and grouper is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
-	"ogTitle": "Jelly tuna with grouper | Voskes",
-	"ogDescription": "This cat snack is a delicious tuna-based treat with grouper. A real treat for any cat!",
-	"canonical": "https://voskes.nl/en/products/jelly-tuna-with-grouper",
+	"ogTitle": "ژله ماهی تن با هامور | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و هامور است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-grouper",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19881_tuna_with_grouper_jelly_-_blik@2x1-p.webp",

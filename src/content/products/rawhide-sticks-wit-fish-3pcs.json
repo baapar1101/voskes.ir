@@ -3,13 +3,13 @@
 	"sku": "21728",
 	"gtin13": "8711242018952",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These delicious chew snacks consist of 3 rawhide sticks with fish. This snack is very rich in animal proteins and fish is a highly digestible source of protein, making it suitable for dogs with sensitive digestion. \",\n    \"name\": \"RAWHIDE STICKS   WITH FISH 3PCS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs1-gs1_packshot-2064-359.png?v=bW9MhQ\",\n    \"sku\": \"21728\",\n    \"gtin13\": \"8711242018952\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Rawhide sticks with fish | Voskes",
+	"title": "استیک پوست خام با ماهی | Voskes",
 	"heading": "استیک پوست خام  WITH FISH 3PCS",
-	"description": "These delicious chew snacks consist of 3 rawhide sticks with fish. Rich in animal proteins, highly digestible source of protein, for sensitive digestion.",
+	"description": "این خوراکی جویدنی از ۳ استیک پوست خام با ماهی تشکیل شده؛ سرشار از پروتئین حیوانی و بسیار قابل هضم، مناسب گوارش حساس.",
 	"bodyDescription": "These delicious chew snacks consist of 3 rawhide sticks with fish. This snack is very rich in animal proteins and fish is a highly digestible source of protein, making it suitable for dogs with sensitive digestion.",
-	"ogTitle": "Rawhide sticks with fish | Voskes",
-	"ogDescription": "These delicious chew snacks consist of 3 rawhide sticks with fish. Rich in animal proteins, highly digestible source of protein, for sensitive digestion.",
-	"canonical": "https://voskes.nl/en/products/rawhide-sticks-wit-fish-3pcs",
+	"ogTitle": "استیک پوست خام با ماهی | Voskes",
+	"ogDescription": "این خوراکی جویدنی از ۳ استیک پوست خام با ماهی تشکیل شده؛ سرشار از پروتئین حیوانی و بسیار قابل هضم، مناسب گوارش حساس.",
+	"canonical": "https://voskes.nl/products/rawhide-sticks-wit-fish-3pcs",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs1-gs1_packshot-2064-359-p.webp?v=bW9MhQ",

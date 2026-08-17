@@ -3,13 +3,13 @@
 	"sku": "21562",
 	"gtin13": "8711242018501",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The mousse with fish-rich sauce is a tasty and functional snack specially developed to responsibly spoil your cat. This cup is prepared with fish and contains only natural ingredients. In addition, the snack is completely grain-free, making it suitable even for cats with sensitive digestion. Thanks to the addition of sunflower oil, a natural source of omega fatty acids, this snack supports healthy skin and a shiny coat. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health. \",\n    \"name\": \"MOUSSE WITH SAUCE FISH\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21562_-_8711242018501_-_mouse_with_sauce_fish_-_7x30gr_left.png\",\n    \"sku\": \"21562\",\n    \"gtin13\": \"8711242018501\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Mousse with sauce fish | Voskes",
+	"title": "موس با سس ماهی | Voskes",
 	"heading": "MOUSSE WITH SAUCE FISH",
 	"description": "The mousse with fish-rich sauce is a tasty and functional snack specially developed to responsibly spoil your cat. This cup is prepared with fish and contains only natural ingredients. In addition, the snack is completely grain-free, making it suitable even for cats with sensitive digestion. Thanks to the addition of sunflower oil, a natural source of omega fatty acids, this snack supports healthy skin and a shiny coat. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
 	"bodyDescription": "The mousse with fish-rich sauce is a tasty and functional snack specially developed to responsibly spoil your cat. This cup is prepared with fish and contains only natural ingredients. In addition, the snack is completely grain-free, making it suitable even for cats with sensitive digestion. Thanks to the addition of sunflower oil, a natural source of omega fatty acids, this snack supports healthy skin and a shiny coat. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
-	"ogTitle": "Mousse with sauce fish | Voskes",
+	"ogTitle": "موس با سس ماهی | Voskes",
 	"ogDescription": "The mousse with fish-rich sauce is a tasty and functional snack specially developed to responsibly spoil your cat. This cup is prepared with fish and contains only natural ingredients. In addition, the snack is completely grain-free, making it suitable even for cats with sensitive digestion. Thanks to the addition of sunflower oil, a natural source of omega fatty acids, this snack supports healthy skin and a shiny coat. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
-	"canonical": "https://voskes.nl/en/products/mousse-with-sauce-fish",
+	"canonical": "https://voskes.nl/products/mousse-with-sauce-fish",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21562_-_8711242018501_-_mouse_with_sauce_fish_-_7x30gr_left-p.webp",

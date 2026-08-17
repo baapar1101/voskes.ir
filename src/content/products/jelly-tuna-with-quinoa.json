@@ -3,13 +3,13 @@
 	"sku": "32026",
 	"gtin13": "8711447890957",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and quinoa is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH QUINOA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19894_tuna_with_quinoa_jelly_-_blik@2x.png\",\n    \"sku\": \"32026\",\n    \"gtin13\": \"8711447890957\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Jelly tuna with quinoa | Voskes",
+	"title": "ژله ماهی تن با کینوا | Voskes",
 	"heading": "ژله ماهی تن  WITH QUINOA",
-	"description": "This cat snack is a delicious tuna-based treat with quinoa. A real treat for any cat!",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و کینوا است. خوراکی واقعی برای هر گربه‌ای!",
 	"bodyDescription": "This delicious jelly treat made with tuna and quinoa is a veritable delicacy for every cat!The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation!",
-	"ogTitle": "Jelly tuna with quinoa | Voskes",
-	"ogDescription": "This cat snack is a delicious tuna-based treat with quinoa. A real treat for any cat!",
-	"canonical": "https://voskes.nl/en/products/jelly-tuna-with-quinoa",
+	"ogTitle": "ژله ماهی تن با کینوا | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و کینوا است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-tuna-with-quinoa",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19894_tuna_with_quinoa_jelly_-_blik@2x-p.webp",

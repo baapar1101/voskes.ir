@@ -3,13 +3,13 @@
 	"sku": "21480",
 	"gtin13": "8711242018075",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These tasty, crunchy biscuits in animal shapes have a delicious vanilla scent and are sure to please any dog. These biscuits contain no meat, but they are enriched with vitmines A, D3 and E. Ideal as a snack, during training or during a long walk. \",\n    \"name\": \"ANIMAL MIX   WITH VANILLA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21480_-_animal_mix_with_vanilla_750gr-_gs11-gs1_packshot-2064-325.png?v=bUmGsI\",\n    \"sku\": \"21480\",\n    \"gtin13\": \"8711242018075\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Animal mix with vanilla | Voskes",
+	"title": "مخلوط حیوانات با وانیل | Voskes",
 	"heading": "ANIMAL MIX  WITH VANILLA",
-	"description": "These tasty, crunchy biscuits in animal shapes have a delicious vanilla scent Contain no meat, but are enriched with vitamins A, D3 and E.",
+	"description": "این بیسکویت‌های ترد و خوشمزه به شکل حیوانات، رایحه دلپذیر وانیل دارند. بدون گوشت، غنی‌شده با ویتامین‌های A، D۳ و E.",
 	"bodyDescription": "These tasty, crunchy biscuits in animal shapes have a delicious vanilla scent and are sure to please any dog. These biscuits contain no meat, but they are enriched with vitmines A, D3 and E. Ideal as a snack, during training or during a long walk.",
-	"ogTitle": "Animal mix with vanilla | Voskes",
-	"ogDescription": "These tasty, crunchy biscuits in animal shapes have a delicious vanilla scent Contain no meat, but are enriched with vitamins A, D3 and E.",
-	"canonical": "https://voskes.nl/en/products/animal-mix-with-vanilla",
+	"ogTitle": "مخلوط حیوانات با وانیل | Voskes",
+	"ogDescription": "این بیسکویت‌های ترد و خوشمزه به شکل حیوانات، رایحه دلپذیر وانیل دارند. بدون گوشت، غنی‌شده با ویتامین‌های A، D۳ و E.",
+	"canonical": "https://voskes.nl/products/animal-mix-with-vanilla",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21480_-_animal_mix_with_vanilla_750gr-_gs11-gs1_packshot-2064-325-p.webp?v=bUmGsI",

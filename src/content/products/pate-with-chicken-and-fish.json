@@ -3,13 +3,13 @@
 	"sku": "20570",
 	"gtin13": "8711242016880",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious paté treat made with chicken and fish is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and fish, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat and fish ! \",\n    \"name\": \"PATÉ   WITH CHICKEN & FISH\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20570_pate_with_chicken_and_fish_blik.png\",\n    \"sku\": \"20570\",\n    \"gtin13\": \"8711242016880\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Paté with chicken and fish | Voskes",
+	"title": "پته با مرغ و ماهی | Voskes",
 	"heading": "پته  WITH CHICKEN & FISH",
-	"description": "This cat snack is a delicious chicken and fish-based treat. A real treat for any cat!",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ و ماهی است. خوراکی واقعی برای هر گربه‌ای!",
 	"bodyDescription": "This delicious paté treat made with chicken and fish is a veritable delicacy for every cat!The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and fish, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat and fish !",
-	"ogTitle": "Paté with chicken and fish | Voskes",
-	"ogDescription": "This cat snack is a delicious chicken and fish-based treat. A real treat for any cat!",
-	"canonical": "https://voskes.nl/en/products/pate-with-chicken-and-fish",
+	"ogTitle": "پته با مرغ و ماهی | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ و ماهی است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/pate-with-chicken-and-fish",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20570_pate_with_chicken_and_fish_blik.webp",

@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import bodyHtml from './_cat.content.html?raw';
+import headerHtml from './_cat.header.html?raw';
+import cookieBannerHtml from './_cat.cookie.html?raw';
+import footerHtml from './_cat.footer.html?raw';
+
+import rootVars from './_cat.root-vars.css?raw';
+import cookieboxCss from './_cat.cookiebox.css?raw';
+import utilityColors from './_cat.utility-colors.css?raw';
+---
+
+<Base
+	title="غذای مناسب گربه‌تان را با غذای گربه Voskes پیدا کنید"
+	description="دوست داریم منویی سالم و خوشمزه برای گربه شما بچینیم. سبد غذای تر مکمل و غذای تر و خشک باکیفیت ما، مواد مغذی درست را بدون رنگ و طعم مصنوعی می‌رساند."
+	canonical="https://voskes.nl/cat"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="غذای مناسب گربه‌تان را با غذای گربه Voskes پیدا کنید"
+	ogDescription="دوست داریم منویی سالم و خوشمزه برای گربه شما بچینیم. سبد غذای تر مکمل و غذای تر و خشک باکیفیت ما، مواد مغذی درست را بدون رنگ و طعم مصنوعی می‌رساند."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

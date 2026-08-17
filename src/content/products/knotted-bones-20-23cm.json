@@ -3,13 +3,13 @@
 	"sku": "17378",
 	"gtin13": "8711242936393",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"KNOTTED BONES   20-23CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17378.png\",\n    \"sku\": \"17378\",\n    \"gtin13\": \"8711242936393\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Knotted bones | Voskes",
+	"title": "استخوان‌های گره‌دار | Voskes",
 	"heading": "استخوان گره‌دار  20-23CM",
-	"description": "Bones are tasty and healthy snacks for dogs to keep teeth healthy. Knotted bones are the ideal dog snack as a snack or reward.",
+	"description": "استخوان‌ها تشویقی خوشمزه و سالمی برای حفظ سلامت دندان سگ‌اند. استخوان گره‌دار برای میان‌وعده یا پاداش ایده‌آل است.",
 	"bodyDescription": "Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean.",
-	"ogTitle": "Knotted bones | Voskes",
-	"ogDescription": "Bones are tasty and healthy snacks for dogs to keep teeth healthy. Knotted bones are the ideal dog snack as a snack or reward.",
-	"canonical": "https://voskes.nl/en/products/knotted-bones-20-23cm",
+	"ogTitle": "استخوان‌های گره‌دار | Voskes",
+	"ogDescription": "استخوان‌ها تشویقی خوشمزه و سالمی برای حفظ سلامت دندان سگ‌اند. استخوان گره‌دار برای میان‌وعده یا پاداش ایده‌آل است.",
+	"canonical": "https://voskes.nl/products/knotted-bones-20-23cm",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17378-p.webp",

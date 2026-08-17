@@ -3,13 +3,13 @@
 	"sku": "20562",
 	"gtin13": "8711242016781",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with chicken is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken, filling cans and adding toppings are all done manually. This delicious gluten-free chicken-based jelly treat is a real treat for any cat ! \",\n    \"name\": \"JELLY CHICKEN \",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20562_jelly_chicken_blik.png\",\n    \"sku\": \"20562\",\n    \"gtin13\": \"8711242016781\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Jelly chicken | Voskes",
+	"title": "ژله مرغ | Voskes",
 	"heading": "JELLY CHICKEN",
-	"description": "This cat snack is a delicious chicken-based treat. A real treat for any cat!",
+	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ است. خوراکی واقعی برای هر گربه‌ای!",
 	"bodyDescription": "This delicious jelly treat made with chicken is a veritable delicacy for every cat!The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken, filling cans and adding toppings are all done manually. This delicious gluten-free chicken-based jelly treat is a real treat for any cat !",
-	"ogTitle": "Jelly chicken | Voskes",
-	"ogDescription": "This cat snack is a delicious chicken-based treat. A real treat for any cat!",
-	"canonical": "https://voskes.nl/en/products/jelly-chicken",
+	"ogTitle": "ژله مرغ | Voskes",
+	"ogDescription": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ است. خوراکی واقعی برای هر گربه‌ای!",
+	"canonical": "https://voskes.nl/products/jelly-chicken",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20562_jelly_chicken_blik.webp",

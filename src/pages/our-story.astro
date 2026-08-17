@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import bodyHtml from './_our-story.content.html?raw';
+import headerHtml from './_our-story.header.html?raw';
+import cookieBannerHtml from './_our-story.cookie.html?raw';
+import footerHtml from './_our-story.footer.html?raw';
+
+import rootVars from './_our-story.root-vars.css?raw';
+import cookieboxCss from './_our-story.cookiebox.css?raw';
+import utilityColors from './_our-story.utility-colors.css?raw';
+---
+
+<Base
+	title="Voskes، از سال ۱۹۸۱ — داستان ما"
+	description="Voskes از سال ۱۹۸۱ به تنوع تشویقی‌های سالمش شناخته می‌شود. بیش از ۴۰ سال است سگ‌ها و گربه‌ها عاشق طعم خوشمزه و صادقانه ما هستند."
+	canonical="https://voskes.nl/our-story"
+	headerHtml={headerHtml}
+	cookieBannerHtml={cookieBannerHtml}
+	footerHtml={footerHtml}
+	ogTitle="Voskes، از سال ۱۹۸۱ — داستان ما"
+	ogDescription="Voskes از سال ۱۹۸۱ به تنوع تشویقی‌های سالمش شناخته می‌شود. بیش از ۴۰ سال است سگ‌ها و گربه‌ها عاشق طعم خوشمزه و صادقانه ما هستند."
+	bodyClass="Page"
+	
+	
+	rootVars={rootVars}
+	cookieboxCss={cookieboxCss}
+	utilityColors={utilityColors}
+>
+	<Fragment set:html={bodyHtml} />
+</Base>

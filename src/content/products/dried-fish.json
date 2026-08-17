@@ -3,13 +3,13 @@
 	"sku": "19973",
 	"gtin13": "8711242014848",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These 100% dried fish are a real treat for real fish lovers among the cats. These cat snacks are suitable for kittens from 3 months and adult cats. \",\n    \"name\": \"DRIED FISH\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19973_dried_fish.png\",\n    \"sku\": \"19973\",\n    \"gtin13\": \"8711242014848\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Dried fish | Voskes",
+	"title": "ماهی خشک | Voskes",
 	"heading": "DRIED FISH",
-	"description": "Voskes 100% dried fish is a real treat for true fish lovers among cats. These cat snacks are suitable for kittens from 3 months of age.",
+	"description": "ماهی ۱۰۰٪ خشک Voskes خوراکی واقعی برای گربه‌های عاشق ماهی است؛ مناسب بچه‌گربه‌های بالای ۳ ماه.",
 	"bodyDescription": "These 100% dried fish are a real treat for real fish lovers among the cats. These cat snacks are suitable for kittens from 3 months and adult cats.",
-	"ogTitle": "Dried fish | Voskes",
-	"ogDescription": "Voskes 100% dried fish is a real treat for true fish lovers among cats. These cat snacks are suitable for kittens from 3 months of age.",
-	"canonical": "https://voskes.nl/en/products/dried-fish",
+	"ogTitle": "ماهی خشک | Voskes",
+	"ogDescription": "ماهی ۱۰۰٪ خشک Voskes خوراکی واقعی برای گربه‌های عاشق ماهی است؛ مناسب بچه‌گربه‌های بالای ۳ ماه.",
+	"canonical": "https://voskes.nl/products/dried-fish",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19973_dried_fish-p.webp",

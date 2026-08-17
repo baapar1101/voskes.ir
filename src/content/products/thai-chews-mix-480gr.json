@@ -3,13 +3,13 @@
 	"sku": "17351",
 	"gtin13": "87 112 42 93626 3",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean \",\n    \"name\": \"THAI CHEWS MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-17351_-_8711242936263_-_thaise_kauwmix_8st_gs1-gs1_packshot-2064-253.png?v=bV0aEC\",\n    \"sku\": \"17351\",\n    \"gtin13\": \"87 112 42 93626 3\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
-	"title": "Thai chews mix | Voskes",
+	"title": "مخلوط جویدنی تایلندی | Voskes",
 	"heading": "THAI CHEWS MIX",
-	"description": "In this mix of dog snacks, you will find several chews that are good for your dog's teeth and gums.",
+	"description": "در این مخلوط تشویقی سگ، چند جویدنی می‌یابید که برای دندان و لثه سگ شما مفیدند.",
 	"bodyDescription": "Made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean",
-	"ogTitle": "Thai chews mix | Voskes",
-	"ogDescription": "In this mix of dog snacks, you will find several chews that are good for your dog's teeth and gums.",
-	"canonical": "https://voskes.nl/en/products/thai-chews-mix-480gr",
+	"ogTitle": "مخلوط جویدنی تایلندی | Voskes",
+	"ogDescription": "در این مخلوط تشویقی سگ، چند جویدنی می‌یابید که برای دندان و لثه سگ شما مفیدند.",
+	"canonical": "https://voskes.nl/products/thai-chews-mix-480gr",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-17351_-_8711242936263_-_thaise_kauwmix_8st_gs1-gs1_packshot-2064-253-p.webp?v=bV0aEC",
