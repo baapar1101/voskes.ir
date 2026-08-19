@@ -1,5 +1,5 @@
 // §6.4 visual parity gate. Requires both static servers running:
-//   voskes.nl/          -> http://localhost:8100
+//   voskes.ir/          -> http://localhost:8100
 //   astro-migration/dist -> http://localhost:8101
 import { chromium } from 'playwright';
 import { PNG } from 'pngjs';

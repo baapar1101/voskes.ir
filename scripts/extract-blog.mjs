@@ -1,4 +1,4 @@
-// Extracts src/content/blog/*.json from voskes.nl/en/blog/*.html.
+// Extracts src/content/blog/*.json from voskes.ir/en/blog/*.html.
 //
 // Unlike products, blog posts have no repeated structured fields — each is
 // hand-authored freeform section markup (banners, highlight blocks, cards).
@@ -9,7 +9,7 @@ import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
 import { load } from 'cheerio';
 import { rewriteEnLinks, rewriteEnUrl } from './lib/rewrite-links.mjs';
 
-const SRC = new URL('../../voskes.nl/en/blog/', import.meta.url);
+const SRC = new URL('../../voskes.ir/en/blog/', import.meta.url);
 const OUT = new URL('../src/content/blog/', import.meta.url);
 
 await mkdir(OUT, { recursive: true });
@@ -24,7 +24,7 @@ for (const file of files) {
 
 	const title = $('title').text().trim();
 	const description = $('meta[name="description"]').attr('content')?.trim() || '';
-	const canonical = rewriteEnUrl($('link[rel="canonical"]').attr('href') || `https://voskes.nl/en/blog/${slug}`);
+	const canonical = rewriteEnUrl($('link[rel="canonical"]').attr('href') || `https://voskes.ir/en/blog/${slug}`);
 	const ogTitle = $('meta[property="og:title"]').attr('content') || title;
 	const ogDescription = $('meta[property="og:description"]').attr('content') || description;
 	const ogImage = $('meta[property="og:image"]').attr('content') || null;

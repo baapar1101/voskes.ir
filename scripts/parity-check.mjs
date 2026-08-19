@@ -34,7 +34,7 @@ function check(srcPath, outPath, label, verbose) {
 const routes = fs.readFileSync('../parity/routes-source.txt', 'utf8').trim().split('\n').filter(Boolean);
 let fail = 0;
 for (const route of routes) {
-  const ok = check('../voskes.nl/' + route, 'dist/' + route, route, true);
+  const ok = check('../voskes.ir/' + route, 'dist/' + route, route, true);
   if (!ok) fail++;
 }
 console.log('failures:', fail, '/', routes.length);

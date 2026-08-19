@@ -1,7 +1,7 @@
 // One-time patch for single-locale flattening (see DECISIONS.md): rewrites
 // /en/... references already baked into src/content/{products,blog}/*.json
 // from the last full extraction run. Used instead of re-running
-// extract-products.mjs/extract-blog.mjs because voskes.nl/ no longer has
+// extract-products.mjs/extract-blog.mjs because voskes.ir/ no longer has
 // the original source (see DECISIONS.md, "Mid-migration source drift,
 // part 2") — patching the already-extracted JSON in place is more robust
 // than round-tripping through rendered HTML.

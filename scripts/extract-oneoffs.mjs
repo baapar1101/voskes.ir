@@ -15,7 +15,7 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { load } from 'cheerio';
 import { rewriteEnLinks, rewriteEnUrl } from './lib/rewrite-links.mjs';
 
-// voskes.nl/ was overwritten mid-session by an unrelated concurrent
+// voskes.ir/ was overwritten mid-session by an unrelated concurrent
 // process (see DECISIONS.md, "Mid-migration source drift, part 2") — the
 // original static HTML no longer exists there. Reading from this
 // project's own dist/ build output instead: it was verified byte-exact
@@ -24,7 +24,7 @@ import { rewriteEnLinks, rewriteEnUrl } from './lib/rewrite-links.mjs';
 const ROOT = new URL('../dist/', import.meta.url);
 const PAGES = new URL('../src/pages/', import.meta.url);
 
-// [source path relative to voskes.nl/, output .astro path relative to src/pages/]
+// [source path relative to voskes.ir/, output .astro path relative to src/pages/]
 const PAGES_TO_PORT = [
 	['en/index.html', 'index.astro'],
 	['en/blog.html', 'blog.astro'],

@@ -11,13 +11,13 @@ export function rewriteEnLinks(html) {
 		.replace(/(href|src|action|value)="\/en"/g, '$1="/"')
 		.replace(/(href|src|action|value)="\/en#/g, '$1="/#')
 		.replace(/(href|src|action|value)="\/en\?/g, '$1="/?')
-		.replace(/https:\/\/voskes\.nl\/en\//g, 'https://voskes.nl/')
-		.replace(/https:\/\/voskes\.nl\/en"/g, 'https://voskes.nl/"');
+		.replace(/https:\/\/voskes\.nl\/en\//g, 'https://voskes.ir/')
+		.replace(/https:\/\/voskes\.nl\/en"/g, 'https://voskes.ir/"');
 }
 
 // Strips the /en/ segment from an absolute or root-relative URL string
 // (canonical, og:url, ctaHref-style single-URL fields — not HTML blobs).
 export function rewriteEnUrl(url) {
 	if (!url) return url;
-	return url.replace('https://voskes.nl/en/', 'https://voskes.nl/').replace(/^\/en\//, '/').replace(/^\/en$/, '/');
+	return url.replace('https://voskes.ir/en/', 'https://voskes.ir/').replace(/^\/en\//, '/').replace(/^\/en$/, '/');
 }

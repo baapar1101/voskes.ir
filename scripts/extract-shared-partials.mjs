@@ -12,7 +12,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { load } from 'cheerio';
 import { rewriteEnLinks } from './lib/rewrite-links.mjs';
 
-// voskes.nl/ was overwritten mid-session (see DECISIONS.md, "Mid-migration
+// voskes.ir/ was overwritten mid-session (see DECISIONS.md, "Mid-migration
 // source drift, part 2") — reading from this project's own dist/ build
 // output instead, verified byte-exact against the real source before that
 // happened.

@@ -1,4 +1,4 @@
-// Extracts src/content/products/*.json from voskes.nl/en/products/*.html.
+// Extracts src/content/products/*.json from voskes.ir/en/products/*.html.
 //
 // Category is intentionally omitted: the source is a scraped static mirror of
 // a CMS-driven site, and the client-side filter/pagination system
@@ -12,7 +12,7 @@ import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
 import { load } from 'cheerio';
 import { rewriteEnLinks, rewriteEnUrl } from './lib/rewrite-links.mjs';
 
-const SRC = new URL('../../voskes.nl/en/products/', import.meta.url);
+const SRC = new URL('../../voskes.ir/en/products/', import.meta.url);
 const OUT = new URL('../src/content/products/', import.meta.url);
 
 await mkdir(OUT, { recursive: true });
@@ -47,7 +47,7 @@ for (const file of files) {
 
 	const title = $('title').text().trim();
 	const description = $('meta[name="description"]').attr('content')?.trim() || jsonLd?.description?.trim() || '';
-	const canonical = rewriteEnUrl($('link[rel="canonical"]').attr('href') || `https://voskes.nl/en/products/${slug}`);
+	const canonical = rewriteEnUrl($('link[rel="canonical"]').attr('href') || `https://voskes.ir/en/products/${slug}`);
 	const ogTitle = $('meta[property="og:title"]').attr('content') || title;
 	const ogDescription = $('meta[property="og:description"]').attr('content') || description;
 
