@@ -2,7 +2,7 @@
 	"slug": "rawhide-sticks-with-beef-andchicken-40cm",
 	"sku": "18173",
 	"gtin13": "8711242933125",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein. Due to their size, these sticks are very suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH BEEF & CHICKEN   40CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_(stick)_beef_skin,_pork_skin_and_chicken_(m)_inhoud1.png\",\n    \"sku\": \"18173\",\n    \"gtin13\": \"8711242933125\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein. Due to their size, these sticks are very suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH BEEF & CHICKEN   40CM\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_(stick)_beef_skin,_pork_skin_and_chicken_(m)_inhoud1.png\",\n    \"sku\": \"18173\",\n    \"gtin13\": \"8711242933125\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک پوست خام با گوشت گاو و مرغ | Voskes",
 	"heading": "استیک پوست خام  با گوشت گاو و مرغ  40CM",
 	"description": "خوراکی خوشمزه برای سگ شما؛ پوست گاو و خوک همراه با مرغ.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/rawhide-sticks-with-beef-andchicken-40cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_(stick)_beef_skin,_pork_skin_and_chicken_(m)_inhoud1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_(stick)_beef_skin,_pork_skin_and_chicken_(m)_inhoud1-p.webp",
 			"alt": "چوب با خام گوشت گاو و مرغ 40 سانتی متر - 2 عدد | Kauwsticks hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_181722-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_181722-p.webp",
 			"alt": "چوب با خام گوشت گاو و مرغ 40 سانتی متر - 2 عدد | Kauwsticks hond | رفتارهای Voskes | VOSKES"
 		}
 	],

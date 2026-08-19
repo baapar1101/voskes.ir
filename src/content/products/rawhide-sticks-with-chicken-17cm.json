@@ -2,7 +2,7 @@
 	"slug": "rawhide-sticks-with-chicken-17cm",
 	"sku": "19874",
 	"gtin13": "8711242014923",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH CHICKEN   17CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19874-_rawhide_sticks_with_chicken_17cm_x12_-_gs1-gs1_packshot-2064-294.png?v=bTEWpv\",\n    \"sku\": \"19874\",\n    \"gtin13\": \"8711242014923\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH CHICKEN   17CM\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-19874-_rawhide_sticks_with_chicken_17cm_x12_-_gs1-gs1_packshot-2064-294.png?v=bTEWpv\",\n    \"sku\": \"19874\",\n    \"gtin13\": \"8711242014923\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک پوست خام با مرغ | Voskes",
 	"heading": "استیک پوست خام  با مرغ  17CM",
 	"description": "این استیک‌های جویدنی خوشمزه‌اند، لذت جویدن می‌آورند و به سلامت دندان‌ها کمک می‌کنند. ضمناً سرشار از پروتئین حیوانی هستند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/rawhide-sticks-with-chicken-17cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19874-_rawhide_sticks_with_chicken_17cm_x12_-_gs1-gs1_packshot-2064-294-p.webp?v=bTEWpv",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-19874-_rawhide_sticks_with_chicken_17cm_x12_-_gs1-gs1_packshot-2064-294-p.webp?v=bTEWpv",
 			"alt": "چوب خام با مرغ 17CM - 12PCS | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19874_rawhide_sticks_with_chicken_17cm_x12_-_inhoud-web-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19874_rawhide_sticks_with_chicken_17cm_x12_-_inhoud-web-p.webp",
 			"alt": "چوب خام با مرغ 17CM - 12PCS | | VOSKES"
 		}
 	],

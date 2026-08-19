@@ -2,7 +2,7 @@
 	"slug": "trio-twist-chicken",
 	"sku": "17665",
 	"gtin13": "87 112 42 93597 6",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Trio Twist Chicken is a braid of white cowhide, a tasty strip of chicken and rawhide. A chew snack to savour. The shape also helps to keep teeth clean. \",\n    \"name\": \"TRIO TWIST   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking.png\",\n    \"sku\": \"17665\",\n    \"gtin13\": \"87 112 42 93597 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Trio Twist Chicken is a braid of white cowhide, a tasty strip of chicken and rawhide. A chew snack to savour. The shape also helps to keep teeth clean. \",\n    \"name\": \"TRIO TWIST   CHICKEN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking.png\",\n    \"sku\": \"17665\",\n    \"gtin13\": \"87 112 42 93597 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پیچ سه‌تایی مرغ | Voskes",
 	"heading": "TRIO TWIST  مرغ",
 	"description": "پیچ سه‌تایی مرغ خوراکی واقعی دوست چهارپای شماست؛ بافتی از پوست خام شفاف با نوار خوشمزه مرغ.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/trio-twist-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_17665-twist-verpakking-p.webp",
 			"alt": "مرغ TRIO TWIST | کیپ اسنک هوند | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17665-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17665-p.webp",
 			"alt": "مرغ TRIO TWIST | کیپ اسنک هوند | رفتارهای Voskes | VOSKES"
 		}
 	],

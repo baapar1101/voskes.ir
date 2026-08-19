@@ -2,7 +2,7 @@
 	"slug": "chicken-feet",
 	"sku": "17123",
 	"gtin13": "8711242937949",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried chicken feet are a tasty, natural snack. They are not hard in terms of texture and easy to chew on. \",\n    \"name\": \"CHICKEN FEET\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17123.png\",\n    \"sku\": \"17123\",\n    \"gtin13\": \"8711242937949\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried chicken feet are a tasty, natural snack. They are not hard in terms of texture and easy to chew on. \",\n    \"name\": \"CHICKEN FEET\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17123.png\",\n    \"sku\": \"17123\",\n    \"gtin13\": \"8711242937949\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پای مرغ | Voskes",
 	"heading": "CHICKEN FEET",
 	"description": "پای مرغ خشک‌شده خوراکی طبیعی و خوشمزه‌ای است؛ بافت آن سفت نیست و به‌راحتی جویده می‌شود.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/chicken-feet",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17123-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17123-p.webp",
 			"alt": "پای مرغ | کیپن پوتن | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17123-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17123-p.webp",
 			"alt": "پای مرغ | کیپن پوتن | رفتارهای Voskes | VOSKES"
 		}
 	],

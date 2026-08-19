@@ -2,7 +2,7 @@
 	"slug": "jelly-tuna-with-seabass",
 	"sku": "19885",
 	"gtin13": "8711447890773",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and seabass jelly is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SEABASS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19885_tuna_with_seabass_jelly_-_blik@2x.png\",\n    \"sku\": \"19885\",\n    \"gtin13\": \"8711447890773\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and seabass jelly is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SEABASS\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19885_tuna_with_seabass_jelly_-_blik@2x.png\",\n    \"sku\": \"19885\",\n    \"gtin13\": \"8711447890773\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله ماهی تن با سی‌باس | Voskes",
 	"heading": "ژله ماهی تن  با ماهی سی‌باس",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و سی‌باس است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-tuna-with-seabass",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19885_tuna_with_seabass_jelly_-_blik@2x-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19885_tuna_with_seabass_jelly_-_blik@2x-p.webp",
 			"alt": "ماهی تن ژله ای با سیباس | ماهی تن ژله ای با دریای دریایی | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19885_tuna_with_seabass_jelly@2x-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19885_tuna_with_seabass_jelly@2x-p.webp",
 			"alt": "ماهی تن ژله ای با سیباس | ماهی تن ژله ای با دریای دریایی | VOSKES"
 		}
 	],

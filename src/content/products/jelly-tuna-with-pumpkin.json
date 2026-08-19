@@ -2,7 +2,7 @@
 	"slug": "jelly-tuna-with-pumpkin",
 	"sku": "19893",
 	"gtin13": "8711447890933",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and pumpkin is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH PUMPKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19893_tuna_with_pumpkin_jelly_-_blik@2x1.png\",\n    \"sku\": \"19893\",\n    \"gtin13\": \"8711447890933\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and pumpkin is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH PUMPKIN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19893_tuna_with_pumpkin_jelly_-_blik@2x1.png\",\n    \"sku\": \"19893\",\n    \"gtin13\": \"8711447890933\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله ماهی تن با کدو حلوایی | Voskes",
 	"heading": "ژله ماهی تن  WITH PUMPKIN",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و کدو حلوایی است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-tuna-with-pumpkin",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19893_tuna_with_pumpkin_jelly_-_blik@2x1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19893_tuna_with_pumpkin_jelly_-_blik@2x1-p.webp",
 			"alt": "ژله تن با کدو تنبل | ماهی تن ژله ای با کدو تنبل | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19893_tuna_with_pumpkin_jelly@2x-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19893_tuna_with_pumpkin_jelly@2x-p.webp",
 			"alt": "ژله تن با کدو تنبل | ماهی تن ژله ای با کدو تنبل | VOSKES"
 		}
 	],

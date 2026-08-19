@@ -2,7 +2,7 @@
 	"slug": "mix-bucket-chicken",
 	"sku": "19486",
 	"gtin13": "87 112 42 01420 6",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried Chicken Mix is a tasty, natural snack. Are not hard in texture and easy to chew \",\n    \"name\": \"MIX BUCKET CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19486-front.png\",\n    \"sku\": \"19486\",\n    \"gtin13\": \"87 112 42 01420 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried Chicken Mix is a tasty, natural snack. Are not hard in texture and easy to chew \",\n    \"name\": \"MIX BUCKET CHICKEN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19486-front.png\",\n    \"sku\": \"19486\",\n    \"gtin13\": \"87 112 42 01420 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "سطل مخلوط مرغ | Voskes",
 	"heading": "MIX BUCKET CHICKEN",
 	"description": "سطل مخلوط شامل چند خوراکی خوشمزه با مرغ برای سگ شماست؛ به‌راحتی جویده می‌شوند و برای پاداش ایده‌آل‌اند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/mix-bucket-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19486-front-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19486-front-p.webp",
 			"alt": "مرغ سطلی مخلوط کن | Hondensnacks با کیپ | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19486_-_8711242014206_-_mix_bucket_chicken_600gr_gs1-gs1_product-2064-249-p.webp?v=bV0axF",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-19486_-_8711242014206_-_mix_bucket_chicken_600gr_gs1-gs1_product-2064-249-p.webp?v=bV0axF",
 			"alt": "مرغ سطلی مخلوط کن | | VOSKES"
 		}
 	],

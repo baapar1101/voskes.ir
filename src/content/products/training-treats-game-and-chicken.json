@@ -2,7 +2,7 @@
 	"slug": "training-treats-game-and-chicken",
 	"sku": "15055",
 	"gtin13": "8711242942967",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Game & Chicken are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. \",\n    \"name\": \"TRAINING TREATS   GAME & CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15055_training_treats_game__chicken_200gr_-web.png\",\n    \"sku\": \"15055\",\n    \"gtin13\": \"8711242942967\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Game & Chicken are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. \",\n    \"name\": \"TRAINING TREATS   GAME & CHICKEN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_15055_training_treats_game__chicken_200gr_-web.png\",\n    \"sku\": \"15055\",\n    \"gtin13\": \"8711242942967\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "تشویقی آموزشی گوشت شکار و مرغ | Voskes",
 	"heading": "تشویقی آموزشی  گوشت شکار و مرغ",
 	"description": "تشویقی آموزشی Voskes با گوشت شکار و مرغ؛ خوراکی نرم و خوشمزه پاداش، بدون شکر افزوده.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/training-treats-game-and-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15055_training_treats_game__chicken_200gr_-web-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_15055_training_treats_game__chicken_200gr_-web-p.webp",
 			"alt": "آموزش درمان بازی و مرغ | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15055_training_treats_game__chicken_200gr_inhoud-web-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_15055_training_treats_game__chicken_200gr_inhoud-web-p.webp",
 			"alt": "آموزش درمان بازی و مرغ | | VOSKES"
 		}
 	],

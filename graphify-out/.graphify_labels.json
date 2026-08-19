@@ -65,12 +65,12 @@
   "63": "bodyDescription",
   "64": "composition",
   "65": "heading",
-  "66": "jsonLd",
   "67": "ogTitle",
   "68": "$schema",
   "69": "sliderNextLabel",
   "70": "sliderPrevLabel",
   "71": "slug",
   "72": "extraction-spec.md",
-  "73": "start-preview.ps1"
+  "73": "start-preview.ps1",
+  "75": "analyticalComponents"
 }

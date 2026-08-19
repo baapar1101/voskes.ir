@@ -2,7 +2,7 @@
 	"slug": "mini-bones-mix",
 	"sku": "10960",
 	"gtin13": "87 112 42 94978 2",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The Mini bones mix are small boneshaped biscuits, very suitable for puppies and also for adult dogs of small breeds. These crispy biscuits are very tasty and can be given during training as a reward or simply as a snack to spoil your four-legged friend. Extra plus: all our biscuits are enriched with vitamins A, D3 and E! \",\n    \"name\": \"MINI BONES MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/10960_-_mini_bones_mix_400gr_-_gs1.png\",\n    \"sku\": \"10960\",\n    \"gtin13\": \"87 112 42 94978 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The Mini bones mix are small boneshaped biscuits, very suitable for puppies and also for adult dogs of small breeds. These crispy biscuits are very tasty and can be given during training as a reward or simply as a snack to spoil your four-legged friend. Extra plus: all our biscuits are enriched with vitamins A, D3 and E! \",\n    \"name\": \"MINI BONES MIX\",\n    \"image\": \"/uploads/gdpetfood.com/original/10960_-_mini_bones_mix_400gr_-_gs1.png\",\n    \"sku\": \"10960\",\n    \"gtin13\": \"87 112 42 94978 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "مخلوط استخوان مینی | Voskes",
 	"heading": "MINI BONES MIX",
 	"description": "مخلوط Mini Kluifjes ووسکس بیسکویت‌های کوچکی مناسب توله‌ها و سگ‌های بالغ نژاد کوچک است؛ غنی‌شده با ویتامین‌های A، D۳ و E!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/mini-bones-mix",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/10960_-_mini_bones_mix_400gr_-_gs1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/10960_-_mini_bones_mix_400gr_-_gs1-p.webp",
 			"alt": "MINI BONES MIX | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10960_-_mini_bones_mix_400gr_inhoud_-_gs1-gs1_product-2064-8-p.webp?v=bUmGgI",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-10960_-_mini_bones_mix_400gr_inhoud_-_gs1-gs1_product-2064-8-p.webp?v=bUmGgI",
 			"alt": "MINI BONES MIX | | VOSKES"
 		}
 	],

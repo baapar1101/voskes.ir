@@ -2,7 +2,7 @@
 	"slug": "pig-ears-8-pcs",
 	"sku": "11113",
 	"gtin13": "87 112 42 98258 1",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG EARS   8 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-11113.png\",\n    \"sku\": \"11113\",\n    \"gtin13\": \"87 112 42 98258 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG EARS   8 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-11113.png\",\n    \"sku\": \"11113\",\n    \"gtin13\": \"87 112 42 98258 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "گوش خوک | Voskes",
 	"heading": "PIG EARS  ۸ عدد",
 	"description": "محصول جویدنی طبیعی و خشک بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/pig-ears-8-pcs",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-11113-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-11113-p.webp",
 			"alt": "PIG EARS - 8PCS | Varkensoren hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-11113-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-11113-p.webp",
 			"alt": "PIG EARS - 8PCS | Varkensoren hond | رفتارهای Voskes | VOSKES"
 		}
 	],

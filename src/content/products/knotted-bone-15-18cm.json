@@ -2,7 +2,7 @@
 	"slug": "knotted-bone-15-18cm",
 	"sku": "17377",
 	"gtin13": "8711242936386",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"KNOTTED BONE   15-18CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17377.png\",\n    \"sku\": \"17377\",\n    \"gtin13\": \"8711242936386\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"KNOTTED BONE   15-18CM\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17377.png\",\n    \"sku\": \"17377\",\n    \"gtin13\": \"8711242936386\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استخوان گره‌دار | Voskes",
 	"heading": "KNOTTED BONE  15-18CM",
 	"description": "استخوان گره‌دار از پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/knotted-bone-15-18cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17377-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17377-p.webp",
 			"alt": "استخوان گره دار 6-7 اینچی (15-18 سانتی متر) - 1 عدد | Gedroogde hondensnack | خوراکی های Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17377-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17377-p.webp",
 			"alt": "استخوان گره دار 6-7 اینچی (15-18 سانتی متر) - 1 عدد | Gedroogde hondensnack | خوراکی های Voskes | VOSKES"
 		}
 	],

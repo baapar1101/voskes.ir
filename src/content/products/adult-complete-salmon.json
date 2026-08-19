@@ -2,7 +2,7 @@
 	"slug": "adult-complete-salmon",
 	"sku": "20058",
 	"gtin13": "8711242015357",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Optimum immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to promote good pH and contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Vegetable fibre and beet pulp help reduce hairball formation. Formulated without maize or wheat. \",\n    \"name\": \"ADULT COMPLETE SALMON\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_complete_salmon_7kg_+30_hr.png\",\n    \"sku\": \"20058\",\n    \"gtin13\": \"8711242015357\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Optimum immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to promote good pH and contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Vegetable fibre and beet pulp help reduce hairball formation. Formulated without maize or wheat. \",\n    \"name\": \"ADULT COMPLETE SALMON\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_voskes_a_complete_salmon_7kg_+30_hr.png\",\n    \"sku\": \"20058\",\n    \"gtin13\": \"8711242015357\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "غذای کامل بالغ با سالمون | Voskes",
 	"heading": "غذای کامل بالغ با سالمون",
 	"description": "غذای کامل گربه بالغ. اسیدهای چرب امگا-۳ از روغن ماهی و کریل قطبی، سلامت پوست و مو را تقویت می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/adult-complete-salmon",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_complete_salmon_7kg_+30_hr-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_voskes_a_complete_salmon_7kg_+30_hr-p.webp",
 			"alt": "سالمون کامل بزرگسالان 7 | سالمون کامل بزرگسالان 7 | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult7-gs1_product-2064-288.webp?v=bStV1H",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult7-gs1_product-2064-288.webp?v=bStV1H",
 			"alt": "سالمون کامل بزرگسالان 7 | سالمون کامل بزرگسالان 7 | VOSKES"
 		}
 	],

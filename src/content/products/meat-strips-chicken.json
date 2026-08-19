@@ -2,7 +2,7 @@
 	"slug": "meat-strips-chicken",
 	"sku": "20722",
 	"gtin13": "87 112 42 017092",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Tender and tasty meat strips rich in chicken. This dog snack is very suitable as a healthy snack for dogs. Into smaller pieces, it can also be used as a reward snack during training. \",\n    \"name\": \"MEAT STRIPS   CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr-gs1_packshot-2064-322.png?v=bTXfPZ\",\n    \"sku\": \"20722\",\n    \"gtin13\": \"87 112 42 017092\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Tender and tasty meat strips rich in chicken. This dog snack is very suitable as a healthy snack for dogs. Into smaller pieces, it can also be used as a reward snack during training. \",\n    \"name\": \"MEAT STRIPS   CHICKEN\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr-gs1_packshot-2064-322.png?v=bTXfPZ\",\n    \"sku\": \"20722\",\n    \"gtin13\": \"87 112 42 017092\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "نوارهای گوشت مرغ | Voskes",
 	"heading": "MEAT STRIPS  مرغ",
 	"description": "نوارهای گوشت لطیف و خوش‌طعم سرشار از مرغ؛ میان‌وعده‌ای سالم و عالی برای سگ‌ها.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/meat-strips-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr-gs1_packshot-2064-322-p.webp?v=bTXfPZ",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr-gs1_packshot-2064-322-p.webp?v=bTXfPZ",
 			"alt": "نوار گوشت مرغ | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr_inhoud1-gs1_product-2064-322-p.webp?v=bTXfQ6",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-20722_-_vleesstrips_kip_600gr_inhoud1-gs1_product-2064-322-p.webp?v=bTXfQ6",
 			"alt": "نوار گوشت مرغ | | VOSKES"
 		}
 	],

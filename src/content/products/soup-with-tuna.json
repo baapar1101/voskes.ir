@@ -2,7 +2,7 @@
 	"slug": "soup-with-tuna",
 	"sku": "21046",
 	"gtin13": "8711242017207",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Soup with Tuna is a delicious snack that encourages cats to drink more and promotes hydration. If cats do not drink enough, there is a risk of urolite formation. Especially cats following a diet consisting mainly of dry food are susceptible to this. Voskes soup with tuna is completely grain-free and no salt was added. Can be given separately as a drink or as a topping over kibble for extra flavour, ideal for picky cats! \",\n    \"name\": \"SOUP   WITH TUNA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210462.png\",\n    \"sku\": \"21046\",\n    \"gtin13\": \"8711242017207\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Soup with Tuna is a delicious snack that encourages cats to drink more and promotes hydration. If cats do not drink enough, there is a risk of urolite formation. Especially cats following a diet consisting mainly of dry food are susceptible to this. Voskes soup with tuna is completely grain-free and no salt was added. Can be given separately as a drink or as a topping over kibble for extra flavour, ideal for picky cats! \",\n    \"name\": \"SOUP   WITH TUNA\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-210462.png\",\n    \"sku\": \"21046\",\n    \"gtin13\": \"8711242017207\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "سوپ با ماهی تن | Voskes",
 	"heading": "سوپ  WITH TUNA",
 	"description": "سوپ ماهی تن Voskes خوراکی خوشمزه‌ای است که گربه را به نوشیدن بیشتر تشویق و به آبرسانی بدن کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/soup-with-tuna",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210462-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-210462-p.webp",
 			"alt": "سوپ با ماهی تن | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_voskes_cat_drink_visual_tuna_lr-gs1_product-2064-313-p.webp?v=bTTb9j",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-gs1_voskes_cat_drink_visual_tuna_lr-gs1_product-2064-313-p.webp?v=bTTb9j",
 			"alt": "سوپ با ماهی تن | | VOSKES"
 		}
 	],

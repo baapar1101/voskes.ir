@@ -2,7 +2,7 @@
 	"slug": "chicken-wings",
 	"sku": "17728",
 	"gtin13": "8711242934184",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried Chicken wings are a delicious, natural snack. Nice and crunchy and it encourages chewing. The bones do not splinter so they can be consumed by the dog. \",\n    \"name\": \"CHICKEN WINGS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17728.png\",\n    \"sku\": \"17728\",\n    \"gtin13\": \"8711242934184\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried Chicken wings are a delicious, natural snack. Nice and crunchy and it encourages chewing. The bones do not splinter so they can be consumed by the dog. \",\n    \"name\": \"CHICKEN WINGS\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17728.png\",\n    \"sku\": \"17728\",\n    \"gtin13\": \"8711242934184\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بال مرغ | Voskes",
 	"heading": "CHICKEN WINGS",
 	"description": "بال مرغ خشک‌شده تشویقی طبیعی و خوشمزه سگ است؛ ترد و فعال‌کننده رفتار جویدن.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/chicken-wings",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17728-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17728-p.webp",
 			"alt": "بال مرغ | Kippenvleugels | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17728-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17728-p.webp",
 			"alt": "بال مرغ | Kippenvleugels | رفتارهای Voskes | VOSKES"
 		}
 	],

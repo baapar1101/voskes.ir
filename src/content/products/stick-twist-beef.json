@@ -2,7 +2,7 @@
 	"slug": "stick-twist-beef",
 	"sku": "17661",
 	"gtin13": "87 112 42 93587 7",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Twist Stick Beef is made from white cowhide with a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"STICK TWIST BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17661.png\",\n    \"sku\": \"17661\",\n    \"gtin13\": \"87 112 42 93587 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Twist Stick Beef is made from white cowhide with a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"STICK TWIST BEEF\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17661.png\",\n    \"sku\": \"17661\",\n    \"gtin13\": \"87 112 42 93587 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک پیچی گوشت گاو | Voskes",
 	"heading": "STICK TWIST BEEF",
 	"description": "خوراکی جویدنی لذت‌بخش! استیک پیچی گوشت گاو از پوست خام شفاف همراه نوار خوش‌طعم گوشت گاو ساخته شده است.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/stick-twist-beef",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17661-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17661-p.webp",
 			"alt": "STICK TWIST BEEF | Kauwsticks hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17661-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17661-p.webp",
 			"alt": "STICK TWIST BEEF | Kauwsticks hond | رفتارهای Voskes | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "kitten-pate-chicken-with-carrots-1",
 	"sku": "21185",
 	"gtin13": "8711242017528",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This creamy and delicious paté with chicken (40% !) and fine pieces of carrot is complete wet food for growing kittens. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable!  There are 8 tetrapacks of 95gr in a box. 1 pack = 1 meal. \",\n    \"name\": \"KITTEN   PATÉ CHICKEN   WITH CARROTS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20038_pate_chickencarrots_8pack_left_hr1-gs1_packshot-2064-278.png?v=bTUhaE\",\n    \"sku\": \"21185\",\n    \"gtin13\": \"8711242017528\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This creamy and delicious paté with chicken (40% !) and fine pieces of carrot is complete wet food for growing kittens. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable!  There are 8 tetrapacks of 95gr in a box. 1 pack = 1 meal. \",\n    \"name\": \"KITTEN   PATÉ CHICKEN   WITH CARROTS\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-20038_pate_chickencarrots_8pack_left_hr1-gs1_packshot-2064-278.png?v=bTUhaE\",\n    \"sku\": \"21185\",\n    \"gtin13\": \"8711242017528\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بچه‌گربه؛ پته مرغ با هویج | Voskes",
 	"heading": "بچه‌گربه  پته مرغ  با هویج",
 	"description": "این پته کرمی و خوشمزه با ۴۰٪ مرغ و تکه‌های لطیف هویج، غذای تر کامل بچه‌گربه‌های در حال رشد است. ۱۰۰٪ مواد طبیعی.",
@@ -12,15 +12,15 @@
 	"canonical": "https://voskes.ir/products/kitten-pate-chicken-with-carrots-1",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20038_pate_chickencarrots_8pack_left_hr1-gs1_packshot-2064-278-p.webp?v=bTUhaE",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-20038_pate_chickencarrots_8pack_left_hr1-gs1_packshot-2064-278-p.webp?v=bTUhaE",
 			"alt": "بچه گربه پاتا جوجه با هویج (8 X 95G) | بچه گربه - مرغ پاته با هویج | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_pack_klein_patÉ_chicken_with_carrots-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_pack_klein_patÉ_chicken_with_carrots-p.webp",
 			"alt": "بچه گربه پاتا جوجه با هویج (8 X 95G) | بچه گربه - مرغ پاته با هویج | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_product_patÉ_chicken_with_carrots-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_product_patÉ_chicken_with_carrots-p.webp",
 			"alt": "بچه گربه پاتا جوجه با هویج (8 X 95G) | بچه گربه - مرغ پاته با هویج | VOSKES"
 		}
 	],

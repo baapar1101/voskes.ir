@@ -2,7 +2,7 @@
 	"slug": "knotted-bones-20-23cm",
 	"sku": "17378",
 	"gtin13": "8711242936393",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"KNOTTED BONES   20-23CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17378.png\",\n    \"sku\": \"17378\",\n    \"gtin13\": \"8711242936393\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Knotted bones made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"KNOTTED BONES   20-23CM\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17378.png\",\n    \"sku\": \"17378\",\n    \"gtin13\": \"8711242936393\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استخوان‌های گره‌دار | Voskes",
 	"heading": "استخوان گره‌دار  20-23CM",
 	"description": "استخوان‌ها تشویقی خوشمزه و سالمی برای حفظ سلامت دندان سگ‌اند. استخوان گره‌دار برای میان‌وعده یا پاداش ایده‌آل است.",
@@ -12,19 +12,19 @@
 	"canonical": "https://voskes.ir/products/knotted-bones-20-23cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17378-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17378-p.webp",
 			"alt": "استخوان های گره خورده 8-9 اینچ (20-23 سانتی متر) - 3 عدد | Gedroogde hondensnacks | خوراکی های Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_1-17379-gs1_packshot-2064-183-p.webp?v=bUKsoT",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-gs1_1-17379-gs1_packshot-2064-183-p.webp?v=bUKsoT",
 			"alt": "استخوان های گره دار 8-9 اینچ (20-23 سانتی متر) - 3 عدد | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17378-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17378-p.webp",
 			"alt": "استخوان های گره خورده 8-9 اینچ (20-23 سانتی متر) - 3 عدد | Gedroogde hondensnacks | خوراکی های Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_2-17379-846-330x430-gs1_product-2064-183-p.webp?v=bUKspj",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-gs1_2-17379-846-330x430-gs1_product-2064-183-p.webp?v=bUKspj",
 			"alt": "استخوان های گره دار 8-9 اینچ (20-23 سانتی متر) - 3 عدد | | VOSKES"
 		}
 	],

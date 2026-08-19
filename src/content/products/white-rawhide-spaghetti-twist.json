@@ -2,7 +2,7 @@
 	"slug": "white-rawhide-spaghetti-twist",
 	"sku": "17647",
 	"gtin13": "87 112 42 93559 4",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" 8 Spaghetti twists (20 cm) made from beef rawhide. 100% Beef without additives. A tasty, natural chewy snack. Encourages chewing and helps to keep teeth healthy. \",\n    \"name\": \"WHITE RAWHIDE SPAGHETTI TWIST   8 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_2-17647-spaghetti-white-20cm-8st.png\",\n    \"sku\": \"17647\",\n    \"gtin13\": \"87 112 42 93559 4\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" 8 Spaghetti twists (20 cm) made from beef rawhide. 100% Beef without additives. A tasty, natural chewy snack. Encourages chewing and helps to keep teeth healthy. \",\n    \"name\": \"WHITE RAWHIDE SPAGHETTI TWIST   8 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_2-17647-spaghetti-white-20cm-8st.png\",\n    \"sku\": \"17647\",\n    \"gtin13\": \"87 112 42 93559 4\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پیچ اسپاگتی پوست خام سفید | Voskes",
 	"heading": "WHITE RAWHIDE SPAGHETTI TWIST  ۸ عدد",
 	"description": "پیچ‌های اسپاگتی (۲۰ سانتی‌متر) از پوست تابیده گاو؛ ۱۰۰٪ گوشت گاو بدون افزودنی. رفتار جویدن را فعال و به سلامت دندان کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/white-rawhide-spaghetti-twist",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_2-17647-spaghetti-white-20cm-8st-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_2-17647-spaghetti-white-20cm-8st-p.webp",
 			"alt": "اسپاگتی تویست با پوست خام سفید - 8 عدد | Gedroogde hondensnack | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17647-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17647-p.webp",
 			"alt": "اسپاگتی تویست با پوست خام سفید - 8 عدد | Gedroogde hondensnack | رفتارهای Voskes | VOSKES"
 		}
 	],

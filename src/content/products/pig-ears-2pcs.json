@@ -2,7 +2,7 @@
 	"slug": "pig-ears-2pcs",
 	"sku": "17705",
 	"gtin13": "87 112 42 93372 9",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG EARS   2 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17705.png\",\n    \"sku\": \"17705\",\n    \"gtin13\": \"87 112 42 93372 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG EARS   2 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17705.png\",\n    \"sku\": \"17705\",\n    \"gtin13\": \"87 112 42 93372 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "گوش خوک | Voskes",
 	"heading": "PIG EARS  2 PIECES",
 	"description": "گوش خوک تشویقی خوشمزه‌ای است تا سگتان را با آن نوازش کنید.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/pig-ears-2pcs",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17705-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17705-p.webp",
 			"alt": "PIG EARS - 2PCS | Varkensoren hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17705-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17705-p.webp",
 			"alt": "PIG EARS - 2PCS | Varkensoren hond | رفتارهای Voskes | VOSKES"
 		}
 	],

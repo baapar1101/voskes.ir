@@ -2,7 +2,7 @@
 	"slug": "cow-ears-8pcs",
 	"sku": "17713",
 	"gtin13": "87 112 42 93388 0",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   8 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17713.png\",\n    \"sku\": \"17713\",\n    \"gtin13\": \"87 112 42 93388 0\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   8 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17713.png\",\n    \"sku\": \"17713\",\n    \"gtin13\": \"87 112 42 93388 0\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "گوش گاو | Voskes",
 	"heading": "گوش گاو  ۸ عدد",
 	"description": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/cow-ears-8pcs",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17713-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17713-p.webp",
 			"alt": "گوش گاو - 8 عدد | Runderoren hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17713-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17713-p.webp",
 			"alt": "گوش گاو - 8 عدد | Runderoren hond | رفتارهای Voskes | VOSKES"
 		}
 	],

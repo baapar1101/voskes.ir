@@ -2,7 +2,7 @@
 	"slug": "mousse-with-sauce-chicken",
 	"sku": "21563",
 	"gtin13": "8711242018525",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The mousse with chicken-rich sauce is a tasty and functional snack specially developed to responsibly spoil your cat. This cup is prepared with chicken and contains only natural ingredients. In addition, the snack is completely grain-free, making it suitable even for cats with sensitive digestion. Thanks to the addition of sunflower oil, a natural source of omega fatty acids, this snack supports healthy skin and a shiny coat. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health. \",\n    \"name\": \"MOUSSE WITH SAUCE CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21563_-_8711242018525_-_mouse_with_sauce_chicken_-_7x30gr_left.png\",\n    \"sku\": \"21563\",\n    \"gtin13\": \"8711242018525\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The mousse with chicken-rich sauce is a tasty and functional snack specially developed to responsibly spoil your cat. This cup is prepared with chicken and contains only natural ingredients. In addition, the snack is completely grain-free, making it suitable even for cats with sensitive digestion. Thanks to the addition of sunflower oil, a natural source of omega fatty acids, this snack supports healthy skin and a shiny coat. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health. \",\n    \"name\": \"MOUSSE WITH SAUCE CHICKEN\",\n    \"image\": \"/uploads/gdpetfood.com/original/21563_-_8711242018525_-_mouse_with_sauce_chicken_-_7x30gr_left.png\",\n    \"sku\": \"21563\",\n    \"gtin13\": \"8711242018525\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "موس با سس مرغ | Voskes",
 	"heading": "MOUSSE WITH SAUCE CHICKEN",
 	"description": "The mousse with chicken-rich sauce is a tasty and functional snack specially developed to responsibly spoil your cat. This cup is prepared with chicken and contains only natural ingredients. In addition, the snack is completely grain-free, making it suitable even for cats with sensitive digestion. Thanks to the addition of sunflower oil, a natural source of omega fatty acids, this snack supports healthy skin and a shiny coat. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/mousse-with-sauce-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21563_-_8711242018525_-_mouse_with_sauce_chicken_-_7x30gr_left-p.webp",
+			"src": "/uploads/gdpetfood.com/original/21563_-_8711242018525_-_mouse_with_sauce_chicken_-_7x30gr_left-p.webp",
 			"alt": "موس با سس مرغ (7 × 30 گرم) | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21563-8711242018525-mouse-with-sauce-chicken-30gr-content-gs1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/21563-8711242018525-mouse-with-sauce-chicken-30gr-content-gs1-p.webp",
 			"alt": "موس با سس مرغ (7 × 30 گرم) | | VOSKES"
 		}
 	],

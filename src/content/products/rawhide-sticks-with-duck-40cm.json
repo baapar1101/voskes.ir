@@ -2,7 +2,7 @@
 	"slug": "rawhide-sticks-with-duck-40cm",
 	"sku": "20023",
 	"gtin13": "8711242015142",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and duck. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH DUCK   40CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20023---rawhide-twists-with-duck-40-cm-x-2---web_gs1-gs1_packshot-2064-328.png?v=bUwe3o\",\n    \"sku\": \"20023\",\n    \"gtin13\": \"8711242015142\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and duck. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH DUCK   40CM\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-20023---rawhide-twists-with-duck-40-cm-x-2---web_gs1-gs1_packshot-2064-328.png?v=bUwe3o\",\n    \"sku\": \"20023\",\n    \"gtin13\": \"8711242015142\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک پوست خام با اردک | Voskes",
 	"heading": "استیک پوست خام  با اردک  40CM",
 	"description": "خوراکی خوشمزه برای سگ شما؛ استیک‌های جویدنی پیچیده‌شده در پوست خام، گوشت گاو و مرغ.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/rawhide-sticks-with-duck-40cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20023---rawhide-twists-with-duck-40-cm-x-2---web_gs1-gs1_packshot-2064-328-p.webp?v=bUwe3o",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-20023---rawhide-twists-with-duck-40-cm-x-2---web_gs1-gs1_packshot-2064-328-p.webp?v=bUwe3o",
 			"alt": "چوب خام اردک 40 سانتی متر - 2 عدد | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20023---rawhide-twists-with-duck-40-cm-x-2_content---web_gs1_-1--gs1_product-2064-328-p.webp?v=bUwe37",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-20023---rawhide-twists-with-duck-40-cm-x-2_content---web_gs1_-1--gs1_product-2064-328-p.webp?v=bUwe37",
 			"alt": "چوب خام اردک 40 سانتی متر - 2 عدد | | VOSKES"
 		}
 	],

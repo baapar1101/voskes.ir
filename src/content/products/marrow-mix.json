@@ -2,7 +2,7 @@
 	"slug": "marrow-mix",
 	"sku": "10964",
 	"gtin13": "8711242946132",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Mix of marrow biscuits suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given during training as a reward or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"MARROW MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_-_gs1-gs1_packshot-2064-15.png?v=bUmGm9\",\n    \"sku\": \"10964\",\n    \"gtin13\": \"8711242946132\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Mix of marrow biscuits suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given during training as a reward or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"MARROW MIX\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_-_gs1-gs1_packshot-2064-15.png?v=bUmGm9\",\n    \"sku\": \"10964\",\n    \"gtin13\": \"8711242946132\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "مخلوط مغز استخوان | Voskes",
 	"heading": "MARROW MIX",
 	"description": "مخلوط بیسکویت مغز استخوان، مناسب توله‌های بالای ۶ ماه و سگ بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/marrow-mix",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_-_gs1-gs1_packshot-2064-15-p.webp?v=bUmGm9",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_-_gs1-gs1_packshot-2064-15-p.webp?v=bUmGm9",
 			"alt": "مخلوط مغز مغز | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_inhoud_-_gs1-gs1_product-2064-15-p.webp?v=bUmGmV",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-10964_-_marrow_mix_400gr_inhoud_-_gs1-gs1_product-2064-15-p.webp?v=bUmGmV",
 			"alt": "مخلوط مغز مغز | | VOSKES"
 		}
 	],

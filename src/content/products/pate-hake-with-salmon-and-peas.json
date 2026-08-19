@@ -2,7 +2,7 @@
 	"slug": "pate-hake-with-salmon-and-peas",
 	"sku": "21187",
 	"gtin13": "8711242017566",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This soft paté with hake, salmon and peas is suitable for adult cats. With its high proportion of fish, this paté will surely please real fish lovers. Sea buckthorn is an antioxidant that supports the immune system. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable!  There are 8 tetrapacks of 95gr in a box. 1 pack = 1 meal. \",\n    \"name\": \"ADULT   PATÉ HAKE   WITH SALMON & PEAS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20040_pate_hakesalmonpeas_8pack_left_hr-gs1_packshot-2064-280.png?v=bTUhlq\",\n    \"sku\": \"21187\",\n    \"gtin13\": \"8711242017566\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This soft paté with hake, salmon and peas is suitable for adult cats. With its high proportion of fish, this paté will surely please real fish lovers. Sea buckthorn is an antioxidant that supports the immune system. The paté contains 100% natural ingredients is completely grain-free and rich in taurine, vitamins A & E and in animal proteins. Krill meal was added as a source of high-quality proteins and essential fatty acids. In addition, our paté is a responsible and sustainable product as our tetra pack has a carbon footprint as much as 81% lower than other packaging and it is 100% recyclable!  There are 8 tetrapacks of 95gr in a box. 1 pack = 1 meal. \",\n    \"name\": \"ADULT   PATÉ HAKE   WITH SALMON & PEAS\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-20040_pate_hakesalmonpeas_8pack_left_hr-gs1_packshot-2064-280.png?v=bTUhlq\",\n    \"sku\": \"21187\",\n    \"gtin13\": \"8711242017566\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بالغ؛ پته ماهی هیک با سالمون و نخود فرنگی | Voskes",
 	"heading": "بالغ  پته ماهی هیک  با سالمون و نخود فرنگی",
 	"description": "این پته کرمی و خوشمزه با ماهی هیک، سالمون و نخود فرنگی لطیف، غذای تر کامل گربه بالغ است. تنها با ۱۰۰٪ مواد طبیعی.",
@@ -12,15 +12,15 @@
 	"canonical": "https://voskes.ir/products/pate-hake-with-salmon-and-peas",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-20040_pate_hakesalmonpeas_8pack_left_hr-gs1_packshot-2064-280-p.webp?v=bTUhlq",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-20040_pate_hakesalmonpeas_8pack_left_hr-gs1_packshot-2064-280-p.webp?v=bTUhlq",
 			"alt": "هیک پاتی بزرگسالان با ماهی قزلا و نخود فرنگی (8 × 95 گرم) | بزرگان - پاتیل هیک با ماهی قزل آلا و نخود | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_pack_klein_patÉ_-_hake_with_salmon__peas-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_pack_klein_patÉ_-_hake_with_salmon__peas-p.webp",
 			"alt": "هیک پاتی بزرگسالان با ماهی قزلا و نخود فرنگی (8 × 95 گرم) | بزرگان - پاتیل هیک با ماهی قزل آلا و نخود | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_product_patÉ_-_hake_with_salmon__peas-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_product_patÉ_-_hake_with_salmon__peas-p.webp",
 			"alt": "هیک پاتی بزرگسالان با ماهی قزلا و نخود فرنگی (8 × 95 گرم) | بزرگان - پاتیل هیک با ماهی قزل آلا و نخود | VOSKES"
 		}
 	],

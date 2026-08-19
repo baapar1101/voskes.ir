@@ -2,7 +2,7 @@
 	"slug": "adult-sterilzed-chicken",
 	"sku": "20059",
 	"gtin13": "8711242015364",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Sterilized cats need a less energy-rich diet due to an altered metabolism. Psyllium and beet pulp provide a greater sense of satiety and also help reduce the formation of hairballs. L-carnitine is added to boost fat burning. A unique blend of dried plants – naturally rich in antioxidants – contribute to good immunity. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Finally, joint-supporting components have also been added. Formulated without maize or wheat. \",\n    \"name\": \"ADULT STERILIZED CHICKEN \",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_chicken_7kg_+30_hr.png\",\n    \"sku\": \"20059\",\n    \"gtin13\": \"8711242015364\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Sterilized cats need a less energy-rich diet due to an altered metabolism. Psyllium and beet pulp provide a greater sense of satiety and also help reduce the formation of hairballs. L-carnitine is added to boost fat burning. A unique blend of dried plants – naturally rich in antioxidants – contribute to good immunity. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Finally, joint-supporting components have also been added. Formulated without maize or wheat. \",\n    \"name\": \"ADULT STERILIZED CHICKEN \",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_chicken_7kg_+30_hr.png\",\n    \"sku\": \"20059\",\n    \"gtin13\": \"8711242015364\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بالغ عقیم‌شده با مرغ | Voskes",
 	"heading": "بالغ عقیم‌شده با مرغ",
 	"description": "غذای کامل گربه بالغ. گربه‌های عقیم‌شده به دلیل تغییر سوخت‌وساز به رژیمی کم‌انرژی‌تر نیاز دارند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/adult-sterilzed-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_chicken_7kg_+30_hr-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_chicken_7kg_+30_hr-p.webp",
 			"alt": "مرغ عقیم شده بالغ 7 کیلویی | مرغ عقیم شده بالغ 7 کیلویی | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult11-gs1_product-2064-290.webp?v=bStV3U",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult11-gs1_product-2064-290.webp?v=bStV3U",
 			"alt": "مرغ عقیم شده بالغ 7 کیلویی | مرغ عقیم شده بالغ 7 کیلویی | VOSKES"
 		}
 	],

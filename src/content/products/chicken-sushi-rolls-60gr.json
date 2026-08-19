@@ -2,7 +2,7 @@
 	"slug": "chicken-sushi-rolls-60gr",
 	"sku": "19975",
 	"gtin13": "8711242014886",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These chicken-based cat snacks are a real treat for cats. Delicious chicken breast enriched with cod in a sushi shape. Suitable for growing kittens and adult cats. \",\n    \"name\": \"CHICKEN SUSHI ROLLS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19975-_chicken_sushi_rolls.png\",\n    \"sku\": \"19975\",\n    \"gtin13\": \"8711242014886\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These chicken-based cat snacks are a real treat for cats. Delicious chicken breast enriched with cod in a sushi shape. Suitable for growing kittens and adult cats. \",\n    \"name\": \"CHICKEN SUSHI ROLLS\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19975-_chicken_sushi_rolls.png\",\n    \"sku\": \"19975\",\n    \"gtin13\": \"8711242014886\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "رول سوشی مرغ | Voskes",
 	"heading": "CHICKEN SUSHI ROLLS",
 	"description": "این خوراکی‌های نرم بر پایه مرغ محبوب گربه‌هاست! سینه مرغ خوشمزه غنی‌شده با ماهی کاد، در قالبی زیبا به شکل سوشی.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/chicken-sushi-rolls-60gr",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19975-_chicken_sushi_rolls-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19975-_chicken_sushi_rolls-p.webp",
 			"alt": "رول سوشی مرغ | غذاهای کتانی kip en vis | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19975_chicken_sushi_rolls_-_inhoud-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19975_chicken_sushi_rolls_-_inhoud-p.webp",
 			"alt": "رول سوشی مرغ | غذاهای کتانی kip en vis | رفتارهای Voskes | VOSKES"
 		}
 	],

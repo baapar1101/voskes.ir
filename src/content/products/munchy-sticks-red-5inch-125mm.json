@@ -2,7 +2,7 @@
 	"slug": "munchy-sticks-red-5inch-125mm",
 	"sku": "17368",
 	"gtin13": "8711242936294",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Munchy Sticks Red are made from compressed, untanned cowhide. A soft chewy snack made from natural ingredients. Also suitable for older dogs that find it difficult to chew on hard bones. \",\n    \"name\": \"MUNCHY STICKS RED\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17368.png\",\n    \"sku\": \"17368\",\n    \"gtin13\": \"8711242936294\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Munchy Sticks Red are made from compressed, untanned cowhide. A soft chewy snack made from natural ingredients. Also suitable for older dogs that find it difficult to chew on hard bones. \",\n    \"name\": \"MUNCHY STICKS RED\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17368.png\",\n    \"sku\": \"17368\",\n    \"gtin13\": \"8711242936294\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک جویدنی قرمز | Voskes",
 	"heading": "MUNCHY STICKS RED",
 	"description": "این تشویقی سگ از پوست چرخ‌شده گاو ساخته شده است؛ خوراکی نرم از مواد اولیه طبیعی.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/munchy-sticks-red-5inch-125mm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17368-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17368-p.webp",
 			"alt": "MUNCHY STICKS RED 5\" (12,5CM) - 25PCS | Kauwnsnack hond | خوراکی های Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17368-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17368-p.webp",
 			"alt": "MUNCHY STICKS RED 5\" (12,5CM) - 25PCS | Kauwnsnack hond | خوراکی های Voskes | VOSKES"
 		}
 	],

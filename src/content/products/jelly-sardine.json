@@ -2,7 +2,7 @@
 	"slug": "jelly-sardine",
 	"sku": "20564",
 	"gtin13": "8711242016811",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with sardine is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the sardines, filling cans and adding toppings are all done manually. This delicious gluten-free sardine-based jelly treat is a real treat for any cat ! \",\n    \"name\": \"JELLY SARDINE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine_blik.png\",\n    \"sku\": \"20564\",\n    \"gtin13\": \"8711242016811\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with sardine is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the sardines, filling cans and adding toppings are all done manually. This delicious gluten-free sardine-based jelly treat is a real treat for any cat ! \",\n    \"name\": \"JELLY SARDINE\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine_blik.png\",\n    \"sku\": \"20564\",\n    \"gtin13\": \"8711242016811\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله ساردین | Voskes",
 	"heading": "JELLY SARDINE",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ساردین است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-sardine",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine_blik.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine_blik.webp",
 			"alt": "ژله سردین | ساردین ژله ای گرم | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine1.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine1.webp",
 			"alt": "ژله سردین | ساردین ژله ای گرم | VOSKES"
 		}
 	],

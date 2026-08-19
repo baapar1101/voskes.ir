@@ -2,7 +2,7 @@
 	"slug": "liquid-treat-salmon",
 	"sku": "21566",
 	"gtin13": "8711242018587",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your cat with our new Liquid Treats with salmon flavor – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. Thanks to the addition of salmon oil, rich in omega-3 fatty acids, these treats support healthy skin and a shiny coat. The essential amino acid taurine also supports heart function, vision, and the nervous system, helping your cat stay vital and energetic. Antioxidants strengthen the natural defenses and protect cells against harmful influences, while prebiotics promote a healthy gut flora and optimal digestion. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health. \",\n    \"name\": \"LIQUID TREAT SALMON\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21566_-_8711242018587_-_liquid_treat_salmon_-_20x15gr_left.png\",\n    \"sku\": \"21566\",\n    \"gtin13\": \"8711242018587\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your cat with our new Liquid Treats with salmon flavor – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. Thanks to the addition of salmon oil, rich in omega-3 fatty acids, these treats support healthy skin and a shiny coat. The essential amino acid taurine also supports heart function, vision, and the nervous system, helping your cat stay vital and energetic. Antioxidants strengthen the natural defenses and protect cells against harmful influences, while prebiotics promote a healthy gut flora and optimal digestion. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health. \",\n    \"name\": \"LIQUID TREAT SALMON\",\n    \"image\": \"/uploads/gdpetfood.com/original/21566_-_8711242018587_-_liquid_treat_salmon_-_20x15gr_left.png\",\n    \"sku\": \"21566\",\n    \"gtin13\": \"8711242018587\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "تشویقی مایع سالمون | Voskes",
 	"heading": "LIQUID TREAT SALMON",
 	"description": "Spoil your cat with our new Liquid Treats with salmon flavor – a creamy and irresistible snack that not only tastes delicious but also provides important health benefits. Thanks to the addition of salmon oil, rich in omega-3 fatty acids, these treats support healthy skin and a shiny coat. The essential amino acid taurine also supports heart function, vision, and the nervous system, helping your cat stay vital and energetic. Antioxidants strengthen the natural defenses and protect cells against harmful influences, while prebiotics promote a healthy gut flora and optimal digestion. This way, your cat not only enjoys a tasty treat but also receives valuable support for its health.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/liquid-treat-salmon",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21566_-_8711242018587_-_liquid_treat_salmon_-_20x15gr_left-p.webp",
+			"src": "/uploads/gdpetfood.com/original/21566_-_8711242018587_-_liquid_treat_salmon_-_20x15gr_left-p.webp",
 			"alt": "ماهی آزاد درمان مایع (20 X 15G) | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21565-8711242018563-liquid-treat-tuna-15gr-content-p.webp",
+			"src": "/uploads/gdpetfood.com/original/21565-8711242018563-liquid-treat-tuna-15gr-content-p.webp",
 			"alt": "ماهی آزاد درمان مایع (20 X 15G) | | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "jelly-tuna-with-beef",
 	"sku": "20565",
 	"gtin13": "8711242016828",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and beef is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef_blik.png\",\n    \"sku\": \"20565\",\n    \"gtin13\": \"8711242016828\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and beef is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH BEEF\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef_blik.png\",\n    \"sku\": \"20565\",\n    \"gtin13\": \"8711242016828\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله ماهی تن با گوشت گاو | Voskes",
 	"heading": "ژله ماهی تن  WITH BEEF",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و گوشت گاو است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-tuna-with-beef",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef_blik.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef_blik.webp",
 			"alt": "ژله تن با گوشت گاو | ماهی تن ژله ای با گوشت گاو | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef1.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20565_jelly_tuna_with_beef1.webp",
 			"alt": "ژله تن با گوشت گاو | ماهی تن ژله ای با گوشت گاو | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "jackers-mix",
 	"sku": "10961",
 	"gtin13": "8711242971264",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The Jackers mix are delicious biscuits suitable for all dog breeds. These crispy biscuits are very tasty and can be given during training as a reward or simply as a snack to spoil your four-legged friend. Extra plus: all our biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"JACKERS MIX\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/10961_-_jackers_mix_400gr_-_gs1.png\",\n    \"sku\": \"10961\",\n    \"gtin13\": \"8711242971264\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The Jackers mix are delicious biscuits suitable for all dog breeds. These crispy biscuits are very tasty and can be given during training as a reward or simply as a snack to spoil your four-legged friend. Extra plus: all our biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"JACKERS MIX\",\n    \"image\": \"/uploads/gdpetfood.com/original/10961_-_jackers_mix_400gr_-_gs1.png\",\n    \"sku\": \"10961\",\n    \"gtin13\": \"8711242971264\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "مخلوط Jackers | Voskes",
 	"heading": "JACKERS MIX",
 	"description": "مخلوط Jackers بیسکویت خوشمزه‌ای مناسب همه نژادهای سگ است؛ به‌علاوه، همه بیسکویت‌های ما با ویتامین‌های A، D۳ و E غنی شده‌اند.",
@@ -12,15 +12,15 @@
 	"canonical": "https://voskes.ir/products/jackers-mix",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/10961_-_jackers_mix_400gr_-_gs1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/10961_-_jackers_mix_400gr_-_gs1-p.webp",
 			"alt": "میکس جکرز | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-10961-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-10961-p.webp",
 			"alt": "میکس جکرز | Hondenkoekjes | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10961_-_jackers_mix_400gr_inhoud_-_gs1-gs1_product-2064-9-p.webp?v=bUmGiT",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-10961_-_jackers_mix_400gr_inhoud_-_gs1-gs1_product-2064-9-p.webp?v=bUmGiT",
 			"alt": "میکس جکرز | | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "jelly-cups-tuna-and-chicken",
 	"sku": "18168",
 	"gtin13": "87 112 42 93299 9",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Cups filled with deliciously tender, hand-selected pieces of fish and meat. The exquisite flavours of the sea are a true delicacy for your cat. \",\n    \"name\": \"JELLY CUPS   TUNA & CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_40.png\",\n    \"sku\": \"18168\",\n    \"gtin13\": \"87 112 42 93299 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Cups filled with deliciously tender, hand-selected pieces of fish and meat. The exquisite flavours of the sea are a true delicacy for your cat. \",\n    \"name\": \"JELLY CUPS   TUNA & CHICKEN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_artboard_–_40.png\",\n    \"sku\": \"18168\",\n    \"gtin13\": \"87 112 42 93299 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله لیوانی ماهی تن و مرغ | Voskes",
 	"heading": "ژله لیوانی  TUNA &amp; CHICKEN",
 	"description": "ژله لیوانی پر از تکه‌های لطیف و دست‌چین ماهی تن و مرغ. طعم‌های ظریف دریا خوراکی بی‌نظیری برای گربه شماست.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-cups-tuna-and-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_40-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_artboard_–_40-p.webp",
 			"alt": "ژله فنجان ماهی تن و مرغ (6 × 25 گرم) | Kattensnack با tonijn en kip | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-18168-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-18168-p.webp",
 			"alt": "ژله فنجان ماهی تن و مرغ (6 × 25 گرم) | Kattensnack با tonijn en kip | رفتارهای Voskes | VOSKES"
 		}
 	],

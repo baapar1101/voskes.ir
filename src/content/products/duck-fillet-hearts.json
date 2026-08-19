@@ -2,7 +2,7 @@
 	"slug": "duck-fillet-hearts",
 	"sku": "19974",
 	"gtin13": "8711242014862",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These duck-based cat snacks are a real treat for cats. Delicious duck fillet enriched with fish in a beautiful heart shape. Suitable for growing kittens and adult cats. \",\n    \"name\": \"DUCK FILLET HEARTS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts.png\",\n    \"sku\": \"19974\",\n    \"gtin13\": \"8711242014862\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These duck-based cat snacks are a real treat for cats. Delicious duck fillet enriched with fish in a beautiful heart shape. Suitable for growing kittens and adult cats. \",\n    \"name\": \"DUCK FILLET HEARTS\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts.png\",\n    \"sku\": \"19974\",\n    \"gtin13\": \"8711242014862\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "قلب فیله اردک | Voskes",
 	"heading": "DUCK FILLET HEARTS",
 	"description": "قلب فیله اردک Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/duck-fillet-hearts",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts-p.webp",
 			"alt": "قلب فیله اردک | Kattensnack با eend | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts_-_inhoud-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts_-_inhoud-p.webp",
 			"alt": "قلب فیله اردک | غذاهای کتانی kip en vis | رفتارهای Voskes | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "pressed-bones-10cm",
 	"sku": "17382",
 	"gtin13": "8711242936430",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Pressed bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for small breeds. \",\n    \"name\": \"PRESSED BONES   10CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17382.png\",\n    \"sku\": \"17382\",\n    \"gtin13\": \"8711242936430\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Pressed bone made from 100% dried beef rawhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. Suitable for small breeds. \",\n    \"name\": \"PRESSED BONES   10CM\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17382.png\",\n    \"sku\": \"17382\",\n    \"gtin13\": \"8711242936430\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استخوان‌های فشرده | Voskes",
 	"heading": "PRESSED BONES  10CM",
 	"description": "استخوان‌های فشرده از ۱۰۰٪ پوست خشک گاو. سگ‌ها عاشق جویدن آن هستند و به تمیز ماندن دندان‌ها کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/pressed-bones-10cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17382-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17382-p.webp",
 			"alt": "استخوان های فشرده4 اینچی (10 سانتی متر) - 5 عدد | Geperste botten hond | خوراکی های Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17382-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17382-p.webp",
 			"alt": "استخوان های فشرده4 اینچی (10 سانتی متر) - 5 عدد | Geperste botten hond | خوراکی های Voskes | VOSKES"
 		}
 	],

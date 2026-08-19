@@ -2,7 +2,7 @@
 	"slug": "beef-tripe",
 	"sku": "17711",
 	"gtin13": "87 112 42 93384 2",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried beef tripe. Made from 100% beef. Brings a lot of chewing pleasure and helps to keep teeth healthy. \",\n    \"name\": \"BEEF TRIPE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17711.png\",\n    \"sku\": \"17711\",\n    \"gtin13\": \"87 112 42 93384 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried beef tripe. Made from 100% beef. Brings a lot of chewing pleasure and helps to keep teeth healthy. \",\n    \"name\": \"BEEF TRIPE\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17711.png\",\n    \"sku\": \"17711\",\n    \"gtin13\": \"87 112 42 93384 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "سیرابی گاو | Voskes",
 	"heading": "BEEF TRIPE",
 	"description": "سیرابی گاو خشک‌شده و طبیعی از ۱۰۰٪ گوشت گاو. لذت جویدن فراوان و کمک به سلامت دندان.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/beef-tripe",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17711-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17711-p.webp",
 			"alt": "تریپ گاو | راندرپنس | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17711-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17711-p.webp",
 			"alt": "تریپ گاو | راندرپنس | رفتارهای Voskes | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "adult-sterilized-salmon",
 	"sku": "20060",
 	"gtin13": "8711242015371",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Sterilized cats need a less energy-rich diet due to an altered metabolism. Psyllium and beet pulp provide a greater sense of satiety and also help reduce the formation of hairballs. L-carnitine is added to boost fat burning. A unique blend of dried plants – naturally rich in antioxidants – contribute to good immunity. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Finally, joint-supporting components have also been added. Formulated without maize or wheat. \",\n    \"name\": \"ADULT STERILIZED SALMON\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_salmon_7kg_+30_hr.png\",\n    \"sku\": \"20060\",\n    \"gtin13\": \"8711242015371\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Sterilized cats need a less energy-rich diet due to an altered metabolism. Psyllium and beet pulp provide a greater sense of satiety and also help reduce the formation of hairballs. L-carnitine is added to boost fat burning. A unique blend of dried plants – naturally rich in antioxidants – contribute to good immunity. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Finally, joint-supporting components have also been added. Formulated without maize or wheat. \",\n    \"name\": \"ADULT STERILIZED SALMON\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_salmon_7kg_+30_hr.png\",\n    \"sku\": \"20060\",\n    \"gtin13\": \"8711242015371\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بالغ عقیم‌شده با سالمون | Voskes",
 	"heading": "بالغ عقیم‌شده با سالمون",
 	"description": "غذای کامل گربه بالغ. گربه‌های عقیم‌شده به دلیل تغییر سوخت‌وساز به رژیمی کم‌انرژی‌تر نیاز دارند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/adult-sterilized-salmon",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_salmon_7kg_+30_hr-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_voskes_a_sterilized_salmon_7kg_+30_hr-p.webp",
 			"alt": "ماهی آزاد استریل شده بالغ 7 وزن | ماهی آزاد استریل شده بزرگسالان ۷ آب | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult15-gs1_product-2064-292.webp?v=bStV6m",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult15-gs1_product-2064-292.webp?v=bStV6m",
 			"alt": "ماهی آزاد استریل شده بالغ 7 وزن | ماهی آزاد استریل شده بزرگسالان ۷ آب | VOSKES"
 		}
 	],

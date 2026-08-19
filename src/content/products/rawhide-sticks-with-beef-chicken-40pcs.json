@@ -2,7 +2,7 @@
 	"slug": "rawhide-sticks-with-beef-chicken-40pcs",
 	"sku": "19613",
 	"gtin13": "87 112 42 01433 6",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein. \",\n    \"name\": \"RAWHIDE STICKS   WITH BEEF & CHICKEN   40 PIECES \",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_-_gs1-gs1_packshot-2064-238.png?v=bTKzc5\",\n    \"sku\": \"19613\",\n    \"gtin13\": \"87 112 42 01433 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide, beef & chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. Moreover, this snack is rich in animal protein. \",\n    \"name\": \"RAWHIDE STICKS   WITH BEEF & CHICKEN   40 PIECES \",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_-_gs1-gs1_packshot-2064-238.png?v=bTKzc5\",\n    \"sku\": \"19613\",\n    \"gtin13\": \"87 112 42 01433 6\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک پوست خام با گوشت گاو و مرغ | Voskes",
 	"heading": "استیک پوست خام  با گوشت گاو و مرغ  40 PIECES",
 	"description": "این استیک‌های جویدنی خوشمزه‌اند، لذت جویدن می‌آورند و به سلامت دندان‌ها کمک می‌کنند. ضمناً سرشار از پروتئین حیوانی هستند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/rawhide-sticks-with-beef-chicken-40pcs",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_-_gs1-gs1_packshot-2064-238-p.webp?v=bTKzc5",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_-_gs1-gs1_packshot-2064-238-p.webp?v=bTKzc5",
 			"alt": "چوب خام با گوشت گاو و مرغ - 40 عدد | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_inhoud_-_gs1-gs1_product-2064-238-p.webp?v=bTKzdm",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-19613-rawhide_sticks_with_beef__chicken_40pcs_inhoud_-_gs1-gs1_product-2064-238-p.webp?v=bTKzdm",
 			"alt": "چوب خام با گوشت گاو و مرغ - 40 عدد | | VOSKES"
 		}
 	],

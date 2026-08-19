@@ -2,7 +2,7 @@
 	"slug": "pate-with-chicken-and-beef",
 	"sku": "20569",
 	"gtin13": "8711242016873",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious paté treat made with beef is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and beef, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat ! \",\n    \"name\": \"PATÉ   WITH CHICKEN & BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20569_pate_with_chicken_and_beef_blik.png\",\n    \"sku\": \"20569\",\n    \"gtin13\": \"8711242016873\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious paté treat made with beef is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and beef, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat ! \",\n    \"name\": \"PATÉ   WITH CHICKEN & BEEF\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_20569_pate_with_chicken_and_beef_blik.png\",\n    \"sku\": \"20569\",\n    \"gtin13\": \"8711242016873\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پته با مرغ و گوشت گاو | Voskes",
 	"heading": "پته  WITH CHICKEN &amp; BEEF",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ و گوشت گاو است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/pate-with-chicken-and-beef",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20569_pate_with_chicken_and_beef_blik.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20569_pate_with_chicken_and_beef_blik.webp",
 			"alt": "پاته با مرغ و گوشت گاو | پاته غذای خوراکی با مرغ و گوشت گاو VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20569_pate_with_chicken_and_beef1.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20569_pate_with_chicken_and_beef1.webp",
 			"alt": "پاته با مرغ و گوشت گاو | پاته غذای خوراکی با مرغ و گوشت گاو VOSKES"
 		}
 	],

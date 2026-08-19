@@ -2,7 +2,7 @@
 	"slug": "puffed-chicken-feet",
 	"sku": "17125",
 	"gtin13": "8711242937987",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Puffed Chicken feet are a tasty, natural snack. They are not hard in terms of texture and easy to chew on. \",\n    \"name\": \"PUFFED CHICKEN FEET\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17125.png\",\n    \"sku\": \"17125\",\n    \"gtin13\": \"8711242937987\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Puffed Chicken feet are a tasty, natural snack. They are not hard in terms of texture and easy to chew on. \",\n    \"name\": \"PUFFED CHICKEN FEET\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17125.png\",\n    \"sku\": \"17125\",\n    \"gtin13\": \"8711242937987\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پای مرغ پفکی | Voskes",
 	"heading": "PUFFED CHICKEN FEET",
 	"description": "پای مرغ پفکی تشویقی طبیعی و خوشمزه سگ است.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/puffed-chicken-feet",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17125-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17125-p.webp",
 			"alt": "پای مرغ پف کرده | Gepofte kippenpoten hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17125-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17125-p.webp",
 			"alt": "پای مرغ پف کرده | Gepofte kippenpoten hond | رفتارهای Voskes | VOSKES"
 		}
 	],

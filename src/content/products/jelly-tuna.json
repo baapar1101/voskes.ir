@@ -2,7 +2,7 @@
 	"slug": "jelly-tuna",
 	"sku": "19888",
 	"gtin13": "8711447890834",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19888_tuna_jelly_-_blik@2x.png\",\n    \"sku\": \"19888\",\n    \"gtin13\": \"8711447890834\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19888_tuna_jelly_-_blik@2x.png\",\n    \"sku\": \"19888\",\n    \"gtin13\": \"8711447890834\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله ماهی تن | Voskes",
 	"heading": "ژله ماهی تن",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-tuna",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19888_tuna_jelly_-_blik@2x-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19888_tuna_jelly_-_blik@2x-p.webp",
 			"alt": "ماهی تن ژله ای | ماهی تن ژله ای | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19888_tuna_jelly@2x-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19888_tuna_jelly@2x-p.webp",
 			"alt": "ماهی تن ژله ای | ماهی تن ژله ای | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "beef-meat-strips",
 	"sku": "17716",
 	"gtin13": "87 112 42 93394 1",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried strips of beef. A natural chewing product without additives. Encourages chewing and helps to keep teeth healthy. \",\n    \"name\": \"BEEF MEAT STRIPS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17716.png\",\n    \"sku\": \"17716\",\n    \"gtin13\": \"87 112 42 93394 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Dried strips of beef. A natural chewing product without additives. Encourages chewing and helps to keep teeth healthy. \",\n    \"name\": \"BEEF MEAT STRIPS\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17716.png\",\n    \"sku\": \"17716\",\n    \"gtin13\": \"87 112 42 93394 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "نوارهای گوشت گاو | Voskes",
 	"heading": "BEEF MEAT STRIPS",
 	"description": "نوارهای خشک گوشت گاو؛ خوراکی جویدنی طبیعی بدون افزودنی که جویدن را تشویق و به سلامت دندان کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/beef-meat-strips",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17716-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17716-p.webp",
 			"alt": "نوارهای گوشت گاو | Kauwsnack hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17716-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17716-p.webp",
 			"alt": "نوارهای گوشت گاو | Kauwsnack hond | رفتارهای Voskes | VOSKES"
 		}
 	],

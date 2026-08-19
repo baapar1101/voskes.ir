@@ -2,7 +2,7 @@
 	"slug": "training-treats-tripe",
 	"sku": "16718",
 	"gtin13": "8711242937130",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Tripe are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. \",\n    \"name\": \"TRAINING TREATS   TRIPE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16718_training_treats_tripe_200gr_-_web.png\",\n    \"sku\": \"16718\",\n    \"gtin13\": \"8711242937130\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Tripe are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day. \",\n    \"name\": \"TRAINING TREATS   TRIPE\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_16718_training_treats_tripe_200gr_-_web.png\",\n    \"sku\": \"16718\",\n    \"gtin13\": \"8711242937130\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "تشویقی آموزشی سیرابی | Voskes",
 	"heading": "تشویقی آموزشی  سیرابی",
 	"description": "تشویقی آموزشی Voskes با سیرابی؛ خوراکی نرم و خوشمزه پاداش، بدون شکر افزوده.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/training-treats-tripe",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16718_training_treats_tripe_200gr_-_web-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_16718_training_treats_tripe_200gr_-_web-p.webp",
 			"alt": "آموزش TRIPE | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16718_training_treats_tripe_200gr_inhoud_-_web-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_16718_training_treats_tripe_200gr_inhoud_-_web-p.webp",
 			"alt": "آموزش TRIPE | | VOSKES"
 		}
 	],

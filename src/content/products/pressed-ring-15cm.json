@@ -2,7 +2,7 @@
 	"slug": "pressed-ring-15cm",
 	"sku": "17392",
 	"gtin13": "87 112 42 93653 9",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Pressed ring made from 100% dried beef rawhide. This tasty snack will bring your dog hours of chewing pleasure. \",\n    \"name\": \"PRESSED RING\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17392.png\",\n    \"sku\": \"17392\",\n    \"gtin13\": \"87 112 42 93653 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Pressed ring made from 100% dried beef rawhide. This tasty snack will bring your dog hours of chewing pleasure. \",\n    \"name\": \"PRESSED RING\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17392.png\",\n    \"sku\": \"17392\",\n    \"gtin13\": \"87 112 42 93653 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "حلقه فشرده | Voskes",
 	"heading": "PRESSED RING",
 	"description": "این حلقه فشرده تشویقی طبیعی و سالمی است! ساخته‌شده از پوست خام خشک که ساعت‌ها لذت جویدن به سگ شما می‌دهد.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/pressed-ring-15cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17392-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17392-p.webp",
 			"alt": "حلقه فشرده6' (15CM) - 1PC | Runderhuid hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17392-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17392-p.webp",
 			"alt": "حلقه فشرده6' (15CM) - 1PC | Runderhuid hond | رفتارهای Voskes | VOSKES"
 		}
 	],

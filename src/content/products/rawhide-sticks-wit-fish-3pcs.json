@@ -2,7 +2,7 @@
 	"slug": "rawhide-sticks-wit-fish-3pcs",
 	"sku": "21728",
 	"gtin13": "8711242018952",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These delicious chew snacks consist of 3 rawhide sticks with fish. This snack is very rich in animal proteins and fish is a highly digestible source of protein, making it suitable for dogs with sensitive digestion. \",\n    \"name\": \"RAWHIDE STICKS   WITH FISH 3PCS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs1-gs1_packshot-2064-359.png?v=bW9MhQ\",\n    \"sku\": \"21728\",\n    \"gtin13\": \"8711242018952\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" These delicious chew snacks consist of 3 rawhide sticks with fish. This snack is very rich in animal proteins and fish is a highly digestible source of protein, making it suitable for dogs with sensitive digestion. \",\n    \"name\": \"RAWHIDE STICKS   WITH FISH 3PCS\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs1-gs1_packshot-2064-359.png?v=bW9MhQ\",\n    \"sku\": \"21728\",\n    \"gtin13\": \"8711242018952\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک پوست خام با ماهی | Voskes",
 	"heading": "استیک پوست خام  WITH FISH 3PCS",
 	"description": "این خوراکی جویدنی از ۳ استیک پوست خام با ماهی تشکیل شده؛ سرشار از پروتئین حیوانی و بسیار قابل هضم، مناسب گوارش حساس.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/rawhide-sticks-wit-fish-3pcs",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs1-gs1_packshot-2064-359-p.webp?v=bW9MhQ",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs1-gs1_packshot-2064-359-p.webp?v=bW9MhQ",
 			"alt": "چوب خام با ماهی 3PCS | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs-gs1_product-2064-359-p.webp?v=bW9Mh8",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-21728_-_8711242018952_-_rawhide_sticks_with_fish_3pcs-gs1_product-2064-359-p.webp?v=bW9Mh8",
 			"alt": "چوب خام با ماهی 3PCS | | VOSKES"
 		}
 	],

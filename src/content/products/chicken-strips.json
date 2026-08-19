@@ -2,7 +2,7 @@
 	"slug": "chicken-strips",
 	"sku": "19971",
 	"gtin13": "8711242014800",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Delicious chicken-based cat snacks to spoil your cat with. Suitable for kittens and adult cats. \",\n    \"name\": \"CHICKEN STRIPS\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19971_chicken_strips.png\",\n    \"sku\": \"19971\",\n    \"gtin13\": \"8711242014800\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Delicious chicken-based cat snacks to spoil your cat with. Suitable for kittens and adult cats. \",\n    \"name\": \"CHICKEN STRIPS\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19971_chicken_strips.png\",\n    \"sku\": \"19971\",\n    \"gtin13\": \"8711242014800\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "نوارهای مرغ | Voskes",
 	"heading": "CHICKEN STRIPS",
 	"description": "نوارهای سینه مرغ Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/chicken-strips",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19971_chicken_strips-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19971_chicken_strips-p.webp",
 			"alt": "نوار مرغ | بچه گربه snoepjes | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19971_chicken_strips_-_inhoud-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19971_chicken_strips_-_inhoud-p.webp",
 			"alt": "نوار مرغ | بچه گربه snoepjes | رفتارهای Voskes | VOSKES"
 		}
 	],

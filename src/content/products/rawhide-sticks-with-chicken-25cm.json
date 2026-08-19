@@ -2,7 +2,7 @@
 	"slug": "rawhide-sticks-with-chicken-25cm",
 	"sku": "18175",
 	"gtin13": "8711242933163",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH CHICKEN   25CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_18175.png\",\n    \"sku\": \"18175\",\n    \"gtin13\": \"8711242933163\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" A tasty treat for your dog consisting of beef rawhide and chicken. These chew sticks are delicious, provide chewing pleasure and therefore contribute to healthy teeth. In addition, this snack is rich in animal protein. Their size makes them particularly suitable for larger breeds. \",\n    \"name\": \"RAWHIDE STICKS   WITH CHICKEN   25CM\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_18175.png\",\n    \"sku\": \"18175\",\n    \"gtin13\": \"8711242933163\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "استیک پوست خام با مرغ | Voskes",
 	"heading": "استیک پوست خام  با مرغ  ۲۵ سانتی‌متر",
 	"description": "این استیک‌های جویدنی خوشمزه‌اند، لذت جویدن می‌آورند و به سلامت دندان‌ها کمک می‌کنند. ضمناً سرشار از پروتئین حیوانی هستند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/rawhide-sticks-with-chicken-25cm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_18175-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_18175-p.webp",
 			"alt": "چوب خام با مرغ 25CM - 2PCS | Kauwsticks hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_18175inhoud-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_18175inhoud-p.webp",
 			"alt": "چوب خام با مرغ 25CM - 2PCS | Kauwsticks hond | رفتارهای Voskes | VOSKES"
 		}
 	],

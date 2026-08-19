@@ -2,7 +2,7 @@
 	"slug": "jelly-tuna-with-seabream",
 	"sku": "19887",
 	"gtin13": "8711447890810",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and seabream is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SEABREAM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19887_tuna_with_seabream_jelly_-_blik@2x.png\",\n    \"sku\": \"19887\",\n    \"gtin13\": \"8711447890810\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious jelly treat made with tuna and seabream is a veritable delicacy for every cat!  The natural ingredients are carefully steamed so that the nutrients and aromas are preserved. Cleaning, filleting and preparing tuna flakes, filling the tins and adding toppings are all done manually.  Tuna is easy to digest and contains essential fatty acids to support a shiny coat and healthy skin. Cats are crazy about this jelly taste sensation! \",\n    \"name\": \"JELLY TUNA   WITH SEABREAM\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_19887_tuna_with_seabream_jelly_-_blik@2x.png\",\n    \"sku\": \"19887\",\n    \"gtin13\": \"8711447890810\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله ماهی تن با سیم دریایی | Voskes",
 	"heading": "ژله ماهی تن  با ماهی سیم دریایی",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه ماهی تن و سیم دریایی است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-tuna-with-seabream",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19887_tuna_with_seabream_jelly_-_blik@2x-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19887_tuna_with_seabream_jelly_-_blik@2x-p.webp",
 			"alt": "ماهی تن ژله ای با شیر دریایی | ماهی تن ژله ای با شیر دریایی | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_19887_tuna_with_seabream_jelly@2x-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_19887_tuna_with_seabream_jelly@2x-p.webp",
 			"alt": "ماهی تن ژله ای با شیر دریایی | ماهی تن ژله ای با شیر دریایی | VOSKES"
 		}
 	],

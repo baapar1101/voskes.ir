@@ -2,7 +2,7 @@
 	"slug": "mini-marrow-biscuits-with-beef",
 	"sku": "10963",
 	"gtin13": "8711242946057",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Small marrow biscuits with a beef-flavoured filling, suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"MINI MARROW BISCUITS WITH BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_-_gs1-gs1_packshot-2064-11.png?v=bUmGkA\",\n    \"sku\": \"10963\",\n    \"gtin13\": \"8711242946057\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Small marrow biscuits with a beef-flavoured filling, suitable for puppies from 6 months onwards and adult dogs. These delicious, crunchy biscuits can be given as a reward during training or simply as a snack to spoil your four-legged friend. Also ideal during the daily walk. Moreover, the biscuits are enriched with vitamins A, D3 and E ! \",\n    \"name\": \"MINI MARROW BISCUITS WITH BEEF\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_-_gs1-gs1_packshot-2064-11.png?v=bUmGkA\",\n    \"sku\": \"10963\",\n    \"gtin13\": \"8711242946057\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بیسکویت مینی مغز استخوان با گوشت گاو | Voskes",
 	"heading": "MINI MARROW BISCUITS WITH BEEF",
 	"description": "بیسکویت کوچک مغز استخوان با مغزی طعم گوشت گاو، مناسب توله‌های بالای ۶ ماه و سگ بالغ؛ غنی‌شده با ویتامین‌های A، D۳ و E.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/mini-marrow-biscuits-with-beef",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_-_gs1-gs1_packshot-2064-11-p.webp?v=bUmGkA",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_-_gs1-gs1_packshot-2064-11-p.webp?v=bUmGkA",
 			"alt": "بیسکویت مغزی مینی با گوشت گاو | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_inhoud_-_gs1-gs1_product-2064-11-p.webp?v=bUmGkU",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_inhoud_-_gs1-gs1_product-2064-11-p.webp?v=bUmGkU",
 			"alt": "بیسکویت مغزی مینی با گوشت گاو | | VOSKES"
 		}
 	],

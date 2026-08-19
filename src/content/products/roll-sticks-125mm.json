@@ -2,7 +2,7 @@
 	"slug": "roll-sticks-125mm",
 	"sku": "17370",
 	"gtin13": "8711242936317",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" VOSKES Rollsticks are made from dried cowhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"ROLL STICKS   12,5 CM\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17370.png\",\n    \"sku\": \"17370\",\n    \"gtin13\": \"8711242936317\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" VOSKES Rollsticks are made from dried cowhide. Dogs love chewing on the dried hide and it also helps to keep teeth clean. \",\n    \"name\": \"ROLL STICKS   12,5 CM\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17370.png\",\n    \"sku\": \"17370\",\n    \"gtin13\": \"8711242936317\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "رول‌استیک | Voskes",
 	"heading": "ROLL STICKS  12,5 CM",
 	"description": "این خوراکی عملکردی نه‌تنها خوشمزه است، به تمیز ماندن دندان‌ها هم کمک می‌کند. رول‌استیک‌ها از پوست خام خشک ساخته شده‌اند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/roll-sticks-125mm",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-17370-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-17370-p.webp",
 			"alt": "رول استیک 5 اینچی (12.5 سانتی متر) - 50 عدد | تنقلات سگ | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17370-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17370-p.webp",
 			"alt": "ROLL STICKS 5\" (12.5 CM) - 50PCS | Gedroogde hondensnack | خوراکی های Voskes | VOSKES"
 		}
 	],

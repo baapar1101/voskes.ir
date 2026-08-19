@@ -2,7 +2,7 @@
 	"slug": "cream-with-tuna-and-mackeral",
 	"sku": "21073",
 	"gtin13": "8711242017269",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Delicious, creamy fish-based snack. This treat is ideal as a healthy snack or as an extra topping on food. Thanks to the handy packaging with resealable twist-off cap, this snack will also keep in the fridge for 2 days after opening. \",\n    \"name\": \"CREAM   WITH TUNA & MACKERAL\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210731.png\",\n    \"sku\": \"21073\",\n    \"gtin13\": \"8711242017269\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Delicious, creamy fish-based snack. This treat is ideal as a healthy snack or as an extra topping on food. Thanks to the handy packaging with resealable twist-off cap, this snack will also keep in the fridge for 2 days after opening. \",\n    \"name\": \"CREAM   WITH TUNA & MACKERAL\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-210731.png\",\n    \"sku\": \"21073\",\n    \"gtin13\": \"8711242017269\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "کرم با ماهی تن و خال‌مخالی | Voskes",
 	"heading": "CREAM  WITH TUNA &amp; MACKERAL",
 	"description": "خوراکی کرمی و خوشمزه بر پایه ماهی تن و خال‌مخالی؛ ایده‌آل به‌عنوان میان‌وعده سالم یا تاپینگ روی غذا.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/cream-with-tuna-and-mackeral",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210731-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-210731-p.webp",
 			"alt": "کرم با ماهی تن و ماکرال | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-creme_delight_contains1-gs1_product-2064-315-p.webp?v=bTTb1m",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-creme_delight_contains1-gs1_product-2064-315-p.webp?v=bTTb1m",
 			"alt": "کرم با ماهی تن و ماکرال | | VOSKES"
 		}
 	],

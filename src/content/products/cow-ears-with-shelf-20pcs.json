@@ -2,7 +2,7 @@
 	"slug": "cow-ears-with-shelf-20pcs",
 	"sku": "16413",
 	"gtin13": "87 112 42 93938 7",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   WITH SHELF   20 PIECES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st.png\",\n    \"sku\": \"16413\",\n    \"gtin13\": \"87 112 42 93938 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   WITH SHELF   20 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st.png\",\n    \"sku\": \"16413\",\n    \"gtin13\": \"87 112 42 93938 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "گوش گاو با غضروف | Voskes",
 	"heading": "گوش گاو  WITH SHELF  20 PIECES",
 	"description": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/cow-ears-with-shelf-20pcs",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st-p.webp",
 			"alt": "گوش گاوی با قفسه - 20 عدد | Runderoren hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_cow_ears_with_meat_(promo)1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_cow_ears_with_meat_(promo)1-p.webp",
 			"alt": "گوش گاوی با قفسه - 20 عدد | Runderoren hond | رفتارهای Voskes | VOSKES"
 		}
 	],

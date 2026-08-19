@@ -2147,17 +2147,6 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_analyticalcomponents_anyof",
-      "label": "anyOf",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "anyof",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L133"
-    },
-    {
       "id": "astro_collections_products_schema_canonical_type",
       "label": "type",
       "_origin": "ast",
@@ -2202,6 +2191,17 @@
       "source_location": "L19"
     },
     {
+      "id": "astro_collections_products_schema_jsonld_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L29"
+    },
+    {
       "id": "astro_collections_products_schema_ogdescription_type",
       "label": "type",
       "_origin": "ast",
@@ -2222,17 +2222,6 @@
       "norm_label": "properties",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L4"
-    },
-    {
-      "id": "astro_collections_products_schema_properties_analyticalcomponents",
-      "label": "analyticalComponents",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "analyticalcomponents",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L132"
     },
     {
       "id": "astro_collections_products_schema_properties_canonical",
@@ -2277,6 +2266,17 @@
       "norm_label": "gtin13",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L18"
+    },
+    {
+      "id": "astro_collections_products_schema_properties_jsonld",
+      "label": "jsonLd",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "jsonld",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L28"
     },
     {
       "id": "astro_collections_products_schema_properties_ogdescription",
@@ -7092,28 +7092,6 @@
       "source_location": "L41"
     },
     {
-      "id": "astro_collections_products_schema_jsonld_anyof",
-      "label": "anyOf",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "jsonLd",
-      "file_type": "code",
-      "norm_label": "anyof",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L29"
-    },
-    {
-      "id": "astro_collections_products_schema_properties_jsonld",
-      "label": "jsonLd",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "jsonLd",
-      "file_type": "code",
-      "norm_label": "jsonld",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L28"
-    },
-    {
       "id": "astro_collections_products_schema_ogtitle_type",
       "label": "type",
       "_origin": "ast",
@@ -7268,6 +7246,28 @@
       "norm_label": "start-preview.ps1",
       "source_file": ".freebuff/start-preview.ps1",
       "source_location": "L1"
+    },
+    {
+      "id": "astro_collections_products_schema_analyticalcomponents_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "analyticalComponents",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L133"
+    },
+    {
+      "id": "astro_collections_products_schema_properties_analyticalcomponents",
+      "label": "analyticalComponents",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "analyticalComponents",
+      "file_type": "code",
+      "norm_label": "analyticalcomponents",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L132"
     },
     {
       "id": "astro_collections_products_schema_benefits_items",
@@ -15517,5 +15517,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "7a5f9d86cac2fa38c89ce949202aa57bc7a535bc"
+  "built_at_commit": "ccc44443c210b4f54ad2e66788bdc354e6dc0d9f"
 }

@@ -2,7 +2,7 @@
 	"slug": "duo-twist-beef",
 	"sku": "17663",
 	"gtin13": "87 112 42 93591 4",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Duo Twist is a plait made from white cowhide with a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"DUO TWIST   BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_duo_twist_rund_m.png\",\n    \"sku\": \"17663\",\n    \"gtin13\": \"87 112 42 93591 4\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The VOSKES Duo Twist is a plait made from white cowhide with a tasty strip of beef. A chewy and delicious snack. Its shape also helps to keep teeth clean. \",\n    \"name\": \"DUO TWIST   BEEF\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_duo_twist_rund_m.png\",\n    \"sku\": \"17663\",\n    \"gtin13\": \"87 112 42 93591 4\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پیچ دوتایی گوشت گاو | Voskes",
 	"heading": "DUO TWIST  BEEF",
 	"description": "پیچ دوتایی VOSKES بافتی از پوست خام شفاف با نوار خوشمزه گوشت گاو است. فرم آن به تمیز ماندن دندان‌ها کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/duo-twist-beef",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_duo_twist_rund_m-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_duo_twist_rund_m-p.webp",
 			"alt": "DUO TWIST BEEF | Kauwsnacks hond | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-17663-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-17663-p.webp",
 			"alt": "DUO TWIST BEEF | Kauwsnacks hond | رفتارهای Voskes | VOSKES"
 		}
 	],

@@ -2,7 +2,7 @@
 	"slug": "pate-with-chicken-and-lamb",
 	"sku": "20571",
 	"gtin13": "8711242016903",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious paté treat made with chicken and lamb is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and lamb, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat ! \",\n    \"name\": \"PATÉ   WITH CHICKEN & LAMB\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20571_pate_with_chicken_and_lamb_blik1.png\",\n    \"sku\": \"20571\",\n    \"gtin13\": \"8711242016903\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious paté treat made with chicken and lamb is a veritable delicacy for every cat!  The natural ingredients are steamed so that the nutritious properties are well preserved. Cleaning and preparing the chicken and lamb, filling cans and adding toppings are all done manually. This delicious gluten-free paté treat is a real treat for any cat that loves meat ! \",\n    \"name\": \"PATÉ   WITH CHICKEN & LAMB\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_20571_pate_with_chicken_and_lamb_blik1.png\",\n    \"sku\": \"20571\",\n    \"gtin13\": \"8711242016903\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پته با مرغ و بره | Voskes",
 	"heading": "پته  WITH CHICKEN &amp; LAMB",
 	"description": "این تشویقی گربه خوراکی خوشمزه‌ای بر پایه مرغ و بره است. خوراکی واقعی برای هر گربه‌ای!",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/pate-with-chicken-and-lamb",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20571_pate_with_chicken_and_lamb_blik1.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20571_pate_with_chicken_and_lamb_blik1.webp",
 			"alt": "پاته با مرغ و بره | پاته غذای با مرغ و بره | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20571_pate_with_chicken_and_lamb1.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_20571_pate_with_chicken_and_lamb1.webp",
 			"alt": "پاته با مرغ و بره | پاته غذای با مرغ و بره | VOSKES"
 		}
 	],

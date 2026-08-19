@@ -2,7 +2,7 @@
 	"slug": "chicken-fillet-slices",
 	"sku": "16053",
 	"gtin13": "8711242941564",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your dog with these Voskes Chicken Fillet slices, made from 100% fresh chicken breast, with no added colours, flavourings or preservatives. This dried chicken fillet is low in fat and easily digestible, excellent for overweight and allergic dogs. Moreover, this snack is a rich & nutritious source of animal protein, essential in your dog's nutritional needs. \",\n    \"name\": \"CHICKEN FILLET SLICES\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_front_gs1-gs1_packshot-2064-67.png?v=bTU3HU\",\n    \"sku\": \"16053\",\n    \"gtin13\": \"8711242941564\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your dog with these Voskes Chicken Fillet slices, made from 100% fresh chicken breast, with no added colours, flavourings or preservatives. This dried chicken fillet is low in fat and easily digestible, excellent for overweight and allergic dogs. Moreover, this snack is a rich & nutritious source of animal protein, essential in your dog's nutritional needs. \",\n    \"name\": \"CHICKEN FILLET SLICES\",\n    \"image\": \"/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_front_gs1-gs1_packshot-2064-67.png?v=bTU3HU\",\n    \"sku\": \"16053\",\n    \"gtin13\": \"8711242941564\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "برش‌های فیله مرغ | Voskes",
 	"heading": "برش‌های فیله مرغ",
 	"description": "برش‌های سینه مرغ Voskes خوراکی خوشمزه‌ای از ۱۰۰٪ سینه مرغ تازه است؛ بدون رنگ، طعم‌دهنده و نگهدارنده.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/chicken-fillet-slices",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_front_gs1-gs1_packshot-2064-67-p.webp?v=bTU3HU",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_front_gs1-gs1_packshot-2064-67-p.webp?v=bTU3HU",
 			"alt": "برش های فیله مرغ | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_inhoud-gs1-gs1_product-2064-67-p.webp?v=bTU3Id",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-16053-chicken_fillet_slices_100g_inhoud-gs1-gs1_product-2064-67-p.webp?v=bTU3Id",
 			"alt": "برش های فیله مرغ | | VOSKES"
 		}
 	],

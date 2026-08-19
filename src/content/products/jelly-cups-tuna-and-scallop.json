@@ -2,7 +2,7 @@
 	"slug": "jelly-cups-tuna-and-scallop",
 	"sku": "18170",
 	"gtin13": "87 112 42 93305 7",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Cups filled with deliciously tender, hand-selected pieces of fish. The exquisite flavours of the sea are a true delicacy for your cat. \",\n    \"name\": \"JELLY CUPS   TUNA & SCALLOP\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/181702.png\",\n    \"sku\": \"18170\",\n    \"gtin13\": \"87 112 42 93305 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Cups filled with deliciously tender, hand-selected pieces of fish. The exquisite flavours of the sea are a true delicacy for your cat. \",\n    \"name\": \"JELLY CUPS   TUNA & SCALLOP\",\n    \"image\": \"/uploads/gdpetfood.com/original/181702.png\",\n    \"sku\": \"18170\",\n    \"gtin13\": \"87 112 42 93305 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله لیوانی ماهی تن و گوش‌ماهی | Voskes",
 	"heading": "ژله لیوانی  TUNA &amp; SCALLOP",
 	"description": "ژله لیوانی پر از تکه‌های لطیف و دست‌چین ماهی و گوش‌ماهی. طعم‌های ظریف دریا خوراکی بی‌نظیری برای گربه شماست.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/jelly-cups-tuna-and-scallop",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/181702.webp",
+			"src": "/uploads/gdpetfood.com/original/181702.webp",
 			"alt": "فنجان ژله ماهی تن و گوش ماهی (6 X 25G) | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-18170-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-18170-p.webp",
 			"alt": "فنجان ژله ماهی تن و گوش ماهی (6 X 25G) | غذاخوری زاخته | رفتارهای Voskes | VOSKES"
 		}
 	],

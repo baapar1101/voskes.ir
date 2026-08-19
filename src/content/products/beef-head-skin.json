@@ -2,7 +2,7 @@
 	"slug": "beef-head-skin",
 	"sku": "16548",
 	"gtin13": "8711242939714",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \"\",\n    \"name\": \"BEEF HEAD SKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16548.png\",\n    \"sku\": \"16548\",\n    \"gtin13\": \"8711242939714\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \"\",\n    \"name\": \"BEEF HEAD SKIN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-16548.png\",\n    \"sku\": \"16548\",\n    \"gtin13\": \"8711242939714\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پوست سر گاو | Voskes",
 	"heading": "BEEF HEAD SKIN",
 	"description": "برای جونده‌های سرسخت! محصولی جویدنی، طبیعی و فوق‌مقاوم بدون افزودنی که به سلامت دندان‌ها کمک می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/beef-head-skin",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-16548-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_0-16548-p.webp",
 			"alt": "پوست سر گاو | Runderkophuid | رفتارهای Voskes | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-16548-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_1-16548-p.webp",
 			"alt": "پوست سر گاو | Runderkophuid | رفتارهای Voskes | VOSKES"
 		}
 	],

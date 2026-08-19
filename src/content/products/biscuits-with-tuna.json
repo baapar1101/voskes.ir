@@ -2,7 +2,7 @@
 	"slug": "biscuits-with-tuna",
 	"sku": "21554",
 	"gtin13": "8711242018402",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your cat with Voskes Crispy & Crunchy treats! The perfect combination of a crunchy exterior and a soft, tasty filling. Enriched with taurine for a healthy heart, these snacks are ideal as a treat or reward. A delicious delight your house tiger will come back to again and again! \",\n    \"name\": \"BISCUITS WITH TUNA\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21554-biscuits-with-tuna-gs1.png\",\n    \"sku\": \"21554\",\n    \"gtin13\": \"8711242018402\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your cat with Voskes Crispy & Crunchy treats! The perfect combination of a crunchy exterior and a soft, tasty filling. Enriched with taurine for a healthy heart, these snacks are ideal as a treat or reward. A delicious delight your house tiger will come back to again and again! \",\n    \"name\": \"BISCUITS WITH TUNA\",\n    \"image\": \"/uploads/gdpetfood.com/original/21554-biscuits-with-tuna-gs1.png\",\n    \"sku\": \"21554\",\n    \"gtin13\": \"8711242018402\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بیسکویت با ماهی تن | Voskes",
 	"heading": "BISCUITS WITH TUNA",
 	"description": "گربه‌تان را با تشویقی‌های ترد Voskes نوازش کنید! ترکیبی عالی از پوسته ترد و مغز نرم و خوشمزه، غنی‌شده با تائورین.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/biscuits-with-tuna",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21554-biscuits-with-tuna-gs1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/21554-biscuits-with-tuna-gs1-p.webp",
 			"alt": "بیسکویت با ماهی تن | | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21554-biscuits-with-tuna-inhoud-p.webp",
+			"src": "/uploads/gdpetfood.com/original/21554-biscuits-with-tuna-inhoud-p.webp",
 			"alt": "بیسکویت با ماهی تن | | VOSKES"
 		}
 	],

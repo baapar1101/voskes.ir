@@ -2,7 +2,7 @@
 	"slug": "adult-complete-chicken",
 	"sku": "20057",
 	"gtin13": "8711242015340",
-	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Optimum immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to promote good pH and contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Vegetable fibre and beet pulp help reduce hairball formation. Formulated without maize or wheat. \",\n    \"name\": \"ADULT COMPLETE CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_complete_chicken_7kg_+30_hr1.png\",\n    \"sku\": \"20057\",\n    \"gtin13\": \"8711242015340\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
+	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Optimum immunity and healthy digestion are supported by the addition of a unique blend of dried plants – naturally rich in antioxidants – supplemented with prebiotics and β-glucans. Clinical studies show that plaque and tartar formation are reduced thanks to the added phosphorylated vitamin C. The amount of minerals is tailored to promote good pH and contribute to a healthy urinary tract. Fish oil promotes healthy skin and coat. Vegetable fibre and beet pulp help reduce hairball formation. Formulated without maize or wheat. \",\n    \"name\": \"ADULT COMPLETE CHICKEN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_voskes_a_complete_chicken_7kg_+30_hr1.png\",\n    \"sku\": \"20057\",\n    \"gtin13\": \"8711242015340\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "غذای کامل بالغ با مرغ | Voskes",
 	"heading": "غذای کامل بالغ با مرغ",
 	"description": "غذای کامل گربه بالغ. ترکیبی منحصربه‌فرد از مقاومت بدن و گوارش سالم پشتیبانی می‌کند.",
@@ -12,11 +12,11 @@
 	"canonical": "https://voskes.ir/products/adult-complete-chicken",
 	"images": [
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_voskes_a_complete_chicken_7kg_+30_hr1-p.webp",
+			"src": "/uploads/gdpetfood.com/original/gs1_voskes_a_complete_chicken_7kg_+30_hr1-p.webp",
 			"alt": "مرغ کامل بالغ ۷ متر | مرغ کامل بالغ ۷ متر | VOSKES"
 		},
 		{
-			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult3-gs1_product-2064-286.webp?v=bStVyB",
+			"src": "/uploads/gdpetfood.com/gs1/gs1-voskes-cat-adult3-gs1_product-2064-286.webp?v=bStVyB",
 			"alt": "مرغ کامل بالغ ۷ متر | مرغ کامل بالغ ۷ متر | VOSKES"
 		}
 	],
