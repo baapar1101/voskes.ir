@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210721-p.webp",
-			"alt": "SOUP WITH BEEF |  | VOSKES"
+			"alt": "سوپ با گوشت گاو | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_voskes_cat_drink_visual_beef_lr-gs1_product-2064-312-p.webp?v=bTTb7Y",
-			"alt": "SOUP WITH BEEF |  | VOSKES"
+			"alt": "سوپ با گوشت گاو | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017184",
 	"composition": "beef 6%, chicken, tapioca starch, glycine, sunflower oil, xylose, beta glucan",
-	"analyticalComponents": "moisture 92,5%, crude protein 4%, crude ash 0,5%, crude oils & fats 0,4%, crude fibre 0,5%.",
+	"analyticalComponents": "moisture 92,5%, crude protein 4%, crude ash 0,5%, crude oils &amp; fats 0,4%, crude fibre 0,5%.",
 	"additives": null,
 	"benefits": [],
 	"extraHtml": null

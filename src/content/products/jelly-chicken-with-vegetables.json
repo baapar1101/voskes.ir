@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20563_jelly_chicken_with_vegetables_blik.webp",
-			"alt": "JELLY CHICKEN WITH VEGETABLES | JELLY WETFOOD CHICKEN WITH VEGETABLES | VOSKES"
+			"alt": "مرغ ژله ای با سبزیجات | ژله مرغ با سبزیجات | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20563_jelly_chicken_with_vegetables1.webp",
-			"alt": "JELLY CHICKEN WITH VEGETABLES | JELLY WETFOOD CHICKEN WITH VEGETABLES | VOSKES"
+			"alt": "مرغ ژله ای با سبزیجات | ژله مرغ با سبزیجات | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242016798",
 	"composition": "chicken 35%, carrots 2%, pumpkin 2%, rice 1,5%, vegetable gelatine 1%",
-	"analyticalComponents": "moisture 87%, crude protein 10%, crude ash 1,0%, crude oils & fats 0,8%, crude fibre 0,5%.",
+	"analyticalComponents": "moisture 87%, crude protein 10%, crude ash 1,0%, crude oils &amp; fats 0,8%, crude fibre 0,5%.",
 	"additives": null,
 	"benefits": [],
 	"extraHtml": null

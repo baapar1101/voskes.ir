@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/16055_-_chicken__fish_twists_100g_front-gs1-p.webp",
-			"alt": "CHICKEN & FISH TWISTS |  | VOSKES"
+			"alt": "پیچ و تاب مرغ و ماهی | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_1-160551-gs1_product-2064-195-p.webp?v=bTU3Xl",
-			"alt": "CHICKEN & FISH TWISTS | Hondensnack kip en vis | Voskes Treats | VOSKES"
+			"alt": "پیچ و تاب مرغ و ماهی | Hondensnack kip en vis | رفتارهای Voskes | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -27,7 +27,7 @@
 		"value": "100gr"
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242941601",
-	"composition": "Meat and animal derivatives (chicken 91%), fish & fish derivatives (cod 7%), derivatives of vegetable origin, oils and fats, minerals.",
+	"composition": "Meat and animal derivatives (chicken 91%), fish &amp; fish derivatives (cod 7%), derivatives of vegetable origin, oils and fats, minerals.",
 	"analyticalComponents": "Crude protein 36.3% - moisture 23% - crude ash 3.9% - crude oils and fats 2.4% - crude fibre 0.1%.",
 	"additives": null,
 	"benefits": [],

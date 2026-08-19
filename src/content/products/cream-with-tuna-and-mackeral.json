@@ -4,7 +4,7 @@
 	"gtin13": "8711242017269",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Delicious, creamy fish-based snack. This treat is ideal as a healthy snack or as an extra topping on food. Thanks to the handy packaging with resealable twist-off cap, this snack will also keep in the fridge for 2 days after opening. \",\n    \"name\": \"CREAM   WITH TUNA & MACKERAL\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210731.png\",\n    \"sku\": \"21073\",\n    \"gtin13\": \"8711242017269\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "کرم با ماهی تن و خال‌مخالی | Voskes",
-	"heading": "CREAM  WITH TUNA & MACKERAL",
+	"heading": "CREAM  WITH TUNA &amp; MACKERAL",
 	"description": "خوراکی کرمی و خوشمزه بر پایه ماهی تن و خال‌مخالی؛ ایده‌آل به‌عنوان میان‌وعده سالم یا تاپینگ روی غذا.",
 	"bodyDescription": "Delicious, creamy fish-based snack. This treat is ideal as a healthy snack or as an extra topping on food. Thanks to the handy packaging with resealable twist-off cap, this snack will also keep in the fridge for 2 days after opening.",
 	"ogTitle": "کرم با ماهی تن و خال‌مخالی | Voskes",
@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210731-p.webp",
-			"alt": "CREAM WITH TUNA & MACKERAL |  | VOSKES"
+			"alt": "کرم با ماهی تن و ماکرال | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-creme_delight_contains1-gs1_product-2064-315-p.webp?v=bTTb1m",
-			"alt": "CREAM WITH TUNA & MACKERAL |  | VOSKES"
+			"alt": "کرم با ماهی تن و ماکرال | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017269",
 	"composition": "tuna 22%, potato starch, mackeral 3%, fish extract",
-	"analyticalComponents": "moisture 87%, crude protein 6,5%, crude ash 1%, crude oils & fats 0,4%, crude fibre 0,5%.",
+	"analyticalComponents": "moisture 87%, crude protein 6,5%, crude ash 1%, crude oils &amp; fats 0,4%, crude fibre 0,5%.",
 	"additives": null,
 	"benefits": [],
 	"extraHtml": null

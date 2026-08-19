@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_-_gs1-gs1_packshot-2064-11-p.webp?v=bUmGkA",
-			"alt": "MINI MARROW BISCUITS WITH BEEF |  | VOSKES"
+			"alt": "بیسکویت مغزی مینی با گوشت گاو | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-10963_-_mini_marrow_with_beef_400gr_inhoud_-_gs1-gs1_product-2064-11-p.webp?v=bUmGkU",
-			"alt": "MINI MARROW BISCUITS WITH BEEF |  | VOSKES"
+			"alt": "بیسکویت مغزی مینی با گوشت گاو | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -27,9 +27,9 @@
 		"value": "۴۰۰ گرم"
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242946057",
-	"composition": "Cereals, oils & fats, meat & animal derivatives (beef 4%), derivatives of vegetable origin, sugars, minerals.",
-	"analyticalComponents": "Crude protein 12%. crude oils & fats 10%, crude ash 3%, crude fibre 1%.",
-	"additives": "NUTRITIONAL ADDITIVES per kg: vitamin A: 5,000 I.U. - vitamin D3: 500 I.U. - vitamin E: 50 mg - 3b405 copper: 1.8 mg\nTECHNOLOGICAL ADDITIVES : Contains EU-approved antioxidants & and colourants.",
+	"composition": "Cereals, oils &amp; fats, meat &amp; animal derivatives (beef 4%), derivatives of vegetable origin, sugars, minerals.",
+	"analyticalComponents": "Crude protein 12%. crude oils &amp; fats 10%, crude ash 3%, crude fibre 1%.",
+	"additives": "NUTRITIONAL ADDITIVES per kg: vitamin A: 5,000 I.U. - vitamin D3: 500 I.U. - vitamin E: 50 mg - 3b405 copper: 1.8 mg\nTECHNOLOGICAL ADDITIVES : Contains EU-approved antioxidants &amp; and colourants.",
 	"benefits": [],
 	"extraHtml": null
 }

@@ -4,20 +4,20 @@
 	"gtin13": "8711242942998",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Training Treats with Salmon & Rice are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day \",\n    \"name\": \"TRAINING TREATS   SALMON & RICE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15057_training_treats_salmon__rice_200gr_-_web.png\",\n    \"sku\": \"15057\",\n    \"gtin13\": \"8711242942998\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "تشویقی آموزشی سالمون و برنج | Voskes",
-	"heading": "تشویقی آموزشی  SALMON & RICE",
+	"heading": "تشویقی آموزشی  SALMON &amp; RICE",
 	"description": "تشویقی آموزشی Voskes با سالمون و برنج؛ خوراکی نرم و خوشمزه پاداش، بدون شکر افزوده.",
-	"bodyDescription": "Voskes Training Treats with Salmon & Rice are tasty, soft & small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day",
+	"bodyDescription": "Voskes Training Treats with Salmon &amp; Rice are tasty, soft &amp; small bone shaped treats without added sugar. They are perfect during training or to reward dogs for good behaviour at any time of the day",
 	"ogTitle": "تشویقی آموزشی سالمون و برنج | Voskes",
 	"ogDescription": "تشویقی آموزشی Voskes با سالمون و برنج؛ خوراکی نرم و خوشمزه پاداش، بدون شکر افزوده.",
 	"canonical": "https://voskes.ir/products/training-treats-salmon-and-rice",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15057_training_treats_salmon__rice_200gr_-_web-p.webp",
-			"alt": "TRAINING TREATS SALMON & RICE |  | VOSKES"
+			"alt": "آموزش درمان ماهی آزاد و برنج | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_15057_training_treats_salmon__rice_200gr_inhoud_-web-p.webp",
-			"alt": "TRAINING TREATS SALMON & RICE |  | VOSKES"
+			"alt": "آموزش درمان ماهی آزاد و برنج | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",

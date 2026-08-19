@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 01457 2",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Tasty meat roll made from Lamb and Rice. A tasty and healthy snack between meals \",\n    \"name\": \"MEAT ROLLS   LAMB & RICE\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19670_-_vleesrollen_lamrijst_600gr-gs1_packshot-2064-95.png?v=bTTbPe\",\n    \"sku\": \"19670\",\n    \"gtin13\": \"87 112 42 01457 2\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "رول گوشت بره و برنج | Voskes",
-	"heading": "MEAT ROLLS  LAMB & RICE",
+	"heading": "MEAT ROLLS  LAMB &amp; RICE",
 	"description": "رول گوشت خوشمزه از بره و برنج.",
 	"bodyDescription": "Tasty meat roll made from Lamb and Rice. A tasty and healthy snack between meals",
 	"ogTitle": "رول گوشت بره و برنج | Voskes",
@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19670_-_vleesrollen_lamrijst_600gr-gs1_packshot-2064-95-p.webp?v=bTTbPe",
-			"alt": "MEAT ROLLS LAMB & RICE |  | VOSKES"
+			"alt": "رولت گوشت بره و برنج | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-19670_-_vleesrollen_lamrijst_600gr_inhoud-gs1_product-2064-95-p.webp?v=bTTbWw",
-			"alt": "MEAT ROLLS LAMB & RICE |  | VOSKES"
+			"alt": "رولت گوشت بره و برنج | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",

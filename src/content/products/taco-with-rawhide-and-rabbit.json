@@ -4,7 +4,7 @@
 	"gtin13": "8711242017368",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" This delicious rawhide-based snack richly filled with rabbit is a treat that is sure to please any four-legged friend. These tacos provide nice, long chewing fun and thus help fight boredom. Moreover, chewing contributes to good dental care and reduction of plaque. The tacos are rich in meat and contain plenty of animal proteins. \",\n    \"name\": \"TACO   RAWHIDE & RABBIT\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21144_-_tacos_with_rabbit_400g_-_gs1-gs1_packshot-2064-320.png?v=bTuF5N\",\n    \"sku\": \"21144\",\n    \"gtin13\": \"8711242017368\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "تاکو با پوست خام و خرگوش | Voskes",
-	"heading": "TACO  RAWHIDE & RABBIT",
+	"heading": "TACO  RAWHIDE &amp; RABBIT",
 	"description": "این تاکوها لذت جویدن فراوان می‌آورند و با بی‌حوصلگی مقابله می‌کنند. جویدن به مراقبت از دندان و کاهش پلاک کمک می‌کند.",
 	"bodyDescription": "This delicious rawhide-based snack richly filled with rabbit is a treat that is sure to please any four-legged friend. These tacos provide nice, long chewing fun and thus help fight boredom. Moreover, chewing contributes to good dental care and reduction of plaque. The tacos are rich in meat and contain plenty of animal proteins.",
 	"ogTitle": "تاکو با پوست خام و خرگوش | Voskes",
@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21144_-_tacos_with_rabbit_400g_-_gs1-gs1_packshot-2064-320-p.webp?v=bTuF5N",
-			"alt": "TACO WITH RAWHIDE & RABBIT | taco met konijn | VOSKES"
+			"alt": "تاکو با پوست خام و خرگوش | taco met konijn | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-21142_-_inhoud_tacos_with_chicken_400g_-_gs1-gs1_product-2064-320-p.webp?v=bTuF5X",
-			"alt": "TACO WITH RAWHIDE & RABBIT | inhoud taco met eend | VOSKES"
+			"alt": "تاکو با پوست خام و خرگوش | inhoud taco met eend | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",

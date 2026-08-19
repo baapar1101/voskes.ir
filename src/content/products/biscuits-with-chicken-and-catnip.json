@@ -4,20 +4,20 @@
 	"gtin13": "8711242018389",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Spoil your cat with Voskes Crispy & Crunchy treats! The perfect combination of a crunchy exterior and a soft, tasty filling. Enriched with taurine for a healthy heart, these snacks are ideal as a treat or reward. A delicious delight your house tiger will come back to again and again! \",\n    \"name\": \"BISCUITS WITH CHICKEN & CATNIP\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21553-biscuits-with-chicken-and-catnip-gs1.png\",\n    \"sku\": \"21553\",\n    \"gtin13\": \"8711242018389\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "بیسکویت با مرغ و علف گربه | Voskes",
-	"heading": "BISCUITS WITH CHICKEN & CATNIP",
+	"heading": "BISCUITS WITH CHICKEN &amp; CATNIP",
 	"description": "گربه‌تان را با تشویقی‌های ترد Voskes نوازش کنید! ترکیبی عالی از پوسته ترد و مغز نرم و خوشمزه، غنی‌شده با تائورین.",
-	"bodyDescription": "Spoil your cat with Voskes Crispy & Crunchy treats! The perfect combination of a crunchy exterior and a soft, tasty filling. Enriched with taurine for a healthy heart, these snacks are ideal as a treat or reward. A delicious delight your house tiger will come back to again and again!",
+	"bodyDescription": "Spoil your cat with Voskes Crispy &amp; Crunchy treats! The perfect combination of a crunchy exterior and a soft, tasty filling. Enriched with taurine for a healthy heart, these snacks are ideal as a treat or reward. A delicious delight your house tiger will come back to again and again!",
 	"ogTitle": "بیسکویت با مرغ و علف گربه | Voskes",
 	"ogDescription": "گربه‌تان را با تشویقی‌های ترد Voskes نوازش کنید! ترکیبی عالی از پوسته ترد و مغز نرم و خوشمزه، غنی‌شده با تائورین.",
 	"canonical": "https://voskes.ir/products/biscuits-with-chicken-and-catnip",
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21553-biscuits-with-chicken-and-catnip-gs1-p.webp",
-			"alt": "BISCUITS WITH CHICKEN & CATNIP |  | VOSKES"
+			"alt": "بیسکویت با مرغ و گربه ای | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21553-biscuits-with-chicken-and-catnip-inhoud-p.webp",
-			"alt": "BISCUITS WITH CHICKEN & CATNIP |  | VOSKES"
+			"alt": "بیسکویت با مرغ و گربه ای | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242018389",
 	"composition": "Derivatives of vegetable origin (catnip 0.5%), meat and animal derivatives (chicken 25%), fish and fish derivatives, oils and fats, milk and milk derivatives, minerals",
-	"analyticalComponents": "Moisture 10%, crude protein 18%, crude ash 8%, crude oils & fats 16%, crude fibre 4%",
+	"analyticalComponents": "Moisture 10%, crude protein 18%, crude ash 8%, crude oils &amp; fats 16%, crude fibre 4%",
 	"additives": "Taurine 2000 mg/kg",
 	"benefits": [],
 	"extraHtml": null

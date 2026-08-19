@@ -4,7 +4,7 @@
 	"gtin13": "8711242018549",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" The triple layer with beef, surimi, and pumpkin is a unique 3-layer snack that combines taste and functionality. Made with only natural ingredients and completely grain-free, so your cat can enjoy it responsibly. Thanks to sunflower oil, rich in omega fatty acids, these snacks support healthy skin and a shiny coat. The combination of tender beef, refined surimi, and soft pumpkin creates an irresistible treat that not only brings pleasure but also provides valuable support for your cat’s health. \",\n    \"name\": \"TRIPLE LAYER WITH BEEF, SURIMI & PUMPKIN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21564_-_8711242018549_-_triple_layer_beef_surimi_pumpkin_-_7x30gr_left.png\",\n    \"sku\": \"21564\",\n    \"gtin13\": \"8711242018549\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "۲۱۵۶۴ — سه‌لایه با گوشت گاو، سوریمی و کدو حلوایی",
-	"heading": "TRIPLE LAYER WITH BEEF, SURIMI & PUMPKIN",
+	"heading": "TRIPLE LAYER WITH BEEF, SURIMI &amp; PUMPKIN",
 	"description": "The triple layer with beef, surimi, and pumpkin is a unique 3-layer snack that combines taste and functionality. Made with only natural ingredients and completely grain-free, so your cat can enjoy it responsibly. Thanks to sunflower oil, rich in omega fatty acids, these snacks support healthy skin and a shiny coat. The combination of tender beef, refined surimi, and soft pumpkin creates an irresistible treat that not only brings pleasure but also provides valuable support for your cat’s health.",
 	"bodyDescription": "The triple layer with beef, surimi, and pumpkin is a unique 3-layer snack that combines taste and functionality. Made with only natural ingredients and completely grain-free, so your cat can enjoy it responsibly. Thanks to sunflower oil, rich in omega fatty acids, these snacks support healthy skin and a shiny coat. The combination of tender beef, refined surimi, and soft pumpkin creates an irresistible treat that not only brings pleasure but also provides valuable support for your cat’s health.",
 	"ogTitle": "۲۱۵۶۴ — سه‌لایه با گوشت گاو، سوریمی و کدو حلوایی",
@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21564_-_8711242018549_-_triple_layer_beef_surimi_pumpkin_-_7x30gr_left-p.webp",
-			"alt": "TRIPLE LAYER WITH BEEF, SURIMI & PUMPKIN (7 X 30G) |  | VOSKES"
+			"alt": "سه لایه با گوشت گاو، سوریمی و کدو تنبل (7 × 30 گرم) | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21564-8711242018549-triple-layer-beef-surimi-pumpkin-30gr-content-p.webp",
-			"alt": "TRIPLE LAYER WITH BEEF, SURIMI & PUMPKIN (7 X 30G) |  | VOSKES"
+			"alt": "سه لایه با گوشت گاو، سوریمی و کدو تنبل (7 × 30 گرم) | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",

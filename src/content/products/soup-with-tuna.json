@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_0-210462-p.webp",
-			"alt": "SOUP WITH TUNA |  | VOSKES"
+			"alt": "سوپ با ماهی تن | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_voskes_cat_drink_visual_tuna_lr-gs1_product-2064-313-p.webp?v=bTTb9j",
-			"alt": "SOUP WITH TUNA |  | VOSKES"
+			"alt": "سوپ با ماهی تن | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017207",
 	"composition": "tuna 10%, tapioca starch, glycine, sunflower oil, xylose, f.o.s.",
-	"analyticalComponents": "moisture 93%, crude protein 4,5%, crude ash 0,5%, crude oils & fats 0,2%, crude fibre 0,5%.",
+	"analyticalComponents": "moisture 93%, crude protein 4,5%, crude ash 0,5%, crude oils &amp; fats 0,2%, crude fibre 0,5%.",
 	"additives": null,
 	"benefits": [],
 	"extraHtml": null

@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine_blik.webp",
-			"alt": "JELLY SARDINE | JELLY WETFOOD SARDINE | VOSKES"
+			"alt": "ژله سردین | ساردین ژله ای گرم | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_20564_jelly_sardine1.webp",
-			"alt": "JELLY SARDINE | JELLY WETFOOD SARDINE | VOSKES"
+			"alt": "ژله سردین | ساردین ژله ای گرم | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242016811",
 	"composition": "sardines 50%, rice 1,5%, vegetable gelatine 1%",
-	"analyticalComponents": "moisture 86%, crude protein 10%, crude ash 2%, crude oils & fats 0,8%, crude fibre 0,5%.",
+	"analyticalComponents": "moisture 86%, crude protein 10%, crude ash 2%, crude oils &amp; fats 0,8%, crude fibre 0,5%.",
 	"additives": null,
 	"benefits": [],
 	"extraHtml": null

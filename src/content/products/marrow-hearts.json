@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-11146_-_marrow_hearts_400gr_-_gs1-gs1_packshot-2064-20-p.webp?v=bUmGpE",
-			"alt": "MARROW HEARTS |  | VOSKES"
+			"alt": "قلب های مغزی | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-11146_-_marrow_hearts_400gr_inhoud_-_gs1-gs1_product-2064-20-p.webp?v=bUmGp4",
-			"alt": "MARROW HEARTS |  | VOSKES"
+			"alt": "قلب های مغزی | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -27,9 +27,9 @@
 		"value": "۴۰۰ گرم | ۷۵۰ گرم"
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242980402",
-	"composition": "Cereals, oils & fats, sugars, minerals.",
-	"analyticalComponents": "Crude protein 9%, crude oils & fats 10%, crude ash 2.5%, crude fibre 1%,",
-	"additives": "NUTRITIONAL ADDITIVES per kg: vitamin A: 12,500 I.U. - vitamin D3: 1,000 I.U. - vitamin E: 90 mg\nTECHNOLOGICAL ADDITIVES : Contains EU-approved antioxidants & and colourants.",
+	"composition": "Cereals, oils &amp; fats, sugars, minerals.",
+	"analyticalComponents": "Crude protein 9%, crude oils &amp; fats 10%, crude ash 2.5%, crude fibre 1%,",
+	"additives": "NUTRITIONAL ADDITIVES per kg: vitamin A: 12,500 I.U. - vitamin D3: 1,000 I.U. - vitamin E: 90 mg\nTECHNOLOGICAL ADDITIVES : Contains EU-approved antioxidants &amp; and colourants.",
 	"benefits": [],
 	"extraHtml": null
 }

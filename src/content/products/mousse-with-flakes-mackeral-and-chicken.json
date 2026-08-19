@@ -4,7 +4,7 @@
 	"gtin13": "8711242018440",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Voskes Mousse with mackerel and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health. \",\n    \"name\": \"MOUSSE WITH FLAKES MACKERAL & CHICKEN\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/21559_-_8711242018440_-_mouse_with_flakes_mackeral__chicken_-_7x30gr_left.png\",\n    \"sku\": \"21559\",\n    \"gtin13\": \"8711242018440\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "موس با تکه‌های خال‌مخالی و مرغ | Voskes",
-	"heading": "MOUSSE WITH FLAKES MACKERAL & CHICKEN",
+	"heading": "MOUSSE WITH FLAKES MACKERAL &amp; CHICKEN",
 	"description": "Voskes Mousse with mackerel and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
 	"bodyDescription": "Voskes Mousse with mackerel and chicken pieces is a tasty, grain-free treat specially developed to responsibly spoil your cat. Thanks to the presence of fish, rich in omega fatty acids, this snack supports healthy skin and a shiny coat. The addition of cranberries supports urinary tract health, while antioxidants contribute to a strong immune system. This way, your cat not only enjoys a delicious treat but also receives valuable support for its health.",
 	"ogTitle": "موس با تکه‌های خال‌مخالی و مرغ | Voskes",
@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21559_-_8711242018440_-_mouse_with_flakes_mackeral__chicken_-_7x30gr_left-p.webp",
-			"alt": "MOUSSE WITH FLAKES MACKERAL & CHICKEN (7 X 30G) |  | VOSKES"
+			"alt": "موس با پره خال مخالی و مرغ (7 × 30 گرم) | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/21559-8711242018440-mouse-with-flakes-mackeral-and-chicken-30gr-content-gs1-p.webp",
-			"alt": "MOUSSE WITH FLAKES MACKERAL & CHICKEN (7 X 30G) |  | VOSKES"
+			"alt": "موس با پره خال مخالی و مرغ (7 × 30 گرم) | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242018440",
 	"composition": "Fish and fish derivatives (mackeral 27%), meat and animal derivatives (chicken 26%), oils and fats, derivatives of vegetable, minerals, fruit (cranberry 0,02%)",
-	"analyticalComponents": "Moisture 81%, crude protein 14%, crude ash 1%, crude oils & fats 2%, crude fibre 0,5%",
+	"analyticalComponents": "Moisture 81%, crude protein 14%, crude ash 1%, crude oils &amp; fats 2%, crude fibre 0,5%",
 	"additives": "Nutritional additives: Vitamine E 150mg/kg, Vitamine C (3a300) 300mg/kg",
 	"benefits": [],
 	"extraHtml": null

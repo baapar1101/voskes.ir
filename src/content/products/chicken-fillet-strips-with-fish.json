@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14168_-_chicken_fillet_strips_with_fish_400g-gs1-gs1_packshot-2064-63-p.webp?v=bUfzMV",
-			"alt": "CHICKEN FILLET STRIPS WITH FISH |  | VOSKES"
+			"alt": "نوارهای فیله مرغ با ماهی | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-14168_-_chicken_fillet_strips_with_fish_400g_inhoud-gs1-gs1_product-2064-63-p.webp?v=bUfzN6",
-			"alt": "CHICKEN FILLET STRIPS WITH FISH |  | VOSKES"
+			"alt": "نوارهای فیله مرغ با ماهی | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -27,7 +27,7 @@
 		"value": "۴۰۰ گرم"
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242954496",
-	"composition": "Meat and animal derivatives (chicken 75% ), fish & fish derivatives (cod 20%), derivatives of vegetable origin, minerals.",
+	"composition": "Meat and animal derivatives (chicken 75% ), fish &amp; fish derivatives (cod 20%), derivatives of vegetable origin, minerals.",
 	"analyticalComponents": "Crude protein 51.7% - moisture 18% - crude ash 4.3% - crude oils and fats 1.8% - crude fibre 0.1%.",
 	"additives": null,
 	"benefits": [],

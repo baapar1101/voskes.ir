@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_0-210431-gs1_packshot-2064-310-p.webp?v=bT7r0h",
-			"alt": "SOUP WITH CHICKEN | SOUP WITH CHICKEN | VOSKES"
+			"alt": "سوپ با مرغ | سوپ با مرغ | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_voskes_cat_drink_visual_chicken_lr-gs1_product-2064-310-p.webp?v=bTTb6s",
-			"alt": "SOUP WITH CHICKEN |  | VOSKES"
+			"alt": "سوپ با مرغ | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017146",
 	"composition": "chicken 10%, tapioca starch, glycine, sunflower oil, xylose, f.o.s.",
-	"analyticalComponents": "moisture 92,5%, crude protein 4,5%, crude ash 0,5%, crude oils & fats 0,2%, crude fibre 0,5%.",
+	"analyticalComponents": "moisture 92,5%, crude protein 4,5%, crude ash 0,5%, crude oils &amp; fats 0,2%, crude fibre 0,5%.",
 	"additives": null,
 	"benefits": [],
 	"extraHtml": null

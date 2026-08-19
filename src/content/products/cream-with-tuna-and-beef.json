@@ -4,7 +4,7 @@
 	"gtin13": "8711242017283",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Delicious, creamy tuna and beef-based snack. This treat is ideal as a healthy snack or as an extra topping on food. Thanks to the handy packaging with resealable twist-off cap, this snack will also keep in the fridge for 2 days after opening. \",\n    \"name\": \"CREAM   WITH TUNA & BEEF\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_0-210741-gs1_packshot-2064-316.png?v=bTTb2v\",\n    \"sku\": \"21074\",\n    \"gtin13\": \"8711242017283\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "کرم با ماهی تن و گوشت گاو | Voskes",
-	"heading": "CREAM  WITH TUNA & BEEF",
+	"heading": "CREAM  WITH TUNA &amp; BEEF",
 	"description": "خوراکی کرمی و خوشمزه بر پایه ماهی تن و گوشت گاو؛ ایده‌آل به‌عنوان میان‌وعده سالم یا تاپینگ روی غذا.",
 	"bodyDescription": "Delicious, creamy tuna and beef-based snack. This treat is ideal as a healthy snack or as an extra topping on food. Thanks to the handy packaging with resealable twist-off cap, this snack will also keep in the fridge for 2 days after opening.",
 	"ogTitle": "کرم با ماهی تن و گوشت گاو | Voskes",
@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-gs1_0-210741-gs1_packshot-2064-316-p.webp?v=bTTb2v",
-			"alt": "CREAM WITH TUNA & BEEF |  | VOSKES"
+			"alt": "خامه با ماهی تن و گوشت گاو | | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/gs1/gs1-creme_delight_contains1-gs1_product-2064-316-p.webp?v=bTTb2W",
-			"alt": "CREAM WITH TUNA & BEEF |  | VOSKES"
+			"alt": "خامه با ماهی تن و گوشت گاو | | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
@@ -28,7 +28,7 @@
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242017283",
 	"composition": "tuna 22%, potato starch, beef 3%, fish extract",
-	"analyticalComponents": "moisture 87%, crude protein 6,5%, crude ash 1%, crude oils & fats 0,4%, crude fibre 0,5%.",
+	"analyticalComponents": "moisture 87%, crude protein 6,5%, crude ash 1%, crude oils &amp; fats 0,4%, crude fibre 0,5%.",
 	"additives": null,
 	"benefits": [],
 	"extraHtml": null

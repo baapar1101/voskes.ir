@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 93308 8",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Cups filled with deliciously tender, hand-selected pieces of fish. The exquisite flavours of the sea are a true delicacy for your cat. \",\n    \"name\": \"JELLY CUPS   TUNA & CRAB\",\n    \"image\": \"https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_42.png\",\n    \"sku\": \"18171\",\n    \"gtin13\": \"87 112 42 93308 8\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "ژله لیوانی ماهی تن و خرچنگ | Voskes",
-	"heading": "ژله لیوانی  TUNA & CRAB",
+	"heading": "ژله لیوانی  TUNA &amp; CRAB",
 	"description": "ژله لیوانی پر از تکه‌های لطیف و دست‌چین ماهی و خرچنگ. طعم‌های ظریف دریا خوراکی بی‌نظیری برای گربه شماست.",
 	"bodyDescription": "لیوان‌هایی پر از تکه‌های لطیف و دست‌چین ماهی. طعم‌های نفیس دریا خوراکی بی‌نظیری برای گربه شماست.",
 	"ogTitle": "ژله لیوانی ماهی تن و خرچنگ | Voskes",
@@ -13,11 +13,11 @@
 	"images": [
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_artboard_–_42-p.webp",
-			"alt": "JELLY CUPS TUNA & CRAB (6 X 25G) | Kattensnack met tonijn en krab | Voskes Treats | VOSKES"
+			"alt": "ژله فنجان ماهی تن و خرچنگ (6 X 25G) | Kattensnack با tonijn en krab | رفتارهای Voskes | VOSKES"
 		},
 		{
 			"src": "https://sanux.100.nl/uploads/gdpetfood.com/original/gs1_1-18171-p.webp",
-			"alt": "JELLY CUPS TUNA & CRAB (6 X 25G) | Kattensnack met tonijn en krab | Voskes Treats | VOSKES"
+			"alt": "ژله فنجان ماهی تن و خرچنگ (6 X 25G) | Kattensnack با tonijn en krab | رفتارهای Voskes | VOSKES"
 		}
 	],
 	"sliderPrevLabel": "اسلاید قبلی",
