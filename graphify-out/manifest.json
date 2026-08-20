@@ -1,13 +1,13 @@
 {
   ".astro/collections/blog.schema.json": {
-    "mtime": 1787226699.3931217,
-    "seen": 1787226709.8751667,
+    "mtime": 1787226956.725987,
+    "seen": 1787226959.2712884,
     "ast_hash": "0adfe8b5d028e8cbe4e38027e3b67a58",
     "semantic_hash": ""
   },
   ".astro/collections/products.schema.json": {
-    "mtime": 1787226699.3946362,
-    "seen": 1787226709.8751788,
+    "mtime": 1787226956.725987,
+    "seen": 1787226959.271293,
     "ast_hash": "1d759ba14a4f09277df328bd28491fd3",
     "semantic_hash": ""
   },
@@ -24,14 +24,14 @@
     "semantic_hash": "8aeea624d36ca2b4c7d0e0748b76ba28"
   },
   ".astro/content.d.ts": {
-    "mtime": 1787226699.4288652,
-    "seen": 1787226709.8754604,
+    "mtime": 1787226956.7653482,
+    "seen": 1787226959.2715425,
     "ast_hash": "8cf71cf85dee6905031a1545941836e9",
     "semantic_hash": ""
   },
   ".astro/types.d.ts": {
-    "mtime": 1787226699.4288652,
-    "seen": 1787226709.8754618,
+    "mtime": 1787226956.7653482,
+    "seen": 1787226959.271544,
     "ast_hash": "f3d48b2aa569815a445d3509aa161559",
     "semantic_hash": ""
   },
@@ -468,15 +468,15 @@
     "semantic_hash": ""
   },
   "src/layouts/partials/footer.html": {
-    "mtime": 1787226689.1833756,
-    "seen": 1787226709.8832157,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3363307,
+    "seen": 1787226959.2789521,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/layouts/partials/header.html": {
-    "mtime": 1787226689.1848903,
-    "seen": 1787226709.8832169,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3363307,
+    "seen": 1787226959.278954,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/_blog.content.html": {
@@ -492,15 +492,15 @@
     "semantic_hash": ""
   },
   "src/pages/_blog.footer.html": {
-    "mtime": 1787226689.1480381,
-    "seen": 1787226709.883221,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3166916,
+    "seen": 1787226959.279145,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_blog.header.html": {
-    "mtime": 1787226689.1490436,
-    "seen": 1787226709.8832226,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3166916,
+    "seen": 1787226959.279146,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/_cat-food.content.html": {
@@ -516,15 +516,15 @@
     "semantic_hash": ""
   },
   "src/pages/_cat-food.footer.html": {
-    "mtime": 1787226689.1490436,
-    "seen": 1787226709.8832266,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3166916,
+    "seen": 1787226959.2794838,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_cat-food.header.html": {
-    "mtime": 1787226689.1508384,
-    "seen": 1787226709.8832276,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3182056,
+    "seen": 1787226959.2794852,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/_cat-treats.content.html": {
@@ -540,15 +540,15 @@
     "semantic_hash": ""
   },
   "src/pages/_cat-treats.footer.html": {
-    "mtime": 1787226689.1522546,
-    "seen": 1787226709.8832314,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3182056,
+    "seen": 1787226959.2796426,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_cat-treats.header.html": {
-    "mtime": 1787226689.1522546,
-    "seen": 1787226709.8832328,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3182056,
+    "seen": 1787226959.279644,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/_cat.content.html": {
@@ -564,15 +564,15 @@
     "semantic_hash": ""
   },
   "src/pages/_cat.footer.html": {
-    "mtime": 1787226689.1537669,
-    "seen": 1787226709.883237,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.319722,
+    "seen": 1787226959.2797947,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_cat.header.html": {
-    "mtime": 1787226689.1537669,
-    "seen": 1787226709.8832378,
-    "ast_hash": "588ba15caec25c25885180d47e2c34b7",
+    "mtime": 1787226947.319722,
+    "seen": 1787226959.2797964,
+    "ast_hash": "ca9d91a313d6819bbf4d984444705e46",
     "semantic_hash": ""
   },
   "src/pages/_contact.content.html": {
@@ -588,15 +588,15 @@
     "semantic_hash": ""
   },
   "src/pages/_contact.footer.html": {
-    "mtime": 1787226689.155358,
-    "seen": 1787226709.8833246,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.319722,
+    "seen": 1787226959.279947,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_contact.header.html": {
-    "mtime": 1787226689.155358,
-    "seen": 1787226709.8833258,
-    "ast_hash": "f4294b0deb0bf6982f769bb2d307f0d8",
+    "mtime": 1787226947.319722,
+    "seen": 1787226959.2799482,
+    "ast_hash": "828ee932ad96f473230d295aea5d8ace",
     "semantic_hash": ""
   },
   "src/pages/_cookies.content.html": {
@@ -612,15 +612,15 @@
     "semantic_hash": ""
   },
   "src/pages/_cookies.footer.html": {
-    "mtime": 1787226689.1563656,
-    "seen": 1787226709.8834145,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3212342,
+    "seen": 1787226959.2801003,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_cookies.header.html": {
-    "mtime": 1787226689.1563656,
-    "seen": 1787226709.8834164,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3212342,
+    "seen": 1787226959.2801015,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/_dog-treats.content.html": {
@@ -636,15 +636,15 @@
     "semantic_hash": ""
   },
   "src/pages/_dog-treats.footer.html": {
-    "mtime": 1787226689.1578774,
-    "seen": 1787226709.883422,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3212342,
+    "seen": 1787226959.2802536,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_dog-treats.header.html": {
-    "mtime": 1787226689.1578774,
-    "seen": 1787226709.8834238,
-    "ast_hash": "737aaf63eb2714fbe25a560a35541d76",
+    "mtime": 1787226947.3227472,
+    "seen": 1787226959.280255,
+    "ast_hash": "4c5cf70821212ec47d9b908fe404d4de",
     "semantic_hash": ""
   },
   "src/pages/_index.content.html": {
@@ -660,15 +660,15 @@
     "semantic_hash": ""
   },
   "src/pages/_index.footer.html": {
-    "mtime": 1787226689.1593883,
-    "seen": 1787226709.883429,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3227472,
+    "seen": 1787226959.2804983,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_index.header.html": {
-    "mtime": 1787226689.1604033,
-    "seen": 1787226709.883431,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3227472,
+    "seen": 1787226959.2804997,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/_login.content.html": {
@@ -684,15 +684,15 @@
     "semantic_hash": ""
   },
   "src/pages/_login.footer.html": {
-    "mtime": 1787226689.1604033,
-    "seen": 1787226709.8835154,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3242593,
+    "seen": 1787226959.2806602,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_login.header.html": {
-    "mtime": 1787226689.161918,
-    "seen": 1787226709.8835168,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3242593,
+    "seen": 1787226959.2806613,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/_our-story.content.html": {
@@ -708,15 +708,15 @@
     "semantic_hash": ""
   },
   "src/pages/_our-story.footer.html": {
-    "mtime": 1787226689.161918,
-    "seen": 1787226709.8835993,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3242593,
+    "seen": 1787226959.2808285,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_our-story.header.html": {
-    "mtime": 1787226689.1633687,
-    "seen": 1787226709.8836007,
-    "ast_hash": "3b27b58318315943619a64062e5f509e",
+    "mtime": 1787226947.3242593,
+    "seen": 1787226959.2808297,
+    "ast_hash": "e78b044fd6764dc25abd41961cf45743",
     "semantic_hash": ""
   },
   "src/pages/_privacy.content.html": {
@@ -732,15 +732,15 @@
     "semantic_hash": ""
   },
   "src/pages/_privacy.footer.html": {
-    "mtime": 1787226689.164498,
-    "seen": 1787226709.883682,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3257895,
+    "seen": 1787226959.2810009,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/_privacy.header.html": {
-    "mtime": 1787226689.164498,
-    "seen": 1787226709.8836834,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3257895,
+    "seen": 1787226959.281002,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complementary-wet-food.content.html": {
@@ -756,15 +756,15 @@
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complementary-wet-food.footer.html": {
-    "mtime": 1787226689.1671326,
-    "seen": 1787226709.8836887,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3273017,
+    "seen": 1787226959.2811613,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complementary-wet-food.header.html": {
-    "mtime": 1787226689.1671326,
-    "seen": 1787226709.8836904,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3273017,
+    "seen": 1787226959.2811623,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complete-dry-food.content.html": {
@@ -780,15 +780,15 @@
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complete-dry-food.footer.html": {
-    "mtime": 1787226689.1686454,
-    "seen": 1787226709.8836942,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3273017,
+    "seen": 1787226959.2813342,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complete-dry-food.header.html": {
-    "mtime": 1787226689.1691897,
-    "seen": 1787226709.8836951,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3273017,
+    "seen": 1787226959.2813354,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complete-wet-food.content.html": {
@@ -804,15 +804,15 @@
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complete-wet-food.footer.html": {
-    "mtime": 1787226689.1696944,
-    "seen": 1787226709.8836992,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3288693,
+    "seen": 1787226959.2814918,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/cat-food/_complete-wet-food.header.html": {
-    "mtime": 1787226689.1712694,
-    "seen": 1787226709.8837001,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3288693,
+    "seen": 1787226959.281493,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_creams.content.html": {
@@ -828,15 +828,15 @@
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_creams.footer.html": {
-    "mtime": 1787226689.1722732,
-    "seen": 1787226709.8837028,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3309147,
+    "seen": 1787226959.281657,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_creams.header.html": {
-    "mtime": 1787226689.1737833,
-    "seen": 1787226709.8837035,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3309147,
+    "seen": 1787226959.2816586,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_drinks.content.html": {
@@ -852,15 +852,15 @@
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_drinks.footer.html": {
-    "mtime": 1787226689.1737833,
-    "seen": 1787226709.883707,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3309147,
+    "seen": 1787226959.2818182,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_drinks.header.html": {
-    "mtime": 1787226689.1752932,
-    "seen": 1787226709.8837085,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3309147,
+    "seen": 1787226959.2818193,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_jelly-cups.content.html": {
@@ -876,15 +876,15 @@
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_jelly-cups.footer.html": {
-    "mtime": 1787226689.1763027,
-    "seen": 1787226709.883712,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3324323,
+    "seen": 1787226959.281971,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_jelly-cups.header.html": {
-    "mtime": 1787226689.1763027,
-    "seen": 1787226709.883713,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3324323,
+    "seen": 1787226959.2819722,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_soft-chewy-snacks.content.html": {
@@ -900,15 +900,15 @@
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_soft-chewy-snacks.footer.html": {
-    "mtime": 1787226689.1778123,
-    "seen": 1787226709.8837166,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3334484,
+    "seen": 1787226959.2821314,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/cat-treats/_soft-chewy-snacks.header.html": {
-    "mtime": 1787226689.1778123,
-    "seen": 1787226709.8837175,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3334484,
+    "seen": 1787226959.2821324,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/dog-treats/_biscuits.content.html": {
@@ -924,15 +924,15 @@
     "semantic_hash": ""
   },
   "src/pages/dog-treats/_biscuits.footer.html": {
-    "mtime": 1787226689.1808534,
-    "seen": 1787226709.8837206,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3348198,
+    "seen": 1787226959.2822928,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/dog-treats/_biscuits.header.html": {
-    "mtime": 1787226689.1808534,
-    "seen": 1787226709.883722,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3348198,
+    "seen": 1787226959.282294,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "src/pages/dog-treats/_training-treats.content.html": {
@@ -948,15 +948,15 @@
     "semantic_hash": ""
   },
   "src/pages/dog-treats/_training-treats.footer.html": {
-    "mtime": 1787226689.1818595,
-    "seen": 1787226709.8837245,
-    "ast_hash": "da0a059f338b0b10cefeb01e93ee8953",
+    "mtime": 1787226947.3348198,
+    "seen": 1787226959.2824976,
+    "ast_hash": "62e0483eeeea1c189317d61cb445e136",
     "semantic_hash": ""
   },
   "src/pages/dog-treats/_training-treats.header.html": {
-    "mtime": 1787226689.1833756,
-    "seen": 1787226709.8837254,
-    "ast_hash": "26377dbcb507865dfc46d71a7e8b9b7b",
+    "mtime": 1787226947.3363307,
+    "seen": 1787226959.2824996,
+    "ast_hash": "da0ec5bd3ef77ed447772a3f7f9dbcd0",
     "semantic_hash": ""
   },
   "public/assets/images/bg-img.webp": {
