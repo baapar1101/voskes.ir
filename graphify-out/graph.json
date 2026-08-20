@@ -1233,6 +1233,30 @@
       "source_location": "L1"
     },
     {
+      "id": "public_js_modules_pagination_loadpagefromstore",
+      "label": "loadPageFromStore()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 34,
+      "community_name": "pagination.mjs",
+      "file_type": "code",
+      "norm_label": "loadpagefromstore()",
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L14"
+    },
+    {
+      "id": "public_js_modules_pagination_updatepagination",
+      "label": "updatePagination()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 34,
+      "community_name": "pagination.mjs",
+      "file_type": "code",
+      "norm_label": "updatepagination()",
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L3"
+    },
+    {
       "id": "scripts_parity_check_check",
       "label": "check()",
       "_callable": true,
@@ -2181,7 +2205,7 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_analyticalcomponents_anyof",
+      "id": "astro_collections_products_schema_additives_anyof",
       "label": "anyOf",
       "_origin": "ast",
       "community": 1,
@@ -2189,7 +2213,7 @@
       "file_type": "code",
       "norm_label": "anyof",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L133"
+      "source_location": "L143"
     },
     {
       "id": "astro_collections_products_schema_canonical_type",
@@ -2201,6 +2225,17 @@
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L64"
+    },
+    {
+      "id": "astro_collections_products_schema_ctahref_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L113"
     },
     {
       "id": "astro_collections_products_schema_extrahtml_anyof",
@@ -2225,17 +2260,6 @@
       "source_location": "L19"
     },
     {
-      "id": "astro_collections_products_schema_jsonld_anyof",
-      "label": "anyOf",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "anyof",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L29"
-    },
-    {
       "id": "astro_collections_products_schema_ogdescription_type",
       "label": "type",
       "_origin": "ast",
@@ -2258,15 +2282,15 @@
       "source_location": "L4"
     },
     {
-      "id": "astro_collections_products_schema_properties_analyticalcomponents",
-      "label": "analyticalComponents",
+      "id": "astro_collections_products_schema_properties_additives",
+      "label": "additives",
       "_origin": "ast",
       "community": 1,
       "community_name": "properties",
       "file_type": "code",
-      "norm_label": "analyticalcomponents",
+      "norm_label": "additives",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L132"
+      "source_location": "L142"
     },
     {
       "id": "astro_collections_products_schema_properties_canonical",
@@ -2278,6 +2302,17 @@
       "norm_label": "canonical",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L63"
+    },
+    {
+      "id": "astro_collections_products_schema_properties_ctahref",
+      "label": "ctaHref",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "ctahref",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L112"
     },
     {
       "id": "astro_collections_products_schema_properties_extrahtml",
@@ -2302,17 +2337,6 @@
       "source_location": "L18"
     },
     {
-      "id": "astro_collections_products_schema_properties_jsonld",
-      "label": "jsonLd",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "jsonld",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L28"
-    },
-    {
       "id": "astro_collections_products_schema_properties_ogdescription",
       "label": "ogDescription",
       "_origin": "ast",
@@ -2324,29 +2348,40 @@
       "source_location": "L60"
     },
     {
-      "id": "astro_collections_products_schema_properties_schema",
-      "label": "$schema",
+      "id": "astro_collections_products_schema_properties_sku",
+      "label": "sku",
       "_origin": "ast",
       "community": 1,
       "community_name": "properties",
       "file_type": "code",
-      "norm_label": "$schema",
+      "norm_label": "sku",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L198"
+      "source_location": "L8"
     },
     {
-      "id": "astro_collections_products_schema_properties_sliderprevlabel",
-      "label": "sliderPrevLabel",
+      "id": "astro_collections_products_schema_properties_title",
+      "label": "title",
       "_origin": "ast",
       "community": 1,
       "community_name": "properties",
       "file_type": "code",
-      "norm_label": "sliderprevlabel",
+      "norm_label": "title",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L84"
+      "source_location": "L38"
     },
     {
-      "id": "astro_collections_products_schema_schema_type",
+      "id": "astro_collections_products_schema_sku_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "astro_collections_products_schema_title_type",
       "label": "type",
       "_origin": "ast",
       "community": 1,
@@ -2354,18 +2389,7 @@
       "file_type": "code",
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L199"
-    },
-    {
-      "id": "astro_collections_products_schema_sliderprevlabel_type",
-      "label": "type",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "type",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L85"
+      "source_location": "L39"
     },
     {
       "id": "astro_collections_blog_schema",
@@ -4788,26 +4812,26 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_ctahref_anyof",
-      "label": "anyOf",
+      "id": "public_js_modules_pagination",
+      "label": "pagination.mjs",
       "_origin": "ast",
       "community": 34,
-      "community_name": "ctaHref",
+      "community_name": "pagination.mjs",
       "file_type": "code",
-      "norm_label": "anyof",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L113"
+      "norm_label": "pagination.mjs",
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_properties_ctahref",
-      "label": "ctaHref",
+      "id": "public_js_modules_pagination_page",
+      "label": "page",
       "_origin": "ast",
       "community": 34,
-      "community_name": "ctaHref",
+      "community_name": "pagination.mjs",
       "file_type": "code",
-      "norm_label": "ctahref",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L112"
+      "norm_label": "page",
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L32"
     },
     {
       "id": "scripts_parity_check",
@@ -7038,26 +7062,26 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_additives_anyof",
+      "id": "astro_collections_products_schema_analyticalcomponents_anyof",
       "label": "anyOf",
       "_origin": "ast",
       "community": 61,
-      "community_name": "additives",
+      "community_name": "analyticalComponents",
       "file_type": "code",
       "norm_label": "anyof",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L143"
+      "source_location": "L133"
     },
     {
-      "id": "astro_collections_products_schema_properties_additives",
-      "label": "additives",
+      "id": "astro_collections_products_schema_properties_analyticalcomponents",
+      "label": "analyticalComponents",
       "_origin": "ast",
       "community": 61,
-      "community_name": "additives",
+      "community_name": "analyticalComponents",
       "file_type": "code",
-      "norm_label": "additives",
+      "norm_label": "analyticalcomponents",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L142"
+      "source_location": "L132"
     },
     {
       "id": "astro_collections_products_schema_available_anyof",
@@ -7148,26 +7172,26 @@
       "source_location": "L41"
     },
     {
-      "id": "astro_collections_products_schema_properties_sku",
-      "label": "sku",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "sku",
-      "file_type": "code",
-      "norm_label": "sku",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L8"
-    },
-    {
-      "id": "astro_collections_products_schema_sku_anyof",
+      "id": "astro_collections_products_schema_jsonld_anyof",
       "label": "anyOf",
       "_origin": "ast",
       "community": 66,
-      "community_name": "sku",
+      "community_name": "jsonLd",
       "file_type": "code",
       "norm_label": "anyof",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L9"
+      "source_location": "L29"
+    },
+    {
+      "id": "astro_collections_products_schema_properties_jsonld",
+      "label": "jsonLd",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "jsonLd",
+      "file_type": "code",
+      "norm_label": "jsonld",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L28"
     },
     {
       "id": "astro_collections_products_schema_ogtitle_type",
@@ -7192,26 +7216,26 @@
       "source_location": "L57"
     },
     {
-      "id": "astro_collections_products_schema_properties_title",
-      "label": "title",
+      "id": "astro_collections_products_schema_properties_schema",
+      "label": "$schema",
       "_origin": "ast",
       "community": 68,
-      "community_name": "title",
+      "community_name": "$schema",
       "file_type": "code",
-      "norm_label": "title",
+      "norm_label": "$schema",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L38"
+      "source_location": "L198"
     },
     {
-      "id": "astro_collections_products_schema_title_type",
+      "id": "astro_collections_products_schema_schema_type",
       "label": "type",
       "_origin": "ast",
       "community": 68,
-      "community_name": "title",
+      "community_name": "$schema",
       "file_type": "code",
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L39"
+      "source_location": "L199"
     },
     {
       "id": "astro_collections_products_schema_properties_slidernextlabel",
@@ -7245,6 +7269,28 @@
       "norm_label": "glide.mjs",
       "source_file": "public/js/third_party/glide.mjs",
       "source_location": "L1"
+    },
+    {
+      "id": "astro_collections_products_schema_properties_sliderprevlabel",
+      "label": "sliderPrevLabel",
+      "_origin": "ast",
+      "community": 70,
+      "community_name": "sliderPrevLabel",
+      "file_type": "code",
+      "norm_label": "sliderprevlabel",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L84"
+    },
+    {
+      "id": "astro_collections_products_schema_sliderprevlabel_type",
+      "label": "type",
+      "_origin": "ast",
+      "community": 70,
+      "community_name": "sliderPrevLabel",
+      "file_type": "code",
+      "norm_label": "type",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L85"
     },
     {
       "id": "astro_collections_products_schema_properties_slug",
@@ -12010,6 +12056,39 @@
       "weight": 1.0
     },
     {
+      "source": "public_js_modules_pagination",
+      "target": "public_js_modules_pagination_loadpagefromstore",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "public_js_modules_pagination",
+      "target": "public_js_modules_pagination_updatepagination",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "public_js_modules_pagination",
+      "target": "public_js_modules_pagination_page",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
       "source": "public_js_modules_popup",
       "target": "public_js_modules_popup_createcookie",
       "relation": "contains",
@@ -15606,5 +15685,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "5efddcfca550ae9c096ef22858a91dcfdaece806"
+  "built_at_commit": "82f47450f1849c29fdbbb7d2df20ce20443207e1"
 }

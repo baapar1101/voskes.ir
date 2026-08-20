@@ -33,7 +33,7 @@
   "31": "login.astro",
   "32": "privacy.astro",
   "33": "cookies.js",
-  "34": "expands.mjs",
+  "34": "ctaHref",
   "35": "parity-check.mjs",
   "36": "static-server.mjs",
   "37": "astro",
@@ -65,12 +65,11 @@
   "63": "bodyDescription",
   "64": "composition",
   "65": "heading",
+  "66": "sku",
   "67": "ogTitle",
-  "68": "$schema",
+  "68": "title",
   "69": "sliderNextLabel",
-  "70": "sliderPrevLabel",
   "71": "slug",
   "72": "extraction-spec.md",
-  "73": "start-preview.ps1",
-  "75": "analyticalComponents"
+  "73": "start-preview.ps1"
 }
