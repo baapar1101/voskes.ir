@@ -2205,17 +2205,6 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_additives_anyof",
-      "label": "anyOf",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "anyof",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L143"
-    },
-    {
       "id": "astro_collections_products_schema_canonical_type",
       "label": "type",
       "_origin": "ast",
@@ -2260,6 +2249,17 @@
       "source_location": "L19"
     },
     {
+      "id": "astro_collections_products_schema_jsonld_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L29"
+    },
+    {
       "id": "astro_collections_products_schema_ogdescription_type",
       "label": "type",
       "_origin": "ast",
@@ -2280,17 +2280,6 @@
       "norm_label": "properties",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L4"
-    },
-    {
-      "id": "astro_collections_products_schema_properties_additives",
-      "label": "additives",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "additives",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L142"
     },
     {
       "id": "astro_collections_products_schema_properties_canonical",
@@ -2335,6 +2324,17 @@
       "norm_label": "gtin13",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L18"
+    },
+    {
+      "id": "astro_collections_products_schema_properties_jsonld",
+      "label": "jsonLd",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "jsonld",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L28"
     },
     {
       "id": "astro_collections_products_schema_properties_ogdescription",
@@ -4831,7 +4831,7 @@
       "file_type": "code",
       "norm_label": "page",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L32"
+      "source_location": "L34"
     },
     {
       "id": "scripts_parity_check",
@@ -7172,26 +7172,26 @@
       "source_location": "L41"
     },
     {
-      "id": "astro_collections_products_schema_jsonld_anyof",
+      "id": "astro_collections_products_schema_additives_anyof",
       "label": "anyOf",
       "_origin": "ast",
       "community": 66,
-      "community_name": "jsonLd",
+      "community_name": "additives",
       "file_type": "code",
       "norm_label": "anyof",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L29"
+      "source_location": "L143"
     },
     {
-      "id": "astro_collections_products_schema_properties_jsonld",
-      "label": "jsonLd",
+      "id": "astro_collections_products_schema_properties_additives",
+      "label": "additives",
       "_origin": "ast",
       "community": 66,
-      "community_name": "jsonLd",
+      "community_name": "additives",
       "file_type": "code",
-      "norm_label": "jsonld",
+      "norm_label": "additives",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L28"
+      "source_location": "L142"
     },
     {
       "id": "astro_collections_products_schema_ogtitle_type",
@@ -12085,7 +12085,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L32",
+      "source_location": "L34",
       "weight": 1.0
     },
     {
@@ -15685,5 +15685,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "82f47450f1849c29fdbbb7d2df20ce20443207e1"
+  "built_at_commit": "5a14d1bcbfa6eb050b40b87319f054b22c1d7965"
 }

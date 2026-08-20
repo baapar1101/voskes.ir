@@ -1,16 +1,16 @@
 # Graph Report - voskes.ir  (2026-08-20)
 
 ## Corpus Check
-- 274 files · ~13,525,353 words
+- 275 files · ~13,813,129 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 673 nodes · 739 edges · 73 communities (55 shown, 18 thin omitted)
+- 677 nodes · 742 edges · 74 communities (55 shown, 19 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 10 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `5efddcfc`
+- Built from commit: `82f47450`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -49,7 +49,7 @@
 - login.astro
 - privacy.astro
 - cookies.js
-- ctaHref
+- pagination.mjs
 - parity-check.mjs
 - static-server.mjs
 - What You Must Do When Invoked
@@ -71,15 +71,16 @@
 - graphify reference: GitHub clone and cross-repo merge
 - graphify reference: transcribe video and audio
 - Voskes.ir project graph
-- additives
+- analyticalComponents
 - available
 - bodyDescription
 - composition
 - heading
-- sku
+- jsonLd
 - ogTitle
-- title
+- $schema
 - sliderNextLabel
+- sliderPrevLabel
 - slug
 - extraction-spec.md
 
@@ -104,7 +105,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (73 total, 18 thin omitted)
+## Communities (74 total, 19 thin omitted)
 
 ### Community 0 - "Base.astro"
 Cohesion: 0.16
@@ -112,7 +113,7 @@ Nodes (7): ./partials/cookie-banner.html?raw, ./partials/cookiebox.css?raw, ./pa
 
 ### Community 1 - "properties"
 Cohesion: 0.12
-Nodes (17): anyOf, type, anyOf, anyOf, anyOf, type, properties, analyticalComponents (+9 more)
+Nodes (17): anyOf, type, anyOf, anyOf, anyOf, type, properties, additives (+9 more)
 
 ### Community 2 - "content.d.ts"
 Cohesion: 0.06
@@ -303,19 +304,19 @@ Cohesion: 0.50
 Nodes (3): Local preview, Reproduce uncommitted artifacts, Run the server
 
 ## Knowledge Gaps
-- **370 isolated node(s):** `$schema`, `type`, `type`, `type`, `type` (+365 more)
+- **371 isolated node(s):** `$schema`, `type`, `type`, `type`, `type` (+366 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **18 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **19 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `properties` connect `properties` to `composition`, `heading`, `ctaHref`, `ogTitle`, `sku`, `required`, `sliderNextLabel`, `slug`, `required`, `title`, `properties`, `additives`, `available`, `bodyDescription`?**
+- **Why does `properties` connect `properties` to `composition`, `heading`, `jsonLd`, `ogTitle`, `$schema`, `required`, `sliderNextLabel`, `sliderPrevLabel`, `required`, `slug`, `properties`, `analyticalComponents`, `available`, `bodyDescription`?**
   _High betweenness centrality (0.012) - this node is a cross-community bridge._
 - **Why does `required` connect `required` to `required`?**
   _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **What connects `$schema`, `type`, `type` to the rest of the system?**
-  _370 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _371 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `properties` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
 - **Should `content.d.ts` be split into smaller, more focused modules?**

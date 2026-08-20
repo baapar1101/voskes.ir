@@ -13,7 +13,9 @@ function updatePagination(currentPage) {
 
 async function loadPageFromStore(page) {
 	const grid = document.querySelector('.products-grid');
-	if (!grid || page <= 1) return;
+	// Category pages already contain their own category-specific product
+	// cards. Never replace those cards with the unfiltered store listing.
+	if (!grid || page <= 1 || window.location.pathname !== '/products') return;
 
 	try {
 		const response = await fetch('/products', { headers: { Accept: 'text/html' } });

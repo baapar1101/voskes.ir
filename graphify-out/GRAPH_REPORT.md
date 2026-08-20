@@ -1,7 +1,7 @@
 # Graph Report - voskes.ir  (2026-08-20)
 
 ## Corpus Check
-- 275 files · ~13,813,129 words
+- 275 files · ~13,813,181 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -10,7 +10,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `82f47450`
+- Built from commit: `5a14d1bc`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -76,7 +76,7 @@
 - bodyDescription
 - composition
 - heading
-- jsonLd
+- additives
 - ogTitle
 - $schema
 - sliderNextLabel
@@ -113,7 +113,7 @@ Nodes (7): ./partials/cookie-banner.html?raw, ./partials/cookiebox.css?raw, ./pa
 
 ### Community 1 - "properties"
 Cohesion: 0.12
-Nodes (17): anyOf, type, anyOf, anyOf, anyOf, type, properties, additives (+9 more)
+Nodes (17): type, anyOf, anyOf, anyOf, anyOf, type, properties, canonical (+9 more)
 
 ### Community 2 - "content.d.ts"
 Cohesion: 0.06
@@ -311,7 +311,7 @@ Nodes (3): Local preview, Reproduce uncommitted artifacts, Run the server
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `properties` connect `properties` to `composition`, `heading`, `jsonLd`, `ogTitle`, `$schema`, `required`, `sliderNextLabel`, `sliderPrevLabel`, `required`, `slug`, `properties`, `analyticalComponents`, `available`, `bodyDescription`?**
+- **Why does `properties` connect `properties` to `composition`, `heading`, `additives`, `ogTitle`, `$schema`, `required`, `sliderNextLabel`, `sliderPrevLabel`, `required`, `slug`, `properties`, `analyticalComponents`, `available`, `bodyDescription`?**
   _High betweenness centrality (0.012) - this node is a cross-community bridge._
 - **Why does `required` connect `required` to `required`?**
   _High betweenness centrality (0.007) - this node is a cross-community bridge._
