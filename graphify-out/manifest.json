@@ -1,13 +1,13 @@
 {
   ".astro/collections/blog.schema.json": {
-    "mtime": 1787218877.4271402,
-    "seen": 1787218882.873291,
+    "mtime": 1787219320.2661824,
+    "seen": 1787219322.891974,
     "ast_hash": "0adfe8b5d028e8cbe4e38027e3b67a58",
     "semantic_hash": ""
   },
   ".astro/collections/products.schema.json": {
-    "mtime": 1787218877.4286485,
-    "seen": 1787218882.8732991,
+    "mtime": 1787219320.2672212,
+    "seen": 1787219322.89198,
     "ast_hash": "1d759ba14a4f09277df328bd28491fd3",
     "semantic_hash": ""
   },
@@ -24,14 +24,14 @@
     "semantic_hash": "8aeea624d36ca2b4c7d0e0748b76ba28"
   },
   ".astro/content.d.ts": {
-    "mtime": 1787218877.4685433,
-    "seen": 1787218882.8735363,
+    "mtime": 1787219320.3143246,
+    "seen": 1787219322.8924541,
     "ast_hash": "8cf71cf85dee6905031a1545941836e9",
     "semantic_hash": ""
   },
   ".astro/types.d.ts": {
-    "mtime": 1787218877.4685433,
-    "seen": 1787218882.8735383,
+    "mtime": 1787219320.3145769,
+    "seen": 1787219322.8924563,
     "ast_hash": "f3d48b2aa569815a445d3509aa161559",
     "semantic_hash": ""
   },
@@ -102,9 +102,9 @@
     "semantic_hash": "cb4593edd845089c1cfe1e6460296a4a"
   },
   "public/js/modules/slider.mjs": {
-    "mtime": 1787218855.3830414,
-    "seen": 1787218882.8748672,
-    "ast_hash": "7b429a135c115eb45f66cb6412eea680",
+    "mtime": 1787219241.9377408,
+    "seen": 1787219322.8935833,
+    "ast_hash": "0b32d4cae930656dee200aabb690518f",
     "semantic_hash": ""
   },
   "public/js/modules/tracker.mjs": {
@@ -4626,9 +4626,9 @@
     "semantic_hash": ""
   },
   "public/en/blog.html": {
-    "mtime": 1787218868.0107293,
-    "seen": 1787218882.8829942,
-    "ast_hash": "e270357caca911701e43c135d81b7865",
+    "mtime": 1787218916.3075552,
+    "seen": 1787219322.8989534,
+    "ast_hash": "cd971ecb0b544ba1307e9c08cdfb0a91",
     "semantic_hash": ""
   },
   "public/en/blog/caring.html": {
@@ -4644,15 +4644,15 @@
     "semantic_hash": ""
   },
   "public/en/blog/complete-dry-food.html": {
-    "mtime": 1787218868.2748861,
-    "seen": 1787218882.883,
-    "ast_hash": "dced3d26f855d1cccbed694dcc9407ab",
+    "mtime": 1787218916.4037168,
+    "seen": 1787219322.8991163,
+    "ast_hash": "3803c073adf33b5d3afeba4bca46b4da",
     "semantic_hash": ""
   },
   "public/en/blog/complete-wet-food.html": {
-    "mtime": 1787218868.362797,
-    "seen": 1787218882.883001,
-    "ast_hash": "1b62776fd7b40347e131f0b35ccda8f5",
+    "mtime": 1787218916.4892178,
+    "seen": 1787219322.8991182,
+    "ast_hash": "435925d68dab6a7ecdde00718b65c19d",
     "semantic_hash": ""
   },
   "public/en/blog/creams.html": {

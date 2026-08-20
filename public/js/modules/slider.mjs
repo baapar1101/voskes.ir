@@ -15,7 +15,10 @@ export function init() {
 		const gaps = values(element, 'gap');
 
 		const options = {
-			direction: document.documentElement.dir === 'rtl' ? 'rtl' : 'ltr',
+			// Keep the track's physical coordinate system LTR. The page is RTL,
+			// but Glide's RTL transformer applies the opposite translation and
+			// places the initial slide outside the clipped track.
+			direction: 'ltr',
 			hoverpause: true,
 			gap: Number(gaps[0] || 0),
 			type: 'carousel',
