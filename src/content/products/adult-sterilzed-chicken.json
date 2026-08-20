@@ -27,14 +27,14 @@
 		"value": "۲ کیلوگرم | ۷ کیلوگرم"
 	},
 	"ctaHref": "https://www.mypetfoodshop.com/products/8711242015364",
-	"composition": "dried chicken (16%), rice, dried salmon, peas, dried potatoes, animal fat, beet pulp, minerals, hydrolyzed chicken protein, vegetable fiber, brewer's yeast, fish oil, psyllium husk, collagen, glucosamine, chondroitin sulphate, g.o.s, m.o.s., f.o.s., β-glucans, dried plants (rosmarinus sp. curcuma sp., eugenia sp.).",
-	"analyticalComponents": "33% crude protein - 12,5% crude oils and fats - 2,5% crude fibres - 7,7% crude ash - 1,45% calicum - 1,15% phosphore",
+	"composition": "مرغ خشک (16%)، برنج، سالمون خشک، نخود فرنگی، سیب زمینی خشک، چربی حیوانی، تفاله چغندر، مواد معدنی، پروتئین مرغ هیدرولیز شده، فیبر گیاهی، مخمر آبجو، روغن ماهی، پوسته پسیلیوم، کلاژن، گلوکزامین، کندرویتین سولفات، m.o.s.، m.o.s. گیاهان خشک شده (rosmarinus sp. curcuma sp.، eugenia sp.).",
+	"analyticalComponents": "33٪ پروتئین خام - 12.5٪ روغن خام و چربی - 2.5٪ الیاف خام - 7.7٪ خاکستر خام - 1.45٪ کلسیم - 1.15٪ فسفر",
 	"additives": null,
 	"benefits": [
 		{
 			"icon": "/uploads/icon/icon-en-weight_management-icon-130-9.png",
 			"iconAlt": "Gewichtsmanagement",
-			"description": "Weight management"
+			"description": "مدیریت وزن"
 		},
 		{
 			"icon": "/uploads/icon/icon-en-strong_immunesystem-icon-130-8.png",
