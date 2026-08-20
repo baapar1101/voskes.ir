@@ -13,6 +13,7 @@ export default defineConfig({
       allowedHosts: [
         'voskes.ir',
         'www.voskes.ir',
+        'dev.voskes.ir'
       ],
     },
   },
