@@ -1,1 +1,52 @@
-import e from"../third_party/glide.mjs";import*as t from"./lazyload.mjs";export function init(){document.querySelectorAll("[data-js-slide]").forEach((t=>{let a,p,r,o,s,i=t.id,l={direction:"rtl",hoverpause:!0,gap:0,type:"carousel",perTouch:5,perSwipe:5,peek:{before:0,after:0}};t.dataset.gap&&(s=t.dataset.gap.split(","),l.gap=t.dataset.gap),t.dataset.autoplay&&(l.autoplay=t.dataset.autoplay),t.dataset.break&&(p=t.dataset.break.split(",")),t.dataset.perView&&(a=t.dataset.perView.split(","),l.perView=a[0]),t.dataset.peekBefore&&(r=t.dataset.peekBefore.split(","),l.peek.before=r[0]),t.dataset.peekAfter&&(o=t.dataset.peekAfter.split(","),l.peek.after=o[0]),p&&p.length>0&&(l.breakpoints={},p.forEach(((e,t)=>{l.breakpoints[e]={},l.breakpoints[e].peek={before:0,after:0},a&&a.length>1&&(l.breakpoints[e].perView=a[t+1]),r&&r.length>1&&(l.breakpoints[e].peek.before=r[t+1]),o&&o.length>1&&(l.breakpoints[e].peek.after=o[t+1]),s&&s.before.length>1&&(l.breakpoints[e].gap=s[t+1])}))),new e(`#${i}`,l).mount()})),t.initLazyLoad()}
+import Glide from '../third_party/glide.mjs';
+import * as lazyload from './lazyload.mjs';
+
+function values(element, name) {
+	const value = element.dataset[name];
+	return value ? value.split(',').map((item) => item.trim()) : [];
+}
+
+export function init() {
+	document.querySelectorAll('[data-js-slide]').forEach((element) => {
+		const perView = values(element, 'perView');
+		const breaks = values(element, 'break');
+		const peekBefore = values(element, 'peekBefore');
+		const peekAfter = values(element, 'peekAfter');
+		const gaps = values(element, 'gap');
+
+		const options = {
+			direction: document.documentElement.dir === 'rtl' ? 'rtl' : 'ltr',
+			hoverpause: true,
+			gap: Number(gaps[0] || 0),
+			type: 'carousel',
+			perTouch: 5,
+			perSwipe: 5,
+			peek: { before: Number(peekBefore[0] || 0), after: Number(peekAfter[0] || 0) },
+			perView: Number(perView[0] || 1),
+		};
+
+		if (element.dataset.autoplay) options.autoplay = Number(element.dataset.autoplay);
+		if (breaks.length) {
+			options.breakpoints = {};
+			breaks.forEach((breakpoint, index) => {
+				options.breakpoints[breakpoint] = {
+					perView: Number(perView[index + 1] || perView[0] || 1),
+					gap: Number(gaps[index + 1] || gaps[0] || 0),
+					peek: {
+						before: Number(peekBefore[index + 1] || peekBefore[0] || 0),
+						after: Number(peekAfter[index + 1] || peekAfter[0] || 0),
+					},
+				};
+			});
+		}
+
+		if (!element.id) element.id = `glide-${Math.random().toString(36).slice(2)}`;
+		const track = element.querySelector('[data-glide-el="track"]');
+		const slides = track?.querySelector('.glide__slides');
+		if (!track || !slides || slides.children.length < 2) return;
+
+		new Glide(`#${element.id}`, options).mount();
+	});
+
+	lazyload.initLazyLoad();
+}

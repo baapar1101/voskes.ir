@@ -1,16 +1,16 @@
-# Graph Report - voskes.ir  (2026-08-20)
+# Graph Report - voskes.ir  (2026-08-19)
 
 ## Corpus Check
-- 274 files · ~13,525,353 words
+- 273 files · ~11,596,195 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 673 nodes · 739 edges · 73 communities (55 shown, 18 thin omitted)
+- 670 nodes · 734 edges · 74 communities (56 shown, 18 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 10 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `5efddcfc`
+- Built from commit: `ccc44443`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -49,7 +49,7 @@
 - login.astro
 - privacy.astro
 - cookies.js
-- ctaHref
+- expands.mjs
 - parity-check.mjs
 - static-server.mjs
 - What You Must Do When Invoked
@@ -76,12 +76,13 @@
 - bodyDescription
 - composition
 - heading
-- sku
 - ogTitle
-- title
+- $schema
 - sliderNextLabel
+- sliderPrevLabel
 - slug
 - extraction-spec.md
+- analyticalComponents
 
 ## God Nodes (most connected - your core abstractions)
 1. `required` - 22 edges
@@ -104,23 +105,23 @@
 ## Import Cycles
 - None detected.
 
-## Communities (73 total, 18 thin omitted)
+## Communities (74 total, 18 thin omitted)
 
 ### Community 0 - "Base.astro"
-Cohesion: 0.16
-Nodes (7): ./partials/cookie-banner.html?raw, ./partials/cookiebox.css?raw, ./partials/footer.html?raw, ./partials/header.html?raw, ./partials/root-vars.css?raw, ./partials/utility-colors.css?raw, products
+Cohesion: 0.18
+Nodes (6): ./partials/cookie-banner.html?raw, ./partials/cookiebox.css?raw, ./partials/footer.html?raw, ./partials/header.html?raw, ./partials/root-vars.css?raw, ./partials/utility-colors.css?raw
 
 ### Community 1 - "properties"
 Cohesion: 0.12
-Nodes (17): anyOf, type, anyOf, anyOf, anyOf, type, properties, analyticalComponents (+9 more)
+Nodes (17): type, anyOf, anyOf, anyOf, anyOf, type, properties, canonical (+9 more)
 
 ### Community 2 - "content.d.ts"
 Cohesion: 0.06
 Nodes (28): AllValuesOf, astro:content, CollectionEntry, CollectionKey, ContentConfig, DataEntryMap, ExtractCollectionFilterType, ExtractDataType (+20 more)
 
 ### Community 3 - "app.min.js"
-Cohesion: 0.08
-Nodes (30): bootstrapImports(), createCookie(), initTextfade(), textFade(), ./modules/animatecss.mjs, ./modules/dealers.mjs, expandsKeyDownHandler(), initExpands() (+22 more)
+Cohesion: 0.09
+Nodes (23): bootstrapImports(), createCookie(), initTextfade(), textFade(), ./modules/animatecss.mjs, ./modules/dealers.mjs, initLazyBackgroundImageObserver(), initLazyBGvariablesObserver() (+15 more)
 
 ### Community 4 - "wiaSubmenu"
 Cohesion: 0.07
@@ -238,6 +239,10 @@ Nodes (7): ./_privacy.content.html?raw, ./_privacy.cookie.html?raw, ./_privacy.c
 Cohesion: 0.67
 Nodes (6): acceptAllCookies(), acceptSelectedCookies(), closeCookieNotice(), createCookie(), openCookieNotice(), rejectAllCookies()
 
+### Community 34 - "expands.mjs"
+Cohesion: 0.73
+Nodes (5): expandsKeyDownHandler(), initExpands(), setMaxHeight(), setMaxHeightClose(), setMaxHeightOpen()
+
 ### Community 35 - "parity-check.mjs"
 Cohesion: 0.67
 Nodes (3): check(), normalize(), routes
@@ -303,24 +308,24 @@ Cohesion: 0.50
 Nodes (3): Local preview, Reproduce uncommitted artifacts, Run the server
 
 ## Knowledge Gaps
-- **370 isolated node(s):** `$schema`, `type`, `type`, `type`, `type` (+365 more)
+- **369 isolated node(s):** `$schema`, `type`, `type`, `type`, `type` (+364 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **18 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `properties` connect `properties` to `composition`, `heading`, `ctaHref`, `ogTitle`, `sku`, `required`, `sliderNextLabel`, `slug`, `required`, `title`, `properties`, `additives`, `available`, `bodyDescription`?**
+- **Why does `properties` connect `properties` to `composition`, `heading`, `ogTitle`, `$schema`, `required`, `sliderNextLabel`, `sliderPrevLabel`, `required`, `slug`, `analyticalComponents`, `properties`, `additives`, `available`, `bodyDescription`?**
   _High betweenness centrality (0.012) - this node is a cross-community bridge._
 - **Why does `required` connect `required` to `required`?**
   _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **What connects `$schema`, `type`, `type` to the rest of the system?**
-  _370 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _369 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `properties` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
 - **Should `content.d.ts` be split into smaller, more focused modules?**
   _Cohesion score 0.06060606060606061 - nodes in this community are weakly interconnected._
 - **Should `app.min.js` be split into smaller, more focused modules?**
-  _Cohesion score 0.07564102564102564 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08522727272727272 - nodes in this community are weakly interconnected._
 - **Should `wiaSubmenu` be split into smaller, more focused modules?**
   _Cohesion score 0.06659619450317125 - nodes in this community are weakly interconnected._

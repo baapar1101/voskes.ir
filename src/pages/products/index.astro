@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const products = (await getCollection('products')).sort((a, b) =>
+	a.data.title.localeCompare(b.data.title, 'fa'),
+);
+---
+
+<Base
+	title="محصولات"
+	description="محصولات و خوراکی‌های کیش"
+	canonical="/products"
+	bodyClass="Products ProductsIndex"
+>
+	<div class="section section--none section--padding">
+		<div class="san-container">
+			<div class="san-col" data-span="12">
+				<h1>محصولات</h1>
+				<div class="products-grid">
+					{products.map((product) => (
+						<a class="product-card__link" href={`/products/${product.data.slug}`}>
+							<article class="product-card">
+								{product.data.images?.[0] && (
+									<img
+										class="obj--contain"
+										loading="lazy"
+										decoding="async"
+										src={product.data.images[0].src}
+										alt={product.data.images[0].alt}
+									/>
+								)}
+								<h2>{product.data.heading || product.data.title}</h2>
+							</article>
+						</a>
+					))}
+				</div>
+			</div>
+		</div>
+	</div>
+</Base>
+
+<style>
+	.products-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+		gap: 30px;
+	}
+
+	.product-card {
+		height: 100%;
+		padding: 20px;
+		background: #fff;
+		text-align: center;
+	}
+
+	.product-card img {
+		display: block;
+		width: 100%;
+		aspect-ratio: 1;
+		object-fit: contain;
+	}
+
+	.product-card h2 {
+		margin: 15px 0 0;
+		font-size: 1.8rem;
+	}
+</style>
