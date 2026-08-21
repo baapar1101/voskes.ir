@@ -17,19 +17,6 @@
       "source_location": "L1"
     },
     {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem",
-      "label": "wiaMenuItem",
-      "_callable": true,
-      "_callable_class": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": "wiamenuitem",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
       "id": "astro_content_d_allvaluesof",
       "label": "AllValuesOf",
       "_callable": true,
@@ -342,6 +329,19 @@
       "source_location": "L2"
     },
     {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem",
+      "label": "wiaMenuItem",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": "wiamenuitem",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
       "id": "public_js_modules_wiasubmenu_wiamegamenu",
       "label": "wiaMegamenu",
       "_callable": true,
@@ -510,114 +510,6 @@
       "file_type": "code",
       "norm_label": ".setfocustopreviousitem()",
       "source_file": "public/js/modules/wiamenu.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_constructor",
-      "label": ".constructor()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".constructor()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_handleblur",
-      "label": ".handleBlur()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".handleblur()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlechildblur",
-      "label": ".handleChildBlur()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".handlechildblur()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_handleclick",
-      "label": ".handleClick()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".handleclick()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlekeydown",
-      "label": ".handleKeydown()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".handlekeydown()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlemouseout",
-      "label": ".handleMouseout()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".handlemouseout()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlemouseover",
-      "label": ".handleMouseover()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".handlemouseover()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_init",
-      "label": ".init()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".init()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem_wiamenuitem_setexpanded",
-      "label": ".setExpanded()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": ".setexpanded()",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
       "source_location": "L1"
     },
     {
@@ -1341,18 +1233,6 @@
       "source_location": "L1"
     },
     {
-      "id": "public_js_modules_pagination_categoryforpath",
-      "label": "categoryForPath()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "pagination.mjs",
-      "file_type": "code",
-      "norm_label": "categoryforpath()",
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L28"
-    },
-    {
       "id": "public_js_modules_pagination_loadpagefromstore",
       "label": "loadPageFromStore()",
       "_callable": true,
@@ -1362,7 +1242,7 @@
       "file_type": "code",
       "norm_label": "loadpagefromstore()",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L46"
+      "source_location": "L14"
     },
     {
       "id": "public_js_modules_pagination_updatepagination",
@@ -1374,7 +1254,7 @@
       "file_type": "code",
       "norm_label": "updatepagination()",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L35"
+      "source_location": "L3"
     },
     {
       "id": "scripts_parity_check_check",
@@ -1399,6 +1279,114 @@
       "norm_label": "normalize()",
       "source_file": "scripts/parity-check.mjs",
       "source_location": "L4"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_constructor",
+      "label": ".constructor()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".constructor()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_handleblur",
+      "label": ".handleBlur()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".handleblur()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlechildblur",
+      "label": ".handleChildBlur()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".handlechildblur()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_handleclick",
+      "label": ".handleClick()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".handleclick()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlekeydown",
+      "label": ".handleKeydown()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".handlekeydown()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlemouseout",
+      "label": ".handleMouseout()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".handlemouseout()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_handlemouseover",
+      "label": ".handleMouseover()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".handlemouseover()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_init",
+      "label": ".init()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".init()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem_wiamenuitem_setexpanded",
+      "label": ".setExpanded()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": ".setexpanded()",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
+      "source_location": "L1"
     },
     {
       "id": "public_js_modules_wiasubmenu_wiamegamenu_checkerrors",
@@ -2217,17 +2205,6 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_available_anyof",
-      "label": "anyOf",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "anyof",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L91"
-    },
-    {
       "id": "astro_collections_products_schema_canonical_type",
       "label": "type",
       "_origin": "ast",
@@ -2237,6 +2214,17 @@
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L64"
+    },
+    {
+      "id": "astro_collections_products_schema_ctahref_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L113"
     },
     {
       "id": "astro_collections_products_schema_extrahtml_anyof",
@@ -2294,17 +2282,6 @@
       "source_location": "L4"
     },
     {
-      "id": "astro_collections_products_schema_properties_available",
-      "label": "available",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "available",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L90"
-    },
-    {
       "id": "astro_collections_products_schema_properties_canonical",
       "label": "canonical",
       "_origin": "ast",
@@ -2314,6 +2291,17 @@
       "norm_label": "canonical",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L63"
+    },
+    {
+      "id": "astro_collections_products_schema_properties_ctahref",
+      "label": "ctaHref",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "ctahref",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L112"
     },
     {
       "id": "astro_collections_products_schema_properties_extrahtml",
@@ -2360,29 +2348,40 @@
       "source_location": "L60"
     },
     {
-      "id": "astro_collections_products_schema_properties_schema",
-      "label": "$schema",
+      "id": "astro_collections_products_schema_properties_sku",
+      "label": "sku",
       "_origin": "ast",
       "community": 1,
       "community_name": "properties",
       "file_type": "code",
-      "norm_label": "$schema",
+      "norm_label": "sku",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L198"
+      "source_location": "L8"
     },
     {
-      "id": "astro_collections_products_schema_properties_sliderprevlabel",
-      "label": "sliderPrevLabel",
+      "id": "astro_collections_products_schema_properties_title",
+      "label": "title",
       "_origin": "ast",
       "community": 1,
       "community_name": "properties",
       "file_type": "code",
-      "norm_label": "sliderprevlabel",
+      "norm_label": "title",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L84"
+      "source_location": "L38"
     },
     {
-      "id": "astro_collections_products_schema_schema_type",
+      "id": "astro_collections_products_schema_sku_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "astro_collections_products_schema_title_type",
       "label": "type",
       "_origin": "ast",
       "community": 1,
@@ -2390,18 +2389,7 @@
       "file_type": "code",
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L199"
-    },
-    {
-      "id": "astro_collections_products_schema_sliderprevlabel_type",
-      "label": "type",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "type",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L85"
+      "source_location": "L39"
     },
     {
       "id": "astro_collections_blog_schema",
@@ -2743,28 +2731,6 @@
       "norm_label": "ogimage",
       "source_file": ".astro/collections/blog.schema.json",
       "source_location": "L40"
-    },
-    {
-      "id": "public_js_modules_wiamenu",
-      "label": "wiamenu.mjs",
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": "wiamenu.mjs",
-      "source_file": "public/js/modules/wiamenu.mjs",
-      "source_location": "L1"
-    },
-    {
-      "id": "public_js_modules_wiamenuitem",
-      "label": "wiamenuitem.mjs",
-      "_origin": "ast",
-      "community": 11,
-      "community_name": "wiaMenu",
-      "file_type": "code",
-      "norm_label": "wiamenuitem.mjs",
-      "source_file": "public/js/modules/wiamenuitem.mjs",
-      "source_location": "L1"
     },
     {
       "id": "public_js_modules_product_filters",
@@ -4857,17 +4823,6 @@
       "source_location": "L1"
     },
     {
-      "id": "public_js_modules_pagination_cat_slugs",
-      "label": "CAT_SLUGS",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "pagination.mjs",
-      "file_type": "code",
-      "norm_label": "cat_slugs",
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L3"
-    },
-    {
       "id": "public_js_modules_pagination_page",
       "label": "page",
       "_origin": "ast",
@@ -4876,7 +4831,7 @@
       "file_type": "code",
       "norm_label": "page",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L72"
+      "source_location": "L34"
     },
     {
       "id": "scripts_parity_check",
@@ -4964,6 +4919,28 @@
       "file_type": "code",
       "norm_label": "content-assets.mjs",
       "source_file": ".astro/content-assets.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenu",
+      "label": "wiamenu.mjs",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": "wiamenu.mjs",
+      "source_file": "public/js/modules/wiamenu.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_js_modules_wiamenuitem",
+      "label": "wiamenuitem.mjs",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "wiaSubmenu",
+      "file_type": "code",
+      "norm_label": "wiamenuitem.mjs",
+      "source_file": "public/js/modules/wiamenuitem.mjs",
       "source_location": "L1"
     },
     {
@@ -7107,26 +7084,26 @@
       "source_location": "L132"
     },
     {
-      "id": "astro_collections_products_schema_ctahref_anyof",
+      "id": "astro_collections_products_schema_available_anyof",
       "label": "anyOf",
       "_origin": "ast",
       "community": 62,
-      "community_name": "ctaHref",
+      "community_name": "available",
       "file_type": "code",
       "norm_label": "anyof",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L113"
+      "source_location": "L91"
     },
     {
-      "id": "astro_collections_products_schema_properties_ctahref",
-      "label": "ctaHref",
+      "id": "astro_collections_products_schema_properties_available",
+      "label": "available",
       "_origin": "ast",
       "community": 62,
-      "community_name": "ctaHref",
+      "community_name": "available",
       "file_type": "code",
-      "norm_label": "ctahref",
+      "norm_label": "available",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L112"
+      "source_location": "L90"
     },
     {
       "id": "astro_collections_products_schema_bodydescription_anyof",
@@ -7239,26 +7216,26 @@
       "source_location": "L57"
     },
     {
-      "id": "astro_collections_products_schema_properties_sku",
-      "label": "sku",
+      "id": "astro_collections_products_schema_properties_schema",
+      "label": "$schema",
       "_origin": "ast",
       "community": 68,
-      "community_name": "sku",
+      "community_name": "$schema",
       "file_type": "code",
-      "norm_label": "sku",
+      "norm_label": "$schema",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L8"
+      "source_location": "L198"
     },
     {
-      "id": "astro_collections_products_schema_sku_anyof",
-      "label": "anyOf",
+      "id": "astro_collections_products_schema_schema_type",
+      "label": "type",
       "_origin": "ast",
       "community": 68,
-      "community_name": "sku",
+      "community_name": "$schema",
       "file_type": "code",
-      "norm_label": "anyof",
+      "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L9"
+      "source_location": "L199"
     },
     {
       "id": "astro_collections_products_schema_properties_slidernextlabel",
@@ -7294,26 +7271,26 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_properties_title",
-      "label": "title",
+      "id": "astro_collections_products_schema_properties_sliderprevlabel",
+      "label": "sliderPrevLabel",
       "_origin": "ast",
       "community": 70,
-      "community_name": "title",
+      "community_name": "sliderPrevLabel",
       "file_type": "code",
-      "norm_label": "title",
+      "norm_label": "sliderprevlabel",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L38"
+      "source_location": "L84"
     },
     {
-      "id": "astro_collections_products_schema_title_type",
+      "id": "astro_collections_products_schema_sliderprevlabel_type",
       "label": "type",
       "_origin": "ast",
       "community": 70,
-      "community_name": "title",
+      "community_name": "sliderPrevLabel",
       "file_type": "code",
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L39"
+      "source_location": "L85"
     },
     {
       "id": "astro_collections_products_schema_properties_slug",
@@ -7936,18 +7913,6 @@
       "context": "call",
       "source_file": "public/js/modules/infinite_scroll.mjs",
       "source_location": "L1",
-      "weight": 1.0
-    },
-    {
-      "source": "public_js_modules_pagination_loadpagefromstore",
-      "target": "public_js_modules_pagination_categoryforpath",
-      "relation": "calls",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "context": "call",
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L56",
       "weight": 1.0
     },
     {
@@ -12092,24 +12057,13 @@
     },
     {
       "source": "public_js_modules_pagination",
-      "target": "public_js_modules_pagination_categoryforpath",
+      "target": "public_js_modules_pagination_loadpagefromstore",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L28",
-      "weight": 1.0
-    },
-    {
-      "source": "public_js_modules_pagination",
-      "target": "public_js_modules_pagination_cat_slugs",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L3",
+      "source_location": "L14",
       "weight": 1.0
     },
     {
@@ -12120,18 +12074,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L35",
-      "weight": 1.0
-    },
-    {
-      "source": "public_js_modules_pagination",
-      "target": "public_js_modules_pagination_loadpagefromstore",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L46",
+      "source_location": "L3",
       "weight": 1.0
     },
     {
@@ -12142,7 +12085,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L72",
+      "source_location": "L34",
       "weight": 1.0
     },
     {
@@ -15742,5 +15685,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4eab6f3ba5d3bbaaf033a4bfd969372203f67efd"
+  "built_at_commit": "5a14d1bcbfa6eb050b40b87319f054b22c1d7965"
 }
