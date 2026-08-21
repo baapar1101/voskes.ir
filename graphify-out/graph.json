@@ -1350,7 +1350,7 @@
       "file_type": "code",
       "norm_label": "categoryforpath()",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L28"
+      "source_location": "L42"
     },
     {
       "id": "public_js_modules_pagination_loadpagefromstore",
@@ -1362,7 +1362,19 @@
       "file_type": "code",
       "norm_label": "loadpagefromstore()",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L46"
+      "source_location": "L106"
+    },
+    {
+      "id": "public_js_modules_pagination_normalizepagecards",
+      "label": "normalizePageCards()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 34,
+      "community_name": "pagination.mjs",
+      "file_type": "code",
+      "norm_label": "normalizepagecards()",
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L3"
     },
     {
       "id": "public_js_modules_pagination_updatepagination",
@@ -1374,7 +1386,7 @@
       "file_type": "code",
       "norm_label": "updatepagination()",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L35"
+      "source_location": "L49"
     },
     {
       "id": "scripts_parity_check_check",
@@ -2239,6 +2251,17 @@
       "source_location": "L64"
     },
     {
+      "id": "astro_collections_products_schema_ctahref_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L113"
+    },
+    {
       "id": "astro_collections_products_schema_extrahtml_anyof",
       "label": "anyOf",
       "_origin": "ast",
@@ -2259,17 +2282,6 @@
       "norm_label": "anyof",
       "source_file": ".astro/collections/products.schema.json",
       "source_location": "L19"
-    },
-    {
-      "id": "astro_collections_products_schema_jsonld_anyof",
-      "label": "anyOf",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "anyof",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L29"
     },
     {
       "id": "astro_collections_products_schema_ogdescription_type",
@@ -2316,6 +2328,17 @@
       "source_location": "L63"
     },
     {
+      "id": "astro_collections_products_schema_properties_ctahref",
+      "label": "ctaHref",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "ctahref",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L112"
+    },
+    {
       "id": "astro_collections_products_schema_properties_extrahtml",
       "label": "extraHtml",
       "_origin": "ast",
@@ -2338,17 +2361,6 @@
       "source_location": "L18"
     },
     {
-      "id": "astro_collections_products_schema_properties_jsonld",
-      "label": "jsonLd",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "jsonld",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L28"
-    },
-    {
       "id": "astro_collections_products_schema_properties_ogdescription",
       "label": "ogDescription",
       "_origin": "ast",
@@ -2360,29 +2372,40 @@
       "source_location": "L60"
     },
     {
-      "id": "astro_collections_products_schema_properties_schema",
-      "label": "$schema",
+      "id": "astro_collections_products_schema_properties_sku",
+      "label": "sku",
       "_origin": "ast",
       "community": 1,
       "community_name": "properties",
       "file_type": "code",
-      "norm_label": "$schema",
+      "norm_label": "sku",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L198"
+      "source_location": "L8"
     },
     {
-      "id": "astro_collections_products_schema_properties_sliderprevlabel",
-      "label": "sliderPrevLabel",
+      "id": "astro_collections_products_schema_properties_title",
+      "label": "title",
       "_origin": "ast",
       "community": 1,
       "community_name": "properties",
       "file_type": "code",
-      "norm_label": "sliderprevlabel",
+      "norm_label": "title",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L84"
+      "source_location": "L38"
     },
     {
-      "id": "astro_collections_products_schema_schema_type",
+      "id": "astro_collections_products_schema_sku_anyof",
+      "label": "anyOf",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "properties",
+      "file_type": "code",
+      "norm_label": "anyof",
+      "source_file": ".astro/collections/products.schema.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "astro_collections_products_schema_title_type",
       "label": "type",
       "_origin": "ast",
       "community": 1,
@@ -2390,18 +2413,7 @@
       "file_type": "code",
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L199"
-    },
-    {
-      "id": "astro_collections_products_schema_sliderprevlabel_type",
-      "label": "type",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "properties",
-      "file_type": "code",
-      "norm_label": "type",
-      "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L85"
+      "source_location": "L39"
     },
     {
       "id": "astro_collections_blog_schema",
@@ -4865,7 +4877,7 @@
       "file_type": "code",
       "norm_label": "cat_slugs",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L3"
+      "source_location": "L17"
     },
     {
       "id": "public_js_modules_pagination_page",
@@ -4876,7 +4888,7 @@
       "file_type": "code",
       "norm_label": "page",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L72"
+      "source_location": "L134"
     },
     {
       "id": "scripts_parity_check",
@@ -7107,26 +7119,26 @@
       "source_location": "L132"
     },
     {
-      "id": "astro_collections_products_schema_ctahref_anyof",
+      "id": "astro_collections_products_schema_jsonld_anyof",
       "label": "anyOf",
       "_origin": "ast",
       "community": 62,
-      "community_name": "ctaHref",
+      "community_name": "jsonLd",
       "file_type": "code",
       "norm_label": "anyof",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L113"
+      "source_location": "L29"
     },
     {
-      "id": "astro_collections_products_schema_properties_ctahref",
-      "label": "ctaHref",
+      "id": "astro_collections_products_schema_properties_jsonld",
+      "label": "jsonLd",
       "_origin": "ast",
       "community": 62,
-      "community_name": "ctaHref",
+      "community_name": "jsonLd",
       "file_type": "code",
-      "norm_label": "ctahref",
+      "norm_label": "jsonld",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L112"
+      "source_location": "L28"
     },
     {
       "id": "astro_collections_products_schema_bodydescription_anyof",
@@ -7239,26 +7251,26 @@
       "source_location": "L57"
     },
     {
-      "id": "astro_collections_products_schema_properties_sku",
-      "label": "sku",
+      "id": "astro_collections_products_schema_properties_schema",
+      "label": "$schema",
       "_origin": "ast",
       "community": 68,
-      "community_name": "sku",
+      "community_name": "$schema",
       "file_type": "code",
-      "norm_label": "sku",
+      "norm_label": "$schema",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L8"
+      "source_location": "L198"
     },
     {
-      "id": "astro_collections_products_schema_sku_anyof",
-      "label": "anyOf",
+      "id": "astro_collections_products_schema_schema_type",
+      "label": "type",
       "_origin": "ast",
       "community": 68,
-      "community_name": "sku",
+      "community_name": "$schema",
       "file_type": "code",
-      "norm_label": "anyof",
+      "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L9"
+      "source_location": "L199"
     },
     {
       "id": "astro_collections_products_schema_properties_slidernextlabel",
@@ -7294,26 +7306,26 @@
       "source_location": "L1"
     },
     {
-      "id": "astro_collections_products_schema_properties_title",
-      "label": "title",
+      "id": "astro_collections_products_schema_properties_sliderprevlabel",
+      "label": "sliderPrevLabel",
       "_origin": "ast",
       "community": 70,
-      "community_name": "title",
+      "community_name": "sliderPrevLabel",
       "file_type": "code",
-      "norm_label": "title",
+      "norm_label": "sliderprevlabel",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L38"
+      "source_location": "L84"
     },
     {
-      "id": "astro_collections_products_schema_title_type",
+      "id": "astro_collections_products_schema_sliderprevlabel_type",
       "label": "type",
       "_origin": "ast",
       "community": 70,
-      "community_name": "title",
+      "community_name": "sliderPrevLabel",
       "file_type": "code",
       "norm_label": "type",
       "source_file": ".astro/collections/products.schema.json",
-      "source_location": "L39"
+      "source_location": "L85"
     },
     {
       "id": "astro_collections_products_schema_properties_slug",
@@ -7947,7 +7959,19 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L56",
+      "source_location": "L116",
+      "weight": 1.0
+    },
+    {
+      "source": "public_js_modules_pagination_loadpagefromstore",
+      "target": "public_js_modules_pagination_normalizepagecards",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L127",
       "weight": 1.0
     },
     {
@@ -12092,46 +12116,13 @@
     },
     {
       "source": "public_js_modules_pagination",
-      "target": "public_js_modules_pagination_categoryforpath",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L28",
-      "weight": 1.0
-    },
-    {
-      "source": "public_js_modules_pagination",
-      "target": "public_js_modules_pagination_cat_slugs",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L3",
-      "weight": 1.0
-    },
-    {
-      "source": "public_js_modules_pagination",
-      "target": "public_js_modules_pagination_updatepagination",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L35",
-      "weight": 1.0
-    },
-    {
-      "source": "public_js_modules_pagination",
       "target": "public_js_modules_pagination_loadpagefromstore",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L46",
+      "source_location": "L106",
       "weight": 1.0
     },
     {
@@ -12142,7 +12133,51 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "public/js/modules/pagination.mjs",
-      "source_location": "L72",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "public_js_modules_pagination",
+      "target": "public_js_modules_pagination_cat_slugs",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "public_js_modules_pagination",
+      "target": "public_js_modules_pagination_normalizepagecards",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "public_js_modules_pagination",
+      "target": "public_js_modules_pagination_categoryforpath",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "public_js_modules_pagination",
+      "target": "public_js_modules_pagination_updatepagination",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/js/modules/pagination.mjs",
+      "source_location": "L49",
       "weight": 1.0
     },
     {
@@ -15742,5 +15777,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4eab6f3ba5d3bbaaf033a4bfd969372203f67efd"
+  "built_at_commit": "483c0d9d94fbce2d2eabff89fa1634e91cecb2b0"
 }

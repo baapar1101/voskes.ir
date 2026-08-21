@@ -1,5 +1,19 @@
 const PAGE_SIZE = 18;
 
+function normalizePageCards(cards) {
+	cards.forEach((card) => {
+		card.classList.add('pagination-product-card');
+		const title = card.querySelector('h2');
+		if (title) {
+			title.style.fontFamily = '"Vazirmatn", sans-serif';
+			title.style.fontSize = '1.8rem';
+			title.style.fontWeight = '400';
+			title.style.lineHeight = '1.5';
+			title.style.margin = '15px 0 0';
+		}
+	});
+}
+
 const CAT_SLUGS = new Set([
 	'adult-complete-chicken', 'adult-complete-salmon', 'adult-sterilized-salmon',
 	'adult-sterilzed-chicken', 'biscuits-with-bonito', 'biscuits-with-chicken-and-catnip',
@@ -36,10 +50,56 @@ function updatePagination(currentPage) {
 	const pagination = document.querySelector('.pages');
 	if (!pagination) return;
 
-	pagination.querySelectorAll('a.pages__link').forEach((link) => {
-		const url = new URL(link.href, window.location.origin);
-		const page = Number(url.searchParams.get('p') || 1);
-		link.classList.toggle('pages__link--active', page === currentPage);
+	const pageUrl = (page) => {
+		const url = new URL(window.location.href);
+		if (page <= 1) url.searchParams.delete('p');
+		else url.searchParams.set('p', page);
+		url.hash = window.location.pathname === '/dog-treats' ? 'products-dog' : 'products-cat';
+		return `${url.pathname}${url.search}${url.hash}`;
+	};
+
+	pagination.querySelectorAll('.pages__link').forEach((link) => {
+		const label = link.textContent.trim();
+		if (/^\d+$/.test(label)) {
+			const page = Number(label);
+			link.classList.toggle('pages__link--active', page === currentPage);
+			if (page !== currentPage && link.tagName !== 'A') {
+				const anchor = document.createElement('a');
+				anchor.className = link.className.replace(/\s*pages__link--active\b/g, '');
+				anchor.href = pageUrl(page);
+				anchor.textContent = label;
+				link.replaceWith(anchor);
+			} else if (link.tagName === 'A') {
+				link.href = pageUrl(page);
+			}
+		}
+	});
+
+	pagination.querySelectorAll('.pages__link').forEach((link) => {
+		const icon = link.querySelector('i');
+		if (!icon) return;
+		const previous = icon.classList.contains('fa-angle-right');
+		const next = icon.classList.contains('fa-angle-left');
+		const target = previous ? currentPage - 1 : next ? currentPage + 1 : 0;
+		if (!target || target < 1) {
+			link.classList.add('pages__link--disabled');
+			if (link.tagName === 'A') {
+				const span = document.createElement('span');
+				span.className = link.className;
+				span.innerHTML = link.innerHTML;
+				link.replaceWith(span);
+			}
+		} else {
+			link.classList.remove('pages__link--disabled');
+			if (link.tagName !== 'A') {
+				const anchor = document.createElement('a');
+				anchor.className = link.className;
+				anchor.innerHTML = link.innerHTML;
+				link.replaceWith(anchor);
+				link = anchor;
+			}
+			link.href = pageUrl(target);
+		}
 	});
 }
 
@@ -63,7 +123,9 @@ async function loadPageFromStore(page) {
 		}
 		const pageCards = cards.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
 		if (!pageCards.length) return;
-		grid.replaceChildren(...pageCards.map((card) => card.cloneNode(true)));
+		const clonedCards = pageCards.map((card) => card.cloneNode(true));
+		normalizePageCards(clonedCards);
+		grid.replaceChildren(...clonedCards);
 	} catch {
 		// Keep the server-rendered first page if the store cannot be fetched.
 	}

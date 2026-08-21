@@ -1,16 +1,16 @@
 # Graph Report - voskes.ir  (2026-08-21)
 
 ## Corpus Check
-- 275 files · ~13,813,288 words
+- 275 files · ~13,813,482 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 679 nodes · 745 edges · 74 communities (56 shown, 18 thin omitted)
+- 680 nodes · 747 edges · 74 communities (56 shown, 18 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 10 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `4eab6f3b`
+- Built from commit: `483c0d9d`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -72,15 +72,15 @@
 - graphify reference: transcribe video and audio
 - Voskes.ir project graph
 - analyticalComponents
-- ctaHref
+- jsonLd
 - bodyDescription
 - composition
 - heading
 - additives
 - ogTitle
-- sku
+- $schema
 - sliderNextLabel
-- title
+- sliderPrevLabel
 - slug
 - extraction-spec.md
 
@@ -240,8 +240,8 @@ Cohesion: 0.67
 Nodes (6): acceptAllCookies(), acceptSelectedCookies(), closeCookieNotice(), createCookie(), openCookieNotice(), rejectAllCookies()
 
 ### Community 34 - "pagination.mjs"
-Cohesion: 0.40
-Nodes (4): CAT_SLUGS, categoryForPath(), loadPageFromStore(), page
+Cohesion: 0.38
+Nodes (5): CAT_SLUGS, categoryForPath(), loadPageFromStore(), normalizePageCards(), page
 
 ### Community 35 - "parity-check.mjs"
 Cohesion: 0.67
@@ -315,7 +315,7 @@ Nodes (3): Local preview, Reproduce uncommitted artifacts, Run the server
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `properties` connect `properties` to `composition`, `heading`, `additives`, `ogTitle`, `sku`, `required`, `sliderNextLabel`, `slug`, `required`, `title`, `properties`, `analyticalComponents`, `ctaHref`, `bodyDescription`?**
+- **Why does `properties` connect `properties` to `composition`, `heading`, `additives`, `ogTitle`, `$schema`, `required`, `sliderNextLabel`, `sliderPrevLabel`, `required`, `slug`, `properties`, `analyticalComponents`, `jsonLd`, `bodyDescription`?**
   _High betweenness centrality (0.012) - this node is a cross-community bridge._
 - **Why does `required` connect `required` to `required`?**
   _High betweenness centrality (0.007) - this node is a cross-community bridge._

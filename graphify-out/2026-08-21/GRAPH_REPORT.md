@@ -1,16 +1,16 @@
-# Graph Report - voskes.ir  (2026-08-20)
+# Graph Report - voskes.ir  (2026-08-21)
 
 ## Corpus Check
-- 275 files · ~13,813,181 words
+- 275 files · ~13,813,328 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 677 nodes · 742 edges · 74 communities (55 shown, 19 thin omitted)
+- 680 nodes · 747 edges · 74 communities (56 shown, 18 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 10 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `5a14d1bc`
+- Built from commit: `483c0d9d`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -72,15 +72,15 @@
 - graphify reference: transcribe video and audio
 - Voskes.ir project graph
 - analyticalComponents
-- available
+- ctaHref
 - bodyDescription
 - composition
 - heading
 - additives
 - ogTitle
-- $schema
+- sku
 - sliderNextLabel
-- sliderPrevLabel
+- title
 - slug
 - extraction-spec.md
 
@@ -105,7 +105,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (74 total, 19 thin omitted)
+## Communities (74 total, 18 thin omitted)
 
 ### Community 0 - "Base.astro"
 Cohesion: 0.16
@@ -113,7 +113,7 @@ Nodes (7): ./partials/cookie-banner.html?raw, ./partials/cookiebox.css?raw, ./pa
 
 ### Community 1 - "properties"
 Cohesion: 0.12
-Nodes (17): type, anyOf, anyOf, anyOf, anyOf, type, properties, canonical (+9 more)
+Nodes (17): anyOf, type, anyOf, anyOf, anyOf, type, properties, available (+9 more)
 
 ### Community 2 - "content.d.ts"
 Cohesion: 0.06
@@ -124,8 +124,8 @@ Cohesion: 0.08
 Nodes (30): bootstrapImports(), createCookie(), initTextfade(), textFade(), ./modules/animatecss.mjs, ./modules/dealers.mjs, expandsKeyDownHandler(), initExpands() (+22 more)
 
 ### Community 4 - "wiaSubmenu"
-Cohesion: 0.07
-Nodes (4): wiaMenuItem, wiaMegamenu, wiaSubmenu, wiaSubmenuItem
+Cohesion: 0.10
+Nodes (3): wiaMegamenu, wiaSubmenu, wiaSubmenuItem
 
 ### Community 5 - "required"
 Cohesion: 0.08
@@ -239,6 +239,10 @@ Nodes (7): ./_privacy.content.html?raw, ./_privacy.cookie.html?raw, ./_privacy.c
 Cohesion: 0.67
 Nodes (6): acceptAllCookies(), acceptSelectedCookies(), closeCookieNotice(), createCookie(), openCookieNotice(), rejectAllCookies()
 
+### Community 34 - "pagination.mjs"
+Cohesion: 0.38
+Nodes (5): CAT_SLUGS, categoryForPath(), loadPageFromStore(), normalizePageCards(), page
+
 ### Community 35 - "parity-check.mjs"
 Cohesion: 0.67
 Nodes (3): check(), normalize(), routes
@@ -304,19 +308,19 @@ Cohesion: 0.50
 Nodes (3): Local preview, Reproduce uncommitted artifacts, Run the server
 
 ## Knowledge Gaps
-- **371 isolated node(s):** `$schema`, `type`, `type`, `type`, `type` (+366 more)
+- **372 isolated node(s):** `$schema`, `type`, `type`, `type`, `type` (+367 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **19 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **18 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `properties` connect `properties` to `composition`, `heading`, `additives`, `ogTitle`, `$schema`, `required`, `sliderNextLabel`, `sliderPrevLabel`, `required`, `slug`, `properties`, `analyticalComponents`, `available`, `bodyDescription`?**
+- **Why does `properties` connect `properties` to `composition`, `heading`, `additives`, `ogTitle`, `sku`, `required`, `sliderNextLabel`, `slug`, `required`, `title`, `properties`, `analyticalComponents`, `ctaHref`, `bodyDescription`?**
   _High betweenness centrality (0.012) - this node is a cross-community bridge._
 - **Why does `required` connect `required` to `required`?**
   _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **What connects `$schema`, `type`, `type` to the rest of the system?**
-  _371 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _372 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `properties` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
 - **Should `content.d.ts` be split into smaller, more focused modules?**
@@ -324,4 +328,4 @@ _Questions this graph is uniquely positioned to answer:_
 - **Should `app.min.js` be split into smaller, more focused modules?**
   _Cohesion score 0.07564102564102564 - nodes in this community are weakly interconnected._
 - **Should `wiaSubmenu` be split into smaller, more focused modules?**
-  _Cohesion score 0.06659619450317125 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.09879032258064516 - nodes in this community are weakly interconnected._
