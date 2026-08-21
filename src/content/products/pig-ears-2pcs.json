@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 93372 9",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG EARS   2 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17705.png\",\n    \"sku\": \"17705\",\n    \"gtin13\": \"87 112 42 93372 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "گوش خوک | Voskes",
-	"heading": "PIG EARS  2 PIECES",
+	"heading": "گوش خوک",
 	"description": "گوش خوک تشویقی خوشمزه‌ای است تا سگتان را با آن نوازش کنید.",
 	"bodyDescription": "محصول جویدنی خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
 	"ogTitle": "گوش خوک | Voskes",

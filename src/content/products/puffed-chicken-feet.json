@@ -4,7 +4,7 @@
 	"gtin13": "8711242937987",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"پای مرغ پف کرده یک میان وعده خوشمزه و طبیعی است. از نظر بافت سخت نیستند و جویدن آنها آسان است.\",\n  \"name\": \"PUFFED CHICKEN FEET\",\n  \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17125.png\",\n  \"sku\": \"17125\",\n  \"gtin13\": \"8711242937987\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "پای مرغ پفکی | Voskes",
-	"heading": "PUFFED CHICKEN FEET",
+	"heading": "پای مرغ پفکی",
 	"description": "پای مرغ پفکی تشویقی طبیعی و خوشمزه سگ است.",
 	"bodyDescription": "پای مرغ پف کرده یک میان وعده خوشمزه و طبیعی است. از نظر بافت سخت نیستند و جویدن آنها آسان است.",
 	"ogTitle": "پای مرغ پفکی | Voskes",

@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 01369 8",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"گوش خشک خرگوش یک میان وعده خوشمزه و طبیعی است. ساختار سختی ندارند و جویدن آنها آسان است.\",\n  \"name\": \"RABBIT EARS\",\n  \"image\": \"/uploads/gdpetfood.com/original/19150-konijnenoren_900x900.png\",\n  \"sku\": \"19150\",\n  \"gtin13\": \"87 112 42 01369 8\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "گوش خرگوش | Voskes",
-	"heading": "RABBIT EARS",
+	"heading": "گوش خرگوش",
 	"description": "گوش خرگوش خشک‌شده خوراکی طبیعی و خوشمزه‌ای است؛ بافت آن سفت نیست و به‌راحتی جویده می‌شود.",
 	"bodyDescription": "گوش خشک خرگوش یک میان وعده خوشمزه و طبیعی است. ساختار سختی ندارند و جویدن آنها آسان است.",
 	"ogTitle": "گوش خرگوش | Voskes",

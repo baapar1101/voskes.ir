@@ -4,7 +4,7 @@
 	"gtin13": "8711242964594",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"سگ خود را با این مخلوط از بیسکویت های خوش طعم بد کنید.\",\n  \"name\": \"COOKIES MIX\",\n  \"image\": \"/uploads/gdpetfood.com/original/gs1_14149_koekjesmix.png\",\n  \"sku\": \"14149\",\n  \"gtin13\": \"8711242964594\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "مخلوط بیسکویت | Voskes",
-	"heading": "COOKIES MIX",
+	"heading": "مخلوط بیسکویت",
 	"description": "مخلوطی ترد از خوراکی‌های پاداش برای سگ شما؛ شامل انواع و اندازه‌های مختلف بیسکویت سگ.",
 	"bodyDescription": "سگ خود را با این مخلوط از بیسکویت های خوش طعم بد کنید.",
 	"ogTitle": "مخلوط بیسکویت | Voskes",

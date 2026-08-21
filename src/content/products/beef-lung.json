@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 93396 5",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"یک محصول جویدنی طبیعی بدون مواد افزودنی. جویدن را تشویق می کند و به سلامت دندان ها کمک می کند.\",\n  \"name\": \"BEEF LUNG\",\n  \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17717.png\",\n  \"sku\": \"17717\",\n  \"gtin13\": \"87 112 42 93396 5\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "شش گاو | Voskes",
-	"heading": "BEEF LUNG",
+	"heading": "شش گاو",
 	"description": "خوراکی جویدنی طبیعی بدون افزودنی. جویدن را تشویق می‌کند و به سلامت دندان‌ها کمک می‌کند.",
 	"bodyDescription": "یک محصول جویدنی طبیعی بدون مواد افزودنی. جویدن را تشویق می کند و به سلامت دندان ها کمک می کند.",
 	"ogTitle": "شش گاو | Voskes",

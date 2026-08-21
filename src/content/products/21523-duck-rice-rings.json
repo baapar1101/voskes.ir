@@ -5,10 +5,10 @@
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"سگ خود را با این حلقه های خوشمزه اردک و برنج Voskes شگفت زده کنید. این حلقه های خوشمزه به راحتی قابل هضم و کم چربی هستند. همچنین برای نژادهای کوچکتر مناسب است. میان وعده های دلپذیر ایده آل برای هم خانه ی تکان دهنده شما!\",\n  \"name\": \" Surprise your dog with these delicious Voskes Duck & Rice rings. These tasty rings are easily digestible & low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate ! \",\n  \"image\": \"/uploads/gdpetfood.com/gs1/gs1-21523_-_duck__rice_rings_400gr_-_gs1-gs1_packshot-2064-334.png?v=bU3XR2\",\n  \"sku\": \"21523\",\n  \"gtin13\": \"8711242018327\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "دمبل مرغ و برنج | Voskes",
 	"heading": "حلقه اردک و برنج",
-	"description": "Surprise your dog with these delicious Voskes Duck &amp; Rice rings. These tasty rings are easily digestible &amp; low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate !",
+	"description": "سگ خود را با این حلقه های خوشمزه اردک و برنج Voskes شگفت زده کنید. این حلقه های خوشمزه به راحتی قابل هضم و کم چربی هستند. همچنین برای نژادهای کوچکتر مناسب است. میان وعده های دلپذیر ایده آل برای هم خانه ی تکان دهنده شما!",
 	"bodyDescription": "سگ خود را با این حلقه های خوشمزه اردک و برنج Voskes شگفت زده کنید. این حلقه های خوشمزه به راحتی قابل هضم و کم چربی هستند. همچنین برای نژادهای کوچکتر مناسب است. میان وعده های دلپذیر ایده آل برای هم خانه ی تکان دهنده شما!",
 	"ogTitle": "دمبل مرغ و برنج | Voskes",
-	"ogDescription": "Surprise your dog with these delicious Voskes Duck &amp; Rice rings. These tasty rings are easily digestible &amp; low in fat. Also suitable for smaller breeds. Ideal pampering snacks for your wagging housemate !",
+	"ogDescription": "سگ خود را با این حلقه های خوشمزه اردک و برنج Voskes شگفت زده کنید. این حلقه های خوشمزه به راحتی قابل هضم و کم چربی هستند. همچنین برای نژادهای کوچکتر مناسب است. میان وعده های دلپذیر ایده آل برای هم خانه ی تکان دهنده شما!",
 	"canonical": "https://voskes.ir/products/21523-duck-rice-rings",
 	"images": [
 		{

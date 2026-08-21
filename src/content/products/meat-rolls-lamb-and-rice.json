@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 01457 2",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"رول گوشت خوشمزه از گوشت بره و برنج. یک میان وعده خوشمزه و سالم بین وعده های غذایی\",\n  \"name\": \"MEAT ROLLS   LAMB & RICE\",\n  \"image\": \"/uploads/gdpetfood.com/gs1/gs1-19670_-_vleesrollen_lamrijst_600gr-gs1_packshot-2064-95.png?v=bTTbPe\",\n  \"sku\": \"19670\",\n  \"gtin13\": \"87 112 42 01457 2\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "رول گوشت بره و برنج | Voskes",
-	"heading": "MEAT ROLLS  LAMB &amp; RICE",
+	"heading": "رول گوشت بره و برنج",
 	"description": "رول گوشت خوشمزه از بره و برنج.",
 	"bodyDescription": "رول گوشت خوشمزه از گوشت بره و برنج. یک میان وعده خوشمزه و سالم بین وعده های غذایی",
 	"ogTitle": "رول گوشت بره و برنج | Voskes",

@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 95729 9",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   10 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-14747-runder-oren-10st-1.png\",\n    \"sku\": \"14747\",\n    \"gtin13\": \"87 112 42 95729 9\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "گوش گاو | Voskes",
-	"heading": "گوش گاو  10 PIECES",
+	"heading": "گوش گاو",
 	"description": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
 	"bodyDescription": "گوش گاو خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
 	"ogTitle": "گوش گاو | Voskes",

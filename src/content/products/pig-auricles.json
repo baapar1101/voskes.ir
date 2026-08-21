@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 93620 1",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried chewing product without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"PIG AURICLES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-17339.png\",\n    \"sku\": \"17339\",\n    \"gtin13\": \"87 112 42 93620 1\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "لاله گوش خوک | Voskes",
-	"heading": "PIG AURICLES",
+	"heading": "لاله گوش خوک",
 	"description": "لاله گوش خوک خوراکی جویدنی طبیعی و خشک بدون افزودنی است؛ لذت جویدن فراوان و کمک به سلامت دندان.",
 	"bodyDescription": "محصول جویدنی خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
 	"ogTitle": "لاله گوش خوک | Voskes",

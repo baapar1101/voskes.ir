@@ -4,7 +4,7 @@
 	"gtin13": "8711242964723",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"Voskes Hearts Mix خوراکی های نرم و کوچکی به شکل قلب در ترکیبی از طعم های مختلف است. ایده آل برای پاداش دادن به سگ شما در طول آموزش و برای رفتار خوب. در یک سطل ذخیره سازی مناسب عرضه می شود.\",\n  \"name\": \"TRAINING TREATS   HEARTS MIX\",\n  \"image\": \"/uploads/gdpetfood.com/gs1/gs1-14160-gs1-gs1_packshot-2064-112.png?v=bTg16E\",\n  \"sku\": \"14160\",\n  \"gtin13\": \"8711242964723\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "تشویقی آموزشی؛ مخلوط قلب | Voskes",
-	"heading": "تشویقی آموزشی  HEARTS MIX",
+	"heading": "تشویقی آموزشی؛ مخلوط قلب",
 	"description": "مخلوط قلب Voskes؛ خوراکی‌های نرم و کوچک سگ با ترکیبی از طعم‌های گوناگون.",
 	"bodyDescription": "Voskes Hearts Mix خوراکی های نرم و کوچکی به شکل قلب در ترکیبی از طعم های مختلف است. ایده آل برای پاداش دادن به سگ شما در طول آموزش و برای رفتار خوب. در یک سطل ذخیره سازی مناسب عرضه می شود.",
 	"ogTitle": "تشویقی آموزشی؛ مخلوط قلب | Voskes",

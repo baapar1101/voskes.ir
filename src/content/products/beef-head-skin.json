@@ -4,7 +4,7 @@
 	"gtin13": "8711242939714",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \"\",\n    \"name\": \"BEEF HEAD SKIN\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_0-16548.png\",\n    \"sku\": \"16548\",\n    \"gtin13\": \"8711242939714\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "پوست سر گاو | Voskes",
-	"heading": "BEEF HEAD SKIN",
+	"heading": "پوست سر گاو",
 	"description": "برای جونده‌های سرسخت! محصولی جویدنی، طبیعی و فوق‌مقاوم بدون افزودنی که به سلامت دندان‌ها کمک می‌کند.",
 	"bodyDescription": null,
 	"ogTitle": "پوست سر گاو | Voskes",

@@ -1,13 +1,13 @@
 {
   ".astro/collections/blog.schema.json": {
-    "mtime": 1787306356.706474,
-    "seen": 1787306358.9858077,
+    "mtime": 1787306741.7334237,
+    "seen": 1787306743.8489254,
     "ast_hash": "0adfe8b5d028e8cbe4e38027e3b67a58",
     "semantic_hash": ""
   },
   ".astro/collections/products.schema.json": {
-    "mtime": 1787306356.7079866,
-    "seen": 1787306358.985813,
+    "mtime": 1787306741.7349377,
+    "seen": 1787306743.8489308,
     "ast_hash": "1d759ba14a4f09277df328bd28491fd3",
     "semantic_hash": ""
   },
@@ -24,14 +24,14 @@
     "semantic_hash": "8aeea624d36ca2b4c7d0e0748b76ba28"
   },
   ".astro/content.d.ts": {
-    "mtime": 1787306356.7381628,
-    "seen": 1787306358.986078,
+    "mtime": 1787306741.7696717,
+    "seen": 1787306743.8491733,
     "ast_hash": "8cf71cf85dee6905031a1545941836e9",
     "semantic_hash": ""
   },
   ".astro/types.d.ts": {
-    "mtime": 1787306356.7396743,
-    "seen": 1787306358.986079,
+    "mtime": 1787306741.7696717,
+    "seen": 1787306743.8491747,
     "ast_hash": "f3d48b2aa569815a445d3509aa161559",
     "semantic_hash": ""
   },

@@ -4,7 +4,7 @@
 	"gtin13": "87 112 42 93938 7",
 	"jsonLd": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Product\",\n      \"description\": \" Natural dried cow ears without additives. A lot of chewing pleasure which also helps to keep teeth healthy. \",\n    \"name\": \"COW EARS   WITH SHELF   20 PIECES\",\n    \"image\": \"/uploads/gdpetfood.com/original/gs1_16413_-_runderoren_met_pit_(promo)_20st.png\",\n    \"sku\": \"16413\",\n    \"gtin13\": \"87 112 42 93938 7\",\n    \"brand\": {\n      \"@type\": \"Brand\",\n      \"name\": \"Voskes\"\n    }\n  }",
 	"title": "گوش گاو با غضروف | Voskes",
-	"heading": "گوش گاو  WITH SHELF  20 PIECES",
+	"heading": "گوش گاو با غضروف",
 	"description": "گوش گاو خشک‌شده و طبیعی، بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها هم کمک می‌کند.",
 	"bodyDescription": "گوش گاو خشک‌شده طبیعی بدون افزودنی. لذت جویدن فراوان که به سلامت دندان‌ها نیز کمک می‌کند.",
 	"ogTitle": "گوش گاو با غضروف | Voskes",

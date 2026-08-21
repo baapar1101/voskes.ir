@@ -4,7 +4,7 @@
 	"gtin13": "8711242014800",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"میان وعده های خوشمزه گربه بر پایه مرغ برای لوس کردن گربه. مناسب برای بچه گربه ها و گربه های بالغ.\",\n  \"name\": \"CHICKEN STRIPS\",\n  \"image\": \"/uploads/gdpetfood.com/original/gs1_19971_chicken_strips.png\",\n  \"sku\": \"19971\",\n  \"gtin13\": \"8711242014800\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "نوارهای مرغ | Voskes",
-	"heading": "CHICKEN STRIPS",
+	"heading": "نوارهای مرغ",
 	"description": "نوارهای سینه مرغ Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
 	"bodyDescription": "میان وعده های خوشمزه گربه بر پایه مرغ برای لوس کردن گربه. مناسب برای بچه گربه ها و گربه های بالغ.",
 	"ogTitle": "نوارهای مرغ | Voskes",

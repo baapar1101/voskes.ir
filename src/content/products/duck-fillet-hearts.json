@@ -4,7 +4,7 @@
 	"gtin13": "8711242014862",
 	"jsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"description\": \"این میان وعده های گربه مبتنی بر اردک یک غذای واقعی برای گربه ها است. فیله اردک خوشمزه غنی شده با ماهی به شکل قلب زیبا. مناسب برای رشد بچه گربه ها و گربه های بالغ.\",\n  \"name\": \"DUCK FILLET HEARTS\",\n  \"image\": \"/uploads/gdpetfood.com/original/gs1_19974_duck_fillet_hearts.png\",\n  \"sku\": \"19974\",\n  \"gtin13\": \"8711242014862\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Voskes\"\n  }\n}",
 	"title": "قلب فیله اردک | Voskes",
-	"heading": "DUCK FILLET HEARTS",
+	"heading": "قلب فیله اردک",
 	"description": "قلب فیله اردک Voskes تشویقی نرم و خوشمزه گربه است؛ ایده‌آل برای میان‌وعده یا پاداش!",
 	"bodyDescription": "این میان وعده های گربه مبتنی بر اردک یک غذای واقعی برای گربه ها است. فیله اردک خوشمزه غنی شده با ماهی به شکل قلب زیبا. مناسب برای رشد بچه گربه ها و گربه های بالغ.",
 	"ogTitle": "قلب فیله اردک | Voskes",
